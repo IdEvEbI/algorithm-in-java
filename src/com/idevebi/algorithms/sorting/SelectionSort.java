@@ -6,6 +6,7 @@ import java.util.Arrays;
  * 选择排序
  * <p>
  * 排序思路：从前向后遍历数组，每次都选出最小值与第 i 位置元素交换
+ * 排序特点：原地 / 不稳定 / 最好 O(n^2) / 最坏 O(n^2) / 平均 O(n^2)
  */
 public class SelectionSort {
     public static void main(String[] args) {
