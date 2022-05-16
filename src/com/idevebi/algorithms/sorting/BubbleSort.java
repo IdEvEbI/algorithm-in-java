@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 冒泡排序
- *
+ * <p>
  * 排序思路：每一轮遍历，都从头开始，两两比较，把大数向后冒
  */
 public class BubbleSort {
