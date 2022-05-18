@@ -24,12 +24,12 @@ public class Leetcode707DoubleList {
 /**
  * 链表节点
  */
-class ListNode {
+class DoubleListNode {
     int val;
-    ListNode next;
-    ListNode prev;
+    DoubleListNode next;
+    DoubleListNode prev;
 
-    ListNode(int val) {
+    DoubleListNode(int val) {
         this.val = val;
     }
 }
@@ -41,17 +41,17 @@ class MyLinkedList {
     // 链表长度
     int size;
     // 头指针，哨兵节点
-    ListNode head;
+    DoubleListNode head;
     // 尾指针，哨兵节点
-    ListNode tail;
+    DoubleListNode tail;
 
     /**
      * 构造器
      */
     public MyLinkedList() {
         size = 0;
-        head = new ListNode(999);
-        tail = new ListNode(-999);
+        head = new DoubleListNode(999);
+        tail = new DoubleListNode(-999);
         head.next = tail;
         tail.prev = head;
     }
@@ -68,7 +68,7 @@ class MyLinkedList {
         }
 
         // 根据 index 值决定从前还是从后遍历链表
-        ListNode cur = head.next;
+        DoubleListNode cur = head.next;
         if (index < size - index) {
             for (int i = 0; i < index; i++) {
                 cur = cur.next;
@@ -89,7 +89,7 @@ class MyLinkedList {
      * @param val 新值
      */
     public void addAtHead(int val) {
-        ListNode n = new ListNode(val);
+        DoubleListNode n = new DoubleListNode(val);
 
         n.next = head.next;
         n.prev = head;
@@ -106,7 +106,7 @@ class MyLinkedList {
      * @param val 新值
      */
     public void addAtTail(int val) {
-        ListNode n = new ListNode(val);
+        DoubleListNode n = new DoubleListNode(val);
 
         n.next = tail;
         n.prev = tail.prev;
@@ -136,7 +136,7 @@ class MyLinkedList {
         }
 
         // 遍历链表到 index 位置的前、后节点
-        ListNode pNode, nNode;
+        DoubleListNode pNode, nNode;
 
         if (index < size - index) {
             pNode = head;
@@ -153,7 +153,7 @@ class MyLinkedList {
         }
 
         // 添加节点
-        ListNode n = new ListNode(val);
+        DoubleListNode n = new DoubleListNode(val);
 
         n.prev = pNode;
         n.next = nNode;
@@ -176,7 +176,7 @@ class MyLinkedList {
         }
 
         // 根据 index 值决定从前还是从后遍历链表
-        ListNode cur = head.next;
+        DoubleListNode cur = head.next;
         if (index < size - index) {
             for (int i = 0; i < index; i++) {
                 cur = cur.next;
