@@ -7,7 +7,7 @@ package com.idevebi.algorithms.datastructures.linkedList;
  */
 public class Leetcode707SingleList {
     public static void main(String[] args) {
-        MyLinkedList linkedList = new MyLinkedList();
+        MySingleLinkedList linkedList = new MySingleLinkedList();
 
         linkedList.addAtIndex(0, 1);     // 链表变为 1
         linkedList.addAtIndex(1, 2);     // 链表变为 1 -> 2
@@ -25,30 +25,30 @@ public class Leetcode707SingleList {
 /**
  * 链表节点
  */
-class ListNode {
+class SingleListNode {
     int val;
-    ListNode next;
+    SingleListNode next;
 
-    ListNode(int val) {
+    SingleListNode(int val) {
         this.val = val;
     }
 }
 
 /**
- * 单链表链表
+ * 单链表
  */
-class MyLinkedList {
+class MySingleLinkedList {
     // 链表长度
     int size;
     // 头指针，哨兵节点（伪头）
-    ListNode head;
+    SingleListNode head;
 
     /**
      * 构造器
      */
-    public MyLinkedList() {
+    public MySingleLinkedList() {
         size = 0;
-        head = new ListNode(0);
+        head = new SingleListNode(0);
     }
 
     /**
@@ -62,7 +62,7 @@ class MyLinkedList {
             return -1;
         }
 
-        ListNode cur = head;
+        SingleListNode cur = head;
         for (int i = 0; i < index + 1; i++) {
             cur = cur.next;
         }
@@ -107,13 +107,13 @@ class MyLinkedList {
         }
 
         // 遍历链表到 index 位置
-        ListNode cur = head;
+        SingleListNode cur = head;
         for (int i = 0; i < index; i++) {
             cur = cur.next;
         }
 
         // 添加节点
-        ListNode n = new ListNode(val);
+        SingleListNode n = new SingleListNode(val);
         n.next = cur.next;
         cur.next = n;
 
@@ -131,7 +131,7 @@ class MyLinkedList {
             return;
         }
 
-        ListNode n = head;
+        SingleListNode n = head;
         for (int i = 0; i < index; i++) {
             n = n.next;
         }
