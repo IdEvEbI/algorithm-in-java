@@ -7,16 +7,9 @@ import com.idevebi.algorithms.datastructures.linkedList.ListNode;
  */
 public class StackLinkedList {
     /**
-     * 链表头节点（哨兵节点，不保存数据）
+     * 链表头节点
      */
-    private final ListNode head;
-
-    /**
-     * 构造器
-     */
-    StackLinkedList() {
-        this.head = new ListNode(0);
-    }
+    private ListNode head;
 
     /**
      * 入栈操作
@@ -27,9 +20,10 @@ public class StackLinkedList {
         // 新建节点
         ListNode n = new ListNode(val);
 
-        // 把入栈的值作为链表的第一个节点
-        n.next = head.next;
-        head.next = n;
+        if (head != null) {
+            n.next = head;
+        }
+        head = n;
     }
 
     /**
@@ -39,14 +33,14 @@ public class StackLinkedList {
      */
     public int pop() {
         // 判断是否栈空
-        if (head.next == null) {
+        if (head == null) {
             return Integer.MIN_VALUE;
         }
 
-        ListNode n = head.next;
-        head.next = n.next;
+        int res = head.val;
+        head = head.next;
 
-        return n.val;
+        return res;
     }
 }
 
