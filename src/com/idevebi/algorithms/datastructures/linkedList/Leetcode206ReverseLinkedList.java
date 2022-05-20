@@ -41,16 +41,3 @@ public class Leetcode206ReverseLinkedList {
         return rHead;
     }
 }
-
-/**
- * 链表节点
- */
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int val) {
-        this.val = val;
-    }
-}
-
