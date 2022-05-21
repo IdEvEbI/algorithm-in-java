@@ -36,15 +36,16 @@ public class LC150EvaluateReversePolishNotation {
                 // 从栈中弹出两个数字
                 int n2 = stack.pop();
                 int n1 = stack.pop();
-                int r = 0;
+
                 // 根据操作符计算结果
-                switch (token) {
-                    case "+" -> r = n1 + n2;
-                    case "-" -> r = n1 - n2;
-                    case "*" -> r = n1 * n2;
-                    case "/" -> r = n1 / n2;
-                    default -> throw new IllegalStateException("Unexpected value: " + token);
-                }
+                int r = switch (token) {
+                    case "+" -> n1 + n2;
+                    case "-" -> n1 - n2;
+                    case "*" -> n1 * n2;
+                    case "/" -> n1 / n2;
+                    default -> throw new RuntimeException("运算符错误");
+                };
+
                 // 把操作结果入栈
                 stack.push(r);
             }
