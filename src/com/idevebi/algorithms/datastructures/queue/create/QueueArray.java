@@ -85,7 +85,7 @@ public class QueueArray {
         }
 
         int val = items[front];
-        front = (front + 1) % this.capacity;
+        front = (front + 1) % capacity;
         size--;
 
         return val;
