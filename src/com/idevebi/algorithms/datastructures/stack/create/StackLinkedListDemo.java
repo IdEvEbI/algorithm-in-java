@@ -6,7 +6,7 @@ public class StackLinkedListDemo {
 
         for (int i = 0; i < 6; i++) {
             s.push(i);
-            System.out.println("数字 " + i + " 入栈 ");
+            System.out.println("数字 " + i + " 入栈");
         }
 
         for (int i = 0; i < 6; i++) {

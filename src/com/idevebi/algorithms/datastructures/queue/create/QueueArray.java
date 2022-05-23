@@ -58,17 +58,17 @@ public class QueueArray {
     /**
      * 入队操作
      *
-     * @param item 入队的值
+     * @param val 入队的值
      * @return 是否成功，如果队列已满，返回 false
      */
-    boolean enqueue(int item) {
+    boolean enqueue(int val) {
         if (isFull()) {
             return false;
         }
 
         rear = (rear + 1) % capacity;
         // 将元素插入队尾
-        items[rear] = item;
+        items[rear] = val;
         size++;
 
         return true;
@@ -84,10 +84,10 @@ public class QueueArray {
             return Integer.MIN_VALUE;
         }
 
-        int item = items[front];
+        int val = items[front];
         front = (front + 1) % this.capacity;
         size--;
 
-        return item;
+        return val;
     }
 }
