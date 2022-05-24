@@ -34,7 +34,7 @@ public class QueueArray {
         this.capacity = capacity;
         this.front = this.size = 0;
         this.rear = capacity - 1;
-        this.items = new int[this.capacity];
+        this.items = new int[capacity];
     }
 
     /**
@@ -43,7 +43,7 @@ public class QueueArray {
      * @return 队列是否已满
      */
     boolean isFull() {
-        return (size == capacity);
+        return size == capacity;
     }
 
     /**
@@ -52,7 +52,7 @@ public class QueueArray {
      * @return 队列是否为空
      */
     boolean isEmpty() {
-        return (size == 0);
+        return size == 0;
     }
 
     /**
