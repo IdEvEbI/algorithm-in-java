@@ -19,10 +19,30 @@ public class TreeNode {
 
     /**
      * 构造器
+     */
+    TreeNode() {
+
+    }
+
+    /**
+     * 构造器
      *
      * @param val 节点的值
      */
     TreeNode(int val) {
         this.val = val;
+    }
+
+    /**
+     * 构造器
+     *
+     * @param val 节点的值
+     * @param left 左子节点
+     * @param right 右子节点
+     */
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
     }
 }
