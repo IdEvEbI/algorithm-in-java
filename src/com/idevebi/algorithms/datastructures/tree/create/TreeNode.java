@@ -20,7 +20,7 @@ public class TreeNode {
     /**
      * 构造器
      */
-    TreeNode() {
+    public TreeNode() {
 
     }
 
@@ -29,7 +29,7 @@ public class TreeNode {
      *
      * @param val 节点的值
      */
-    TreeNode(int val) {
+    public TreeNode(int val) {
         this.val = val;
     }
 
@@ -40,7 +40,7 @@ public class TreeNode {
      * @param left 左子节点
      * @param right 右子节点
      */
-    TreeNode(int val, TreeNode left, TreeNode right) {
+    public TreeNode(int val, TreeNode left, TreeNode right) {
         this.val = val;
         this.left = left;
         this.right = right;
