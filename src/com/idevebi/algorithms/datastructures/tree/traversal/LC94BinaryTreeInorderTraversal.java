@@ -1,4 +1,4 @@
-package com.idevebi.algorithms.datastructures.tree.leetcode;
+package com.idevebi.algorithms.datastructures.tree.traversal;
 
 import com.idevebi.algorithms.datastructures.tree.create.TreeNode;
 

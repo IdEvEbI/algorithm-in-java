@@ -1,4 +1,4 @@
-package com.idevebi.algorithms.datastructures.tree.leetcode;
+package com.idevebi.algorithms.datastructures.tree.traversal;
 
 import com.idevebi.algorithms.datastructures.tree.create.TreeNode;
 
@@ -6,11 +6,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 二叉树的前序遍历
+ * 二叉树的后序遍历
  *
- * <a href="https://leetcode.cn/problems/binary-tree-preorder-traversal/">https://leetcode.cn/problems/binary-tree-preorder-traversal/</a>
+ * <a href="https://leetcode.cn/problems/binary-tree-postorder-traversal/">https://leetcode.cn/problems/binary-tree-postorder-traversal/</a>
  */
-public class LC144BinaryTreePreorderTraversal {
+public class LC145BinaryTreePostorderRraversal {
     public static void main(String[] args) {
         // 创建二叉树
         TreeNode root = new TreeNode(5);
@@ -28,33 +28,29 @@ public class LC144BinaryTreePreorderTraversal {
         root.right.left = new TreeNode(6);
         root.right.right = new TreeNode(9);
 
-        List<Integer> res = preorderTraversal(root);
+        List<Integer> res = postorderTraversal(root);
         System.out.println(res);
     }
 
-    /**
-     * 二叉树前序遍历：根左右
-     */
-    private static List<Integer> preorderTraversal(TreeNode root) {
+    private static List<Integer> postorderTraversal(TreeNode root) {
         // 遍历结果
         List<Integer> res = new ArrayList<>();
 
-        // 递归前序调用
-        preorder(root, res);
+        // 递归后序调用
+        postorder(root, res);
 
         return res;
     }
 
-    private static void preorder(TreeNode root, List<Integer> res) {
+    private static void postorder(TreeNode root, List<Integer> res) {
         if (root == null) {
             return;
         }
+        // 左
+        postorder(root.left, res);
+        // 右
+        postorder(root.right, res);
         // 根
         res.add(root.val);
-        // 左
-        preorder(root.left, res);
-        // 右
-        preorder(root.right, res);
     }
 }
-
