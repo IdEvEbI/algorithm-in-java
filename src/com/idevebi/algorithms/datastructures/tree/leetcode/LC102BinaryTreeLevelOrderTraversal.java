@@ -34,7 +34,39 @@ public class LC102BinaryTreeLevelOrderTraversal {
         System.out.println(res);
     }
 
+    /**
+     * 递归遍历
+     */
     private static List<List<Integer>> levelOrder(TreeNode root) {
+        // 遍历结果
+        List<List<Integer>> res = new ArrayList<>();
+
+        if (root == null) {
+            return res;
+        }
+
+        levelOrderTraversal(root, res, 0);
+
+        return res;
+    }
+
+    private static void levelOrderTraversal(TreeNode root, List<List<Integer>> res, int height) {
+        if (root == null) {
+            return;
+        }
+        if (res.size() == height) {
+            res.add(new ArrayList<>());
+        }
+
+        res.get(height).add(root.val);
+        levelOrderTraversal(root.left, res, height + 1);
+        levelOrderTraversal(root.right, res, height + 1);
+    }
+
+    /**
+     * 迭代法遍历
+     */
+    private static List<List<Integer>> levelOrder2(TreeNode root) {
         // 遍历结果
         List<List<Integer>> res = new ArrayList<>();
 
