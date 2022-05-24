@@ -11,17 +11,53 @@ import java.util.LinkedList;
 public class LC1597BuildBinaryExpressionTreeFromInfixExpression {
     public static void main(String[] args) {
         String s = "2-3/(5*2)+1";
-        ExpressionTree expressionTree = new ExpressionTree();
+        ExpressionTree tree = new ExpressionTree();
 
-        expressionTree.root = expressionTree.expTree(s);
+        tree.root = tree.expTree(s);
 
-        System.out.println(expressionTree.root);
+        tree.preorder(tree.root);
+        System.out.println();
+        tree.inorder(tree.root);
+        System.out.println();
+        tree.postorder(tree.root);
+        System.out.println();
+        System.out.println();
     }
 }
 
 class ExpressionTree {
 
     Node root;
+
+    /**
+     * 前序遍历
+     */
+    public void preorder(Node n) {
+        if (n == null) {
+            return;
+        }
+        System.out.print(n.val + " ");
+        preorder(n.left);
+        preorder(n.right);
+    }
+
+    public void inorder(Node n) {
+        if (n == null) {
+            return;
+        }
+        inorder(n.left);
+        System.out.print(n.val + " ");
+        inorder(n.right);
+    }
+
+    public void postorder(Node n) {
+        if (n == null) {
+            return;
+        }
+        postorder(n.left);
+        postorder(n.right);
+        System.out.print(n.val + " ");
+    }
 
     /**
      * 根据中缀表达式构造二叉表达式树
