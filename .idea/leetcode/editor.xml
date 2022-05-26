@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode450DeleteNodeInABst.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode450DeleteNodeInABst.md" />
+              <option name="frontendQuestionId" value="leetcode.cn450" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode450DeleteNodeInABst.java" />
+              <option name="titleSlug" value="delete-node-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode509FibonacciNumber.java">
           <value>
             <LeetcodeEditor>
