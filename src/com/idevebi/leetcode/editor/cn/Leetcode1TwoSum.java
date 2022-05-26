@@ -8,9 +8,9 @@ import java.util.HashMap;
  * <p>
  * 题目链接：<a href=" https://leetcode.cn/problems/two-sum"> https://leetcode.cn/problems/two-sum</a>/
  */
-public class TwoSum {
+public class Leetcode1TwoSum {
     public static void main(String[] args) {
-        Solution solution = new TwoSum().new Solution();
+        Solution solution = new Leetcode1TwoSum().new Solution();
 
         int[] ans = solution.twoSum(new int[]{2, 7, 11, 15}, 9);
         System.out.println(Arrays.toString(ans));

@@ -6,10 +6,10 @@ package com.idevebi.leetcode.editor.cn;
  * 题目链接：<a href="https://leetcode.cn/problems/longest-substring-without-repeating-characters/">https://leetcode.cn/problems/longest-substring-without-repeating-characters/</a>
  * 参考文章：<a href="https://leetcode.cn/problems/longest-substring-without-repeating-characters/solution/longest-substring-without-repeating-characters-b-2/">https://leetcode.cn/problems/longest-substring-without-repeating-characters/solution/longest-substring-without-repeating-characters-b-2/</a>
  */
-public class LongestSubstringWithoutRepeatingCharacters {
+public class Leetcode3LongestSubstringWithoutRepeatingCharacters {
 
     public static void main(String[] args) {
-        Solution solution = new LongestSubstringWithoutRepeatingCharacters().new Solution();
+        Solution solution = new Leetcode3LongestSubstringWithoutRepeatingCharacters().new Solution();
 
         System.out.println(solution.lengthOfLongestSubstring("pwwkew"));
         System.out.println(solution.lengthOfLongestSubstring("abcabcbb"));

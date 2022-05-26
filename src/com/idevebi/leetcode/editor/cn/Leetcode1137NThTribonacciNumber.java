@@ -5,9 +5,9 @@ package com.idevebi.leetcode.editor.cn;
  * <p>
  * 题目链接：<a href="https://leetcode.cn/problems/n-th-tribonacci-number/">https://leetcode.cn/problems/n-th-tribonacci-number/</a>
  */
-public class NThTribonacciNumber {
+public class Leetcode1137NThTribonacciNumber {
     public static void main(String[] args) {
-        Solution solution = new NThTribonacciNumber().new Solution();
+        Solution solution = new Leetcode1137NThTribonacciNumber().new Solution();
 
         System.out.println(solution.tribonacci(4));
         System.out.println(solution.tribonacci(25));

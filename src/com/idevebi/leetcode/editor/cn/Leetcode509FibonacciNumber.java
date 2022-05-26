@@ -5,9 +5,9 @@ package com.idevebi.leetcode.editor.cn;
  * <p>
  * 题目链接：<a href=" https://leetcode.cn/problems/fibonacci-number"> https://leetcode.cn/problems/fibonacci-number</a>/
  */
-public class FibonacciNumber {
+public class Leetcode509FibonacciNumber {
     public static void main(String[] args) {
-        Solution solution = new FibonacciNumber().new Solution();
+        Solution solution = new Leetcode509FibonacciNumber().new Solution();
 
         System.out.println(solution.fib(5));
         System.out.println(solution.fib(4));
