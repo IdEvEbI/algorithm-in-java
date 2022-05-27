@@ -4,6 +4,8 @@ import com.idevebi.leetcode.editor.cn.datastructures.tree.TreeNode;
 import com.idevebi.leetcode.editor.cn.util.TreeHelper;
 
 import java.util.ArrayList;
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Leetcode145BinaryTreePostorderTraversal {
@@ -20,7 +22,48 @@ public class Leetcode145BinaryTreePostorderTraversal {
     //leetcode submit region begin(Prohibit modification and deletion)
 
     class Solution {
+
+        /**
+         * 使用 stack 实现后续遍历
+         */
         public List<Integer> postorderTraversal(TreeNode root) {
+            // 遍历结果
+            List<Integer> res = new ArrayList<>();
+
+            // 判断根节点
+            if (root == null) {
+                return res;
+            }
+
+            Deque<TreeNode> stack = new LinkedList<>();
+            TreeNode prev = null;
+
+            while (!stack.isEmpty() || root != null) {
+                // 左
+                while (root != null) {
+                    stack.push(root);
+                    root = root.left;
+                }
+                root = stack.pop();
+                if (root.right == null || root.right == prev) {
+                    // 根
+                    res.add(root.val);
+                    prev = root;
+                    root = null;
+                } else {
+                    // 右
+                    stack.push(root);
+                    root = root.right;
+                }
+            }
+
+            return res;
+        }
+
+        /**
+         * 使用递归实现后序遍历
+         */
+        public List<Integer> postorderTraversal2(TreeNode root) {
             // 遍历结果
             List<Integer> res = new ArrayList<>();
 
