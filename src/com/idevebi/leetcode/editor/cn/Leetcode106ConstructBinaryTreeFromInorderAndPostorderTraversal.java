@@ -19,7 +19,41 @@ public class Leetcode106ConstructBinaryTreeFromInorderAndPostorderTraversal {
     //leetcode submit region begin(Prohibit modification and deletion)
 
     class Solution {
+        private int lenInorder;
+        private int lenPostorder;
+
         /**
+         * 递归实现
+         */
+        public TreeNode buildTree(int[] inorder, int[] postorder) {
+            lenInorder = inorder.length - 1;
+            lenPostorder = postorder.length - 1;
+
+            return build(inorder, postorder, null);
+        }
+
+        private TreeNode build(int[] inorder, int[] postorder, TreeNode end) {
+            if (lenPostorder < 0) {
+                return null;
+            }
+
+            // 创建根节点
+            TreeNode root = new TreeNode(postorder[lenPostorder--]);
+            if (inorder[lenInorder] != root.val) {
+                root.right = build(inorder, postorder, root);
+            }
+
+            lenInorder--;
+            if (end == null || inorder[lenInorder] != end.val) {
+                root.left = build(inorder, postorder, end);
+            }
+
+            return root;
+        }
+
+        /**
+         * 迭代法：从右子树开始，通过压栈、弹栈构建左子树
+         * <p>
          * 特点：
          * <p>
          * 1. 在后序遍历序列中，最后一个元素为树的根节点
@@ -38,7 +72,7 @@ public class Leetcode106ConstructBinaryTreeFromInorderAndPostorderTraversal {
          * inorder = [15, 9, 10, 3, 20, 5, 7, 8, 4]
          * postorder = [15, 10, 9, 5, 4, 8, 7, 20, 3]
          */
-        public TreeNode buildTree(int[] inorder, int[] postorder) {
+        public TreeNode buildTree2(int[] inorder, int[] postorder) {
             // 1. 判断后续遍历序列是否有内容
             if (postorder == null || postorder.length == 0) {
                 return null;
