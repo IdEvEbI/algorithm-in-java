@@ -1,6 +1,7 @@
 package com.idevebi.leetcode.editor.cn;
 
 import com.idevebi.leetcode.editor.cn.datastructures.tree.TreeNode;
+import com.idevebi.leetcode.editor.cn.util.TreeHelper;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
@@ -8,21 +9,7 @@ import java.util.Deque;
 public class Leetcode173BinarySearchTreeIterator {
     public static void main(String[] args) {
 
-        /*
-         *                5
-         *             3     7
-         *           1   4  6  9
-         */
-        // 创建二叉树
-        TreeNode root = new TreeNode(5);
-
-        root.left = new TreeNode(3);
-        root.left.left = new TreeNode(1);
-        root.left.right = new TreeNode(4);
-
-        root.right = new TreeNode(7);
-        root.right.left = new TreeNode(6);
-        root.right.right = new TreeNode(9);
+        TreeNode root = TreeHelper.createTestTree();
 
         BSTIterator bst = new Leetcode173BinarySearchTreeIterator().new BSTIterator(root);
 
@@ -35,10 +22,10 @@ public class Leetcode173BinarySearchTreeIterator {
 
     class BSTIterator {
 
-        // 当前节点
-        private TreeNode cur;
         // 节点栈
         private final Deque<TreeNode> stack;
+        // 当前节点
+        private TreeNode cur;
 
         public BSTIterator(TreeNode root) {
             this.cur = root;

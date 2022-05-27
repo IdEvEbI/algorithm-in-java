@@ -1,27 +1,15 @@
 package com.idevebi.leetcode.editor.cn;
 
 import com.idevebi.leetcode.editor.cn.datastructures.tree.TreeNode;
+import com.idevebi.leetcode.editor.cn.util.TreeHelper;
 
 /**
  * 参考题解：<a href="https://leetcode.cn/problems/delete-node-in-a-bst/solution/miao-dong-jiu-wan-shi-liao-by-terry2020-tc0o/">https://leetcode.cn/problems/delete-node-in-a-bst/solution/miao-dong-jiu-wan-shi-liao-by-terry2020-tc0o/</a>
  */
 public class Leetcode450DeleteNodeInABst {
     public static void main(String[] args) {
-        /*
-         *                5
-         *             3     7
-         *           1   4  6  9
-         */
-        // 创建二叉树
-        TreeNode root = new TreeNode(5);
 
-        root.left = new TreeNode(3);
-        root.left.left = new TreeNode(1);
-        root.left.right = new TreeNode(4);
-
-        root.right = new TreeNode(7);
-        root.right.left = new TreeNode(6);
-        root.right.right = new TreeNode(9);
+        TreeNode root = TreeHelper.createTestTree();
 
         Solution solution = new Leetcode450DeleteNodeInABst().new Solution();
 
