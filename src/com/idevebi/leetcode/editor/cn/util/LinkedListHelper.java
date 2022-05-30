@@ -22,4 +22,25 @@ public class LinkedListHelper {
 
         return head;
     }
+
+    /**
+     * 创建测试环形链表
+     *
+     * @return 头节点
+     */
+    public static ListNode createTestCycleList() {
+        ListNode head = new ListNode(1);
+
+        ListNode cur = head;
+        for (int i = 2; i < 6; i++) {
+            cur.next = new ListNode(i);
+
+            cur = cur.next;
+        }
+
+        // 建立环形链表
+        cur.next = head.next;
+
+        return head;
+    }
 }
