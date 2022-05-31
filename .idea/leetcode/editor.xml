@@ -179,6 +179,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode155MinStack.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode155MinStack.md" />
+              <option name="frontendQuestionId" value="leetcode.cn155" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode155MinStack.java" />
+              <option name="titleSlug" value="min-stack" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode173BinarySearchTreeIterator.java">
           <value>
             <LeetcodeEditor>
