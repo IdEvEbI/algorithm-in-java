@@ -487,6 +487,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode641DesignCircularDeque.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode641DesignCircularDeque.md" />
+              <option name="frontendQuestionId" value="leetcode.cn641" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode641DesignCircularDeque.java" />
+              <option name="titleSlug" value="design-circular-deque" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode69Sqrtx.java">
           <value>
             <LeetcodeEditor>
