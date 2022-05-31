@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode167TwoSumIiInputArrayIsSorted.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode167TwoSumIiInputArrayIsSorted.md" />
+              <option name="frontendQuestionId" value="leetcode.cn167" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode167TwoSumIiInputArrayIsSorted.java" />
+              <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode173BinarySearchTreeIterator.java">
           <value>
             <LeetcodeEditor>
