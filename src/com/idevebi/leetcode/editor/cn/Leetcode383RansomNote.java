@@ -21,17 +21,14 @@ public class Leetcode383RansomNote {
             int[] letters = new int[26];
 
             // 1. 先扫描一遍「杂志」字符串
-            for (int i = 0; i < magazine.length(); i++) {
-                letters[magazine.charAt(i) - 'a']++;
+            for (char c : magazine.toCharArray()) {
+                letters[c - 'a']++;
             }
 
             // 2. 再扫描一遍「赎金信」字符串
-            for (int i = 0; i < ransomNote.length(); i++) {
-                int idx = ransomNote.charAt(i) - 'a';
-                letters[idx]--;
-
+            for (char c : ransomNote.toCharArray()) {
                 // 如果发现字符计数 < 0，说明「杂志」字符不够
-                if (letters[idx] < 0) {
+                if (--letters[c - 'a'] < 0) {
                     return false;
                 }
             }
