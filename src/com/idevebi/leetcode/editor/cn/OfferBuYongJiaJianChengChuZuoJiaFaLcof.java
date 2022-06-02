@@ -1,5 +1,10 @@
 package com.idevebi.leetcode.editor.cn;
 
+/**
+ * 剑指 Offer 65. 不用加减乘除做加法
+ * <p>
+ * <a href="https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/">https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/</a>
+ */
 public class OfferBuYongJiaJianChengChuZuoJiaFaLcof {
     public static void main(String[] args) {
         Solution solution = new OfferBuYongJiaJianChengChuZuoJiaFaLcof().new Solution();
