@@ -212,6 +212,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1608" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX.java" />
+              <option name="titleSlug" value="special-array-with-x-elements-greater-than-or-equal-x" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode167TwoSumIiInputArrayIsSorted.java">
           <value>
             <LeetcodeEditor>
@@ -858,6 +869,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode88MergeSortedArray.java" />
               <option name="titleSlug" value="merge-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode918MaximumSumCircularSubarray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode918MaximumSumCircularSubarray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn918" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode918MaximumSumCircularSubarray.java" />
+              <option name="titleSlug" value="maximum-sum-circular-subarray" />
             </LeetcodeEditor>
           </value>
         </entry>
