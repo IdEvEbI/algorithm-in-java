@@ -1004,6 +1004,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode剑指 Offer 65BuYongJiaJianChengChuZuoJiaFaLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/OfferBuYongJiaJianChengChuZuoJiaFaLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 65" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/OfferBuYongJiaJianChengChuZuoJiaFaLcof.java" />
+              <option name="titleSlug" value="bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/LongestPalindromicSubstring.java">
           <value>
             <LeetcodeEditor>
@@ -1034,6 +1045,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1137NThTribonacciNumber.java" />
               <option name="titleSlug" value="n-th-tribonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/OfferBuYongJiaJianChengChuZuoJiaFaLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/OfferBuYongJiaJianChengChuZuoJiaFaLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 65" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/OfferBuYongJiaJianChengChuZuoJiaFaLcof.java" />
+              <option name="titleSlug" value="bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
