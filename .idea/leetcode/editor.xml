@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/InsertionSortList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/doc/content/InsertionSortList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn147" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/InsertionSortList.java" />
+              <option name="titleSlug" value="insertion-sort-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/KthLargestElementInAnArray.java">
           <value>
             <LeetcodeEditor>
@@ -1221,6 +1232,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
               <option name="titleSlug" value="count-odd-numbers-in-an-interval-range" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/LargestPerimeterTriangle.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/LargestPerimeterTriangle.md" />
+              <option name="frontendQuestionId" value="leetcode.cn976" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/LargestPerimeterTriangle.java" />
+              <option name="titleSlug" value="largest-perimeter-triangle" />
             </LeetcodeEditor>
           </value>
         </entry>
