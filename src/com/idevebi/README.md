@@ -8,6 +8,7 @@
 
 1. [724. 寻找数组的中心下标](datastructures/array/leetcode/editor/cn/FindPivotIndex.java)
 2. [35. 搜索插入位置](datastructures/array/leetcode/editor/cn/SearchInsertPosition.java)
+3. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
 
 ## 二、算法
 
