@@ -1,7 +1,7 @@
 package com.idevebi.leetcode.editor.cn;
 
-import com.idevebi.leetcode.editor.cn.datastructures.linkedList.ListNode;
-import com.idevebi.leetcode.editor.cn.util.LinkedListHelper;
+import com.idevebi.datastructures.linkedList.ListNode;
+import com.idevebi.datastructures.util.LinkedListHelper;
 
 import java.util.HashSet;
 import java.util.Set;

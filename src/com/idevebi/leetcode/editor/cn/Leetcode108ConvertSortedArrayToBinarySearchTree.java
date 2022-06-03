@@ -1,6 +1,6 @@
 package com.idevebi.leetcode.editor.cn;
 
-import com.idevebi.leetcode.editor.cn.datastructures.tree.TreeNode;
+import com.idevebi.datastructures.tree.TreeNode;
 
 public class Leetcode108ConvertSortedArrayToBinarySearchTree {
     public static void main(String[] args) {

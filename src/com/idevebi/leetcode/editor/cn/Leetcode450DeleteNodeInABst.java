@@ -1,7 +1,7 @@
 package com.idevebi.leetcode.editor.cn;
 
-import com.idevebi.leetcode.editor.cn.datastructures.tree.TreeNode;
-import com.idevebi.leetcode.editor.cn.util.TreeHelper;
+import com.idevebi.datastructures.tree.TreeNode;
+import com.idevebi.datastructures.util.TreeHelper;
 
 /**
  * 参考题解：<a href="https://leetcode.cn/problems/delete-node-in-a-bst/solution/miao-dong-jiu-wan-shi-liao-by-terry2020-tc0o/">https://leetcode.cn/problems/delete-node-in-a-bst/solution/miao-dong-jiu-wan-shi-liao-by-terry2020-tc0o/</a>

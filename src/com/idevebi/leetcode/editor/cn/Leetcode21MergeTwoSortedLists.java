@@ -1,6 +1,6 @@
 package com.idevebi.leetcode.editor.cn;
 
-import com.idevebi.leetcode.editor.cn.datastructures.linkedList.ListNode;
+import com.idevebi.datastructures.linkedList.ListNode;
 
 public class Leetcode21MergeTwoSortedLists {
     public static void main(String[] args) {

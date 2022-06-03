@@ -1,6 +1,6 @@
-package com.idevebi.leetcode.editor.cn.util;
+package com.idevebi.datastructures.util;
 
-import com.idevebi.leetcode.editor.cn.datastructures.tree.TreeNode;
+import com.idevebi.datastructures.tree.TreeNode;
 
 public class TreeHelper {
     /**

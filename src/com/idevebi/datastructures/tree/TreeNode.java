@@ -1,4 +1,4 @@
-package com.idevebi.leetcode.editor.cn.datastructures.tree;
+package com.idevebi.datastructures.tree;
 
 /**
  * 二叉树节点

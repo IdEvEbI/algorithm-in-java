@@ -1,7 +1,7 @@
 package com.idevebi.leetcode.editor.cn;
 
-import com.idevebi.leetcode.editor.cn.datastructures.tree.TreeNode;
-import com.idevebi.leetcode.editor.cn.util.TreeHelper;
+import com.idevebi.datastructures.tree.TreeNode;
+import com.idevebi.datastructures.util.TreeHelper;
 
 public class Leetcode101SymmetricTree {
 

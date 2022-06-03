@@ -1,4 +1,4 @@
-package com.idevebi.leetcode.editor.cn.datastructures.linkedList;
+package com.idevebi.datastructures.linkedList;
 
 /**
  * 链表节点

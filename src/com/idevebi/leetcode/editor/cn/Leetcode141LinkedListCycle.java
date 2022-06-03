@@ -1,7 +1,7 @@
 package com.idevebi.leetcode.editor.cn;
 
-import com.idevebi.leetcode.editor.cn.datastructures.linkedList.ListNode;
-import com.idevebi.leetcode.editor.cn.util.LinkedListHelper;
+import com.idevebi.datastructures.linkedList.ListNode;
+import com.idevebi.datastructures.util.LinkedListHelper;
 
 public class Leetcode141LinkedListCycle {
     public static void main(String[] args) {

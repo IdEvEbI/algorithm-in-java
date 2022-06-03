@@ -1,6 +1,6 @@
-package com.idevebi.leetcode.editor.cn.util;
+package com.idevebi.datastructures.util;
 
-import com.idevebi.leetcode.editor.cn.datastructures.linkedList.ListNode;
+import com.idevebi.datastructures.linkedList.ListNode;
 
 public class LinkedListHelper {
     /**
