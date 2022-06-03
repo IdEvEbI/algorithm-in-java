@@ -3,6 +3,28 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1491" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
+              <option name="titleSlug" value="average-salary-excluding-the-minimum-and-maximum-salary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/CountOddNumbersInAnIntervalRange.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1523" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
+              <option name="titleSlug" value="count-odd-numbers-in-an-interval-range" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/FibonacciNumber.java">
           <value>
             <LeetcodeEditor>
@@ -204,10 +226,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1491AverageSalaryExcludingTheMinimumAndMaximumSalary.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode1491AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
               <option name="frontendQuestionId" value="leetcode.cn1491" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1491AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
               <option name="titleSlug" value="average-salary-excluding-the-minimum-and-maximum-salary" />
             </LeetcodeEditor>
           </value>
@@ -215,10 +237,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1523CountOddNumbersInAnIntervalRange.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode1523CountOddNumbersInAnIntervalRange.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/CountOddNumbersInAnIntervalRange.md" />
               <option name="frontendQuestionId" value="leetcode.cn1523" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1523CountOddNumbersInAnIntervalRange.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
               <option name="titleSlug" value="count-odd-numbers-in-an-interval-range" />
             </LeetcodeEditor>
           </value>

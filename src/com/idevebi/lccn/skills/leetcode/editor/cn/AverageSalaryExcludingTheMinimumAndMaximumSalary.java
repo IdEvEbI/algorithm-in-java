@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.lccn.skills.leetcode.editor.cn;
 
-public class Leetcode1491AverageSalaryExcludingTheMinimumAndMaximumSalary {
+/**
+ * 1491. 去掉最低工资和最高工资后的工资平均值
+ */
+public class AverageSalaryExcludingTheMinimumAndMaximumSalary {
     public static void main(String[] args) {
-        Solution solution = new Leetcode1491AverageSalaryExcludingTheMinimumAndMaximumSalary().new Solution();
+        Solution solution = new AverageSalaryExcludingTheMinimumAndMaximumSalary().new Solution();
 
         System.out.println(solution.average(new int[]{6000, 5000, 4000, 3000, 2000, 1000}));
         System.out.println(solution.average(new int[]{8000, 9000, 2000, 3000, 6000, 1000}));

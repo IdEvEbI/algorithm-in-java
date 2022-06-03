@@ -1,8 +1,12 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.lccn.skills.leetcode.editor.cn;
 
-public class Leetcode1523CountOddNumbersInAnIntervalRange {
+/**
+ * 1523. 在区间范围内统计奇数数目
+ */
+public class CountOddNumbersInAnIntervalRange {
+
     public static void main(String[] args) {
-        Solution solution = new Leetcode1523CountOddNumbersInAnIntervalRange().new Solution();
+        Solution solution = new CountOddNumbersInAnIntervalRange().new Solution();
 
         System.out.println(solution.countOdds(3, 7));
         System.out.println(solution.countOdds(9, 10));
