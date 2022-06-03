@@ -7,6 +7,7 @@
 > 课程资料：LeetBook → 数组和字符串
 
 1. [724. 寻找数组的中心下标](datastructures/array/leetcode/editor/cn/FindPivotIndex.java)
+2. [35. 搜索插入位置](datastructures/array/leetcode/editor/cn/SearchInsertPosition.java)
 
 ## 二、算法
 

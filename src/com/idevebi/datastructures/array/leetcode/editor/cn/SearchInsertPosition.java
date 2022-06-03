@@ -1,11 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.array.leetcode.editor.cn;
 
-public class Leetcode35SearchInsertPosition {
+/**
+ * 35. 搜索插入位置
+ */
+public class SearchInsertPosition {
     public static void main(String[] args) {
-        Solution solution = new Leetcode35SearchInsertPosition().new Solution();
+        Solution solution = new SearchInsertPosition().new Solution();
 
-        System.out.println(solution.searchInsert(new int[]{1, 3, 5, 6}, 2));
         System.out.println(solution.searchInsert(new int[]{1, 3, 5, 6}, 5));
+        System.out.println(solution.searchInsert(new int[]{1, 3, 5, 6}, 2));
         System.out.println(solution.searchInsert(new int[]{1, 3, 5, 6}, 7));
     }
 
