@@ -26,6 +26,7 @@
     4. 配套例题
        1. [剑指 Offer 45. 把数组排成最小的数](algorithms/sort/leetcode/editor/cn/BaShuZuPaiChengZuiXiaoDeShuLcof.java)
        2. [283. 移动零](algorithms/sort/leetcode/editor/cn/MoveZeroes.java)
+       3. [215. 数组中的第K个最大元素](algorithms/sort/leetcode/editor/cn/KthLargestElementInAnArray.java)
 
 2. 时间复杂度 O(nlogn) 级排序算法
     1. [希尔排序](algorithms/sort/sorting/ShellSort.java)
