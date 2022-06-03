@@ -25,4 +25,6 @@
     3. [选择排序](algorithms/sort/sorting/SelectionSort.java)
 
 2. 时间复杂度 O(nlogn) 级排序算法
+    1. [希尔排序](algorithms/sort/sorting/ShellSort.java)
+
 3. 时间复杂度 O(n) 级排序算法
