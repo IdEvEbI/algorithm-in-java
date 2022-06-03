@@ -4,9 +4,6 @@ import java.util.Arrays;
 
 /**
  * 插入排序
- * <p>
- * 排序思路：从第 1 个元素开始，把每个值作为「插入的新值」，向前找到小于该新值的位置插入（需要向后搬动元素）
- * 排序特点：原地 / 稳定 / O(n^2)
  */
 public class InsertionSort {
     public static void main(String[] args) {
@@ -16,8 +13,14 @@ public class InsertionSort {
         System.out.println(Arrays.toString(nums));
     }
 
+    /**
+     * 插入排序
+     * <p>
+     * 排序思路：从第 1 个元素开始，把每个值作为「插入的新值」，向前找到小于该新值的位置插入（需要向后搬动元素）
+     * 排序特点：原地 / 稳定 / O(n^2)
+     */
     private static void insertionSort(int[] nums) {
-        if (nums.length < 2) {
+        if (nums == null || nums.length < 2) {
             return;
         }
 
