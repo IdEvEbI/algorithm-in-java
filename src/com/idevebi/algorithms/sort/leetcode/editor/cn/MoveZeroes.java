@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.sort.leetcode.editor.cn;
 
 import java.util.Arrays;
 
-public class Leetcode283MoveZeroes {
+/**
+ * 283. 移动零
+ */
+public class MoveZeroes {
     public static void main(String[] args) {
-        Solution solution = new Leetcode283MoveZeroes().new Solution();
+        Solution solution = new MoveZeroes().new Solution();
 
         int[] nums = {0, 1, 0, 3, 12};
         solution.moveZeroes(nums);
