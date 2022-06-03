@@ -24,25 +24,25 @@ public class BubbleSort {
             return;
         }
 
-        for (int i = 0; i < nums.length; i++) {
-            // 排序标记，默认已排序完成
-            boolean sorted = true;
+        for (int i = 0; i < nums.length - 1; i++) {
+            // 1. 交换标记，每轮开始前还没有交换
+            boolean swapped = false;
 
-            // 从头向后遍历数组，两两比较，将大数向后冒
-            for (int j = 0; j < nums.length - i - 1; j++) {
+            // 2. 从头向后遍历数组，两两比较，将大数向后冒
+            for (int j = 0; j < nums.length - 1 - i; j++) {
                 // 从第 0 个元素开始两两比较，大数向后移动
                 if (nums[j] > nums[j + 1]) {
                     int tmp = nums[j];
                     nums[j] = nums[j + 1];
                     nums[j + 1] = tmp;
 
-                    // 如果发生数据交换，说明数组排序还没有完成
-                    sorted = false;
+                    // 记录交换标记
+                    swapped = true;
                 }
             }
 
-            // 如果一轮比较没有出现数据交换，说明已经排好序
-            if (sorted) {
+            // 3. 如果一轮循环没有出现数据交换，说明数组已经完成排序
+            if (!swapped) {
                 break;
             }
         }
