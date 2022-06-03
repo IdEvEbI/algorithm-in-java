@@ -7,3 +7,5 @@
    2. [1491. 去掉最低工资和最高工资后的工资平均值](./leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java)
 2. 运算符
    1. [191. 位1的个数](./leetcode/editor/cn/NumberOf1Bits.java)
+   2. [1281. 整数的各位积和之差](./leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger.java)
+
