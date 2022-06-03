@@ -2,6 +2,12 @@
 
 ## 一、数据结构
 
+### 1.1 数组
+
+> 课程资料：LeetBook → 数组和字符串
+
+1. [724. 寻找数组的中心下标](datastructures/array/leetcode/editor/cn/FindPivotIndex.java)
+
 ## 二、算法
 
 ### 2.1 编程能力
