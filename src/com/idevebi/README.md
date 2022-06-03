@@ -16,6 +16,7 @@
     2. [1281. 整数的各位积和之差](skills/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger.java)
 3. 条件语句
     1. [976. 三角形的最大周长](skills/leetcode/editor/cn/LargestPerimeterTriangle.java)
+    2. [1779. 找到最近的有相同 X 或 Y 坐标的点](skills/leetcode/editor/cn/FindNearestPointThatHasTheSameXOrYCoordinate.java)
 
 ### 2.2 排序
 

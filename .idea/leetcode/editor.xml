@@ -1235,6 +1235,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/FindNearestPointThatHasTheSameXOrYCoordinate.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/FindNearestPointThatHasTheSameXOrYCoordinate.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1779" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/FindNearestPointThatHasTheSameXOrYCoordinate.java" />
+              <option name="titleSlug" value="find-nearest-point-that-has-the-same-x-or-y-coordinate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/LargestPerimeterTriangle.java">
           <value>
             <LeetcodeEditor>
