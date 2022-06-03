@@ -6,10 +6,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
               <option name="frontendQuestionId" value="leetcode.cn1491" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
               <option name="titleSlug" value="average-salary-excluding-the-minimum-and-maximum-salary" />
             </LeetcodeEditor>
           </value>
@@ -17,10 +17,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/CountOddNumbersInAnIntervalRange.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/CountOddNumbersInAnIntervalRange.md" />
               <option name="frontendQuestionId" value="leetcode.cn1523" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
               <option name="titleSlug" value="count-odd-numbers-in-an-interval-range" />
             </LeetcodeEditor>
           </value>
@@ -28,10 +28,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/NumberOf1Bits.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/NumberOf1Bits.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/NumberOf1Bits.md" />
               <option name="frontendQuestionId" value="leetcode.cn191" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/NumberOf1Bits.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/NumberOf1Bits.java" />
               <option name="titleSlug" value="number-of-1-bits" />
             </LeetcodeEditor>
           </value>
@@ -39,10 +39,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/SubtractTheProductAndSumOfDigitsOfAnInteger.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/SubtractTheProductAndSumOfDigitsOfAnInteger.md" />
               <option name="frontendQuestionId" value="leetcode.cn1281" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger.java" />
               <option name="titleSlug" value="subtract-the-product-and-sum-of-digits-of-an-integer" />
             </LeetcodeEditor>
           </value>
@@ -248,10 +248,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1491AverageSalaryExcludingTheMinimumAndMaximumSalary.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
               <option name="frontendQuestionId" value="leetcode.cn1491" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
               <option name="titleSlug" value="average-salary-excluding-the-minimum-and-maximum-salary" />
             </LeetcodeEditor>
           </value>
@@ -259,10 +259,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1523CountOddNumbersInAnIntervalRange.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/doc/content/CountOddNumbersInAnIntervalRange.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/CountOddNumbersInAnIntervalRange.md" />
               <option name="frontendQuestionId" value="leetcode.cn1523" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
               <option name="titleSlug" value="count-odd-numbers-in-an-interval-range" />
             </LeetcodeEditor>
           </value>
@@ -1166,6 +1166,50 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode3LongestSubstringWithoutRepeatingCharacters.java" />
               <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/AverageSalaryExcludingTheMinimumAndMaximumSalary.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1491" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" />
+              <option name="titleSlug" value="average-salary-excluding-the-minimum-and-maximum-salary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/CountOddNumbersInAnIntervalRange.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1523" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CountOddNumbersInAnIntervalRange.java" />
+              <option name="titleSlug" value="count-odd-numbers-in-an-interval-range" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/NumberOf1Bits.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/NumberOf1Bits.md" />
+              <option name="frontendQuestionId" value="leetcode.cn191" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/NumberOf1Bits.java" />
+              <option name="titleSlug" value="number-of-1-bits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/SubtractTheProductAndSumOfDigitsOfAnInteger.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1281" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger.java" />
+              <option name="titleSlug" value="subtract-the-product-and-sum-of-digits-of-an-integer" />
             </LeetcodeEditor>
           </value>
         </entry>
