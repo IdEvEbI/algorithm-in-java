@@ -91,6 +91,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/SetMatrixZeroes.md" />
+              <option name="frontendQuestionId" value="leetcode.cn73" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java" />
+              <option name="titleSlug" value="set-matrix-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/lccn/skills/leetcode/editor/cn/AverageSalaryExcludingTheMinimumAndMaximumSalary.java">
           <value>
             <LeetcodeEditor>
@@ -985,10 +996,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode73SetMatrixZeroes.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode73SetMatrixZeroes.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/SetMatrixZeroes.md" />
               <option name="frontendQuestionId" value="leetcode.cn73" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode73SetMatrixZeroes.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java" />
               <option name="titleSlug" value="set-matrix-zeroes" />
             </LeetcodeEditor>
           </value>

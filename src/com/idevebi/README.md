@@ -12,6 +12,7 @@
    3. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
 2. 二维数组（矩阵）
    1. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
+   2. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
 
 ## 二、算法
 

@@ -1,27 +1,34 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.array.leetcode.editor.cn;
 
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Leetcode73SetMatrixZeroes {
+/**
+ * 73. 矩阵置零
+ */
+public class SetMatrixZeroes {
     public static void main(String[] args) {
-        Solution solution = new Leetcode73SetMatrixZeroes().new Solution();
+        Solution solution = new SetMatrixZeroes().new Solution();
 
         int[][] matrix = {{1, 1, 1}, {1, 0, 1}, {1, 1, 1}};
         solution.setZeroes(matrix);
 
-        for (int i = 0; i < 3; i++) {
-            System.out.println(Arrays.toString(matrix[i]));
+        for (int[] m : matrix) {
+            System.out.println(Arrays.toString(m));
         }
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-        /**
-         * 方法 1：暴力解法，用数组标记行列
-         */
         public void setZeroes(int[][] matrix) {
+            setZeroesWithBooleanArray(matrix);
+        }
+
+        /**
+         * 方法 2：使用 boolean 数组 标记
+         */
+        private void setZeroesWithBooleanArray(int[][] matrix) {
             int m = matrix.length;
             int n = matrix[0].length;
 
@@ -49,9 +56,9 @@ public class Leetcode73SetMatrixZeroes {
         }
 
         /**
-         * 方法 2：暴力解法，用集合标记行列
+         * 方法 1：使用 HashSet 标记
          */
-        public void setZeroes2(int[][] matrix) {
+        private void setZeroesWithHashSet(int[][] matrix) {
             int m = matrix.length;
             int n = matrix[0].length;
 
