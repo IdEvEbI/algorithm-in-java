@@ -4,17 +4,23 @@
 
 ### 1.1 数组
 
-> 课程资料：LeetBook → 数组和字符串 | 学习计划 → 数据结构 
+> 课程资料：LeetBook → 数组和字符串 | 学习计划 → 数据结构
 
 1. 一维数组
-   1. [724. 寻找数组的中心下标](datastructures/array/leetcode/editor/cn/FindPivotIndex.java)
-   2. [35. 搜索插入位置](datastructures/array/leetcode/editor/cn/SearchInsertPosition.java)
-   3. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
+    1. [724. 寻找数组的中心下标](datastructures/array/leetcode/editor/cn/FindPivotIndex.java)
+    2. [35. 搜索插入位置](datastructures/array/leetcode/editor/cn/SearchInsertPosition.java)
+    3. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
 2. 二维数组（矩阵）
-   1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java) 
-   2. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
-   3. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
-   4. [498. 对角线遍历](datastructures/array/leetcode/editor/cn/DiagonalTraverse.java)
+    1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java)
+    2. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
+    3. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
+    4. [498. 对角线遍历](datastructures/array/leetcode/editor/cn/DiagonalTraverse.java)
+
+### 1.2 字符串
+
+> 课程资料：LeetBook → 数组和字符串
+
+1. [14. 最长公共前缀](datastructures/string/leetcode/editor/cn/LongestCommonPrefix.java)
 
 ## 二、算法
 
