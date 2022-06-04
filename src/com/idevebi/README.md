@@ -23,6 +23,7 @@
 1. [14. 最长公共前缀](datastructures/string/leetcode/editor/cn/LongestCommonPrefix.java)
 2. [5. 最长回文子串](datastructures/string/leetcode/editor/cn/LongestPalindromicSubstring.java)
 3. [151. 颠倒字符串中的单词](datastructures/string/leetcode/editor/cn/ReverseWordsInAString.java)
+4. [28. 实现 strStr()](datastructures/string/leetcode/editor/cn/ImplementStrstr.java)
 
 ## 二、算法
 

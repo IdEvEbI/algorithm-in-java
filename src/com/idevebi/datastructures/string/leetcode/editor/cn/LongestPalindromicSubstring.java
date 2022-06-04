@@ -108,7 +108,7 @@ public class LongestPalindromicSubstring {
         /**
          * 方法 1：暴力解法
          */
-        private String exhaustive(String s) {
+        private String bruteForce(String s) {
             String ans = "";
 
             int max = 0;

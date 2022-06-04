@@ -74,7 +74,7 @@ public class RotateImage {
          * 0, n-1 → n-1, n-1
          * n-1, n-1 → n-1, 0
          */
-        private void exhaustive(int[][] matrix) {
+        private void bruteForce(int[][] matrix) {
             int n = matrix.length;
             // 新建一个矩阵
             int[][] ans = new int[n][n];

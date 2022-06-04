@@ -46,7 +46,7 @@ public class FindPivotIndex {
         /**
          * 方法 1：穷举法
          */
-        private int exhaustive(int[] nums) {
+        private int bruteForce(int[] nums) {
             int len = nums.length;
 
             // 从左至右依次确定中心点
