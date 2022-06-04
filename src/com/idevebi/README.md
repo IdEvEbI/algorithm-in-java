@@ -39,6 +39,8 @@
 3. 条件语句
     1. [976. 三角形的最大周长](skills/leetcode/editor/cn/LargestPerimeterTriangle.java)
     2. [1779. 找到最近的有相同 X 或 Y 坐标的点](skills/leetcode/editor/cn/FindNearestPointThatHasTheSameXOrYCoordinate.java)
+4. 循环
+    1. [1822. 数组元素积的符号](skills/leetcode/editor/cn/SignOfTheProductOfAnArray.java)
 
 ### 2.2 排序
 
