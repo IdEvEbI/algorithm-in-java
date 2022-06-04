@@ -1,17 +1,20 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.array.leetcode.editor.cn;
 
 import java.util.Arrays;
 
-public class Leetcode566ReshapeTheMatrix {
+/**
+ * 566. 重塑矩阵
+ */
+public class ReshapeTheMatrix {
     public static void main(String[] args) {
-        Solution solution = new Leetcode566ReshapeTheMatrix().new Solution();
+        Solution solution = new ReshapeTheMatrix().new Solution();
 
         int r = 4;
         int c = 2;
         int[][] ans = solution.matrixReshape(new int[][]{{1, 2, 3, 4}, {5, 6, 7, 8}}, r, c);
 
-        for (int i = 0; i < r; i++) {
-            System.out.println(Arrays.toString(ans[i]));
+        for (int[] m : ans) {
+            System.out.println(Arrays.toString(m));
         }
     }
 

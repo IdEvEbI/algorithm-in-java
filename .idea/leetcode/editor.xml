@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/ReshapeTheMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode.cn566" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java" />
+              <option name="titleSlug" value="reshape-the-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/RotateImage.java">
           <value>
             <LeetcodeEditor>
@@ -886,10 +897,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode566ReshapeTheMatrix.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode566ReshapeTheMatrix.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/ReshapeTheMatrix.md" />
               <option name="frontendQuestionId" value="leetcode.cn566" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode566ReshapeTheMatrix.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java" />
               <option name="titleSlug" value="reshape-the-matrix" />
             </LeetcodeEditor>
           </value>
