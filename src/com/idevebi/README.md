@@ -41,6 +41,7 @@
     2. [1779. 找到最近的有相同 X 或 Y 坐标的点](skills/leetcode/editor/cn/FindNearestPointThatHasTheSameXOrYCoordinate.java)
 4. 循环
     1. [1822. 数组元素积的符号](skills/leetcode/editor/cn/SignOfTheProductOfAnArray.java)
+    2. [1502. 判断能否形成等差数列](skills/leetcode/editor/cn/CanMakeArithmeticProgressionFromSequence.java)
 
 ### 2.2 排序
 
