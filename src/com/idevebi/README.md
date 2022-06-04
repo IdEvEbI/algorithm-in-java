@@ -21,6 +21,7 @@
 > 课程资料：LeetBook → 数组和字符串
 
 1. [14. 最长公共前缀](datastructures/string/leetcode/editor/cn/LongestCommonPrefix.java)
+2. [5. 最长回文子串](datastructures/string/leetcode/editor/cn/LongestPalindromicSubstring.java)
 
 ## 二、算法
 
