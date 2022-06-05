@@ -40,4 +40,4 @@
 	<li><code>-1000 &lt;= target &lt;= 1000</code></li>
 	<li><strong>仅存在一个有效答案</strong></li>
 </ul>
-<div><div>Related Topics</div><div><li>数组</li><li>双指针</li><li>二分查找</li></div></div><br><div><li>👍 808</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>数组</li><li>双指针</li><li>二分查找</li></div></div><br><div><li>👍 813</li><li>👎 0</li></div>

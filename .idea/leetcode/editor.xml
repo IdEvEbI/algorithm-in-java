@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ArrayPartitionI.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/ArrayPartitionI.md" />
+              <option name="frontendQuestionId" value="leetcode.cn561" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ArrayPartitionI.java" />
+              <option name="titleSlug" value="array-partition-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ReverseString.java">
           <value>
             <LeetcodeEditor>
@@ -55,6 +66,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ReverseString.java" />
               <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/TwoSumIiInputArrayIsSorted.md" />
+              <option name="frontendQuestionId" value="leetcode.cn167" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java" />
+              <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -479,10 +501,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode167TwoSumIiInputArrayIsSorted.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode167TwoSumIiInputArrayIsSorted.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/TwoSumIiInputArrayIsSorted.md" />
               <option name="frontendQuestionId" value="leetcode.cn167" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode167TwoSumIiInputArrayIsSorted.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java" />
               <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
             </LeetcodeEditor>
           </value>

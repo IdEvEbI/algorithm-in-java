@@ -16,7 +16,7 @@ public class BaShuZuPaiChengZuiXiaoDeShuLcof {
     class Solution {
         /**
          * 方法 1：使用 排序 API
-         *
+         * <p>
          * 提示：哪一个元素排在前面使得最终拼接的数值最小，例如 [3, 30] → [30, 3]
          */
         public String minNumber(int[] nums) {

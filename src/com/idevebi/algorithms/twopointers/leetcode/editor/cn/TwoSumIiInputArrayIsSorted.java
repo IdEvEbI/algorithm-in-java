@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.twopointers.leetcode.editor.cn;
 
 import java.util.Arrays;
 
-public class Leetcode167TwoSumIiInputArrayIsSorted {
+/**
+ * 167. 两数之和 II - 输入有序数组
+ */
+public class TwoSumIiInputArrayIsSorted {
     public static void main(String[] args) {
-        Solution solution = new Leetcode167TwoSumIiInputArrayIsSorted().new Solution();
+        Solution solution = new TwoSumIiInputArrayIsSorted().new Solution();
 
         int[] ans = solution.twoSum(new int[]{2, 7, 11, 15}, 22);
         System.out.println(Arrays.toString(ans));

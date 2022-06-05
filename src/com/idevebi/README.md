@@ -53,8 +53,9 @@
 1. 应用场景
     1. 从两端向中间迭代数组
     2. 快慢指针
-2. 「数组和字符串」配套例题
-   1. [344. 反转字符串](algorithms/twopointers/leetcode/editor/cn/ReverseString.java)
+2. 配套例题
+    1. [344. 反转字符串](algorithms/twopointers/leetcode/editor/cn/ReverseString.java)
+    2. [167. 两数之和 II - 输入有序数组](algorithms/twopointers/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java)
 
 ### 2.3 排序
 
