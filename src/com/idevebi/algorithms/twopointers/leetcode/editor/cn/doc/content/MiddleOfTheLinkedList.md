@@ -29,4 +29,4 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 <ul>
 	<li>给定链表的结点数介于 <code>1</code> 和 <code>100</code> 之间。</li>
 </ul>
-<div><div>Related Topics</div><div><li>链表</li><li>双指针</li></div></div><br><div><li>👍 578</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>链表</li><li>双指针</li></div></div><br><div><li>👍 581</li><li>👎 0</li></div>

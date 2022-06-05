@@ -1,11 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.twopointers.leetcode.editor.cn;
 
 import com.idevebi.datastructures.linkedList.ListNode;
 import com.idevebi.datastructures.util.LinkedListHelper;
 
-public class Leetcode876MiddleOfTheLinkedList {
+/**
+ * 876. 链表的中间结点
+ */
+public class MiddleOfTheLinkedList {
     public static void main(String[] args) {
-        Solution solution = new Leetcode876MiddleOfTheLinkedList().new Solution();
+        Solution solution = new MiddleOfTheLinkedList().new Solution();
 
         ListNode head = LinkedListHelper.createTestList();
 
