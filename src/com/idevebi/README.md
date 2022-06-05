@@ -7,23 +7,30 @@
 > 课程资料：LeetBook → 数组和字符串 | 学习计划 → 数据结构
 
 1. 一维数组
-    1. [724. 寻找数组的中心下标](datastructures/array/leetcode/editor/cn/FindPivotIndex.java)
-    2. [35. 搜索插入位置](datastructures/array/leetcode/editor/cn/SearchInsertPosition.java)
-    3. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
-2. 二维数组（矩阵）
-    1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java)
-    2. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
-    3. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
-    4. [498. 对角线遍历](datastructures/array/leetcode/editor/cn/DiagonalTraverse.java)
+    1. 「数组和字符串」例题
+        1. [724. 寻找数组的中心下标](datastructures/array/leetcode/editor/cn/FindPivotIndex.java)
+        2. [35. 搜索插入位置](datastructures/array/leetcode/editor/cn/SearchInsertPosition.java)
+        3. [561. 数组拆分 I](datastructures/array/leetcode/editor/cn/ArrayPartitionI.java)
+2. 二维数组
+    1. 「数组和字符串」例题
+        1. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
+3. 矩阵
+    1. 「数组和字符串」例题
+        1. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
+        2. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
+        3. [498. 对角线遍历](datastructures/array/leetcode/editor/cn/DiagonalTraverse.java)
+    2. 「数组和字符串」例题
+        1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java)
 
 ### 1.2 字符串
 
 > 课程资料：LeetBook → 数组和字符串
 
-1. [14. 最长公共前缀](datastructures/string/leetcode/editor/cn/LongestCommonPrefix.java)
-2. [5. 最长回文子串](datastructures/string/leetcode/editor/cn/LongestPalindromicSubstring.java)
-3. [151. 颠倒字符串中的单词](datastructures/string/leetcode/editor/cn/ReverseWordsInAString.java)
-4. [28. 实现 strStr()](datastructures/string/leetcode/editor/cn/ImplementStrstr.java)
+1. 「数组和字符串」例题
+    1. [14. 最长公共前缀](datastructures/string/leetcode/editor/cn/LongestCommonPrefix.java)
+    2. [5. 最长回文子串](datastructures/string/leetcode/editor/cn/LongestPalindromicSubstring.java)
+    3. [151. 颠倒字符串中的单词](datastructures/string/leetcode/editor/cn/ReverseWordsInAString.java)
+    4. [28. 实现 strStr()](datastructures/string/leetcode/editor/cn/ImplementStrstr.java)
 
 ## 二、算法
 
@@ -65,9 +72,9 @@
     4. [876. 链表的中间结点](algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java)
     5. [19. 删除链表的倒数第 N 个结点](algorithms/twopointers/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
 4. 「数组类算法」例题
-   1. [125. 验证回文串](algorithms/twopointers/leetcode/editor/cn/ValidPalindrome.java)
-   2. [345. 反转字符串中的元音字母](algorithms/twopointers/leetcode/editor/cn/ReverseVowelsOfAString.java)
-   3. [11. 盛最多水的容器](algorithms/twopointers/leetcode/editor/cn/ContainerWithMostWater.java)
+    1. [125. 验证回文串](algorithms/twopointers/leetcode/editor/cn/ValidPalindrome.java)
+    2. [345. 反转字符串中的元音字母](algorithms/twopointers/leetcode/editor/cn/ReverseVowelsOfAString.java)
+    3. [11. 盛最多水的容器](algorithms/twopointers/leetcode/editor/cn/ContainerWithMostWater.java)
 
 ### 2.3 排序
 
