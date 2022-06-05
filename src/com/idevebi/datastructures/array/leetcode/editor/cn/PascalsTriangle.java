@@ -1,11 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.array.leetcode.editor.cn;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Leetcode118PascalsTriangle {
+/**
+ * 118. 杨辉三角
+ */
+public class PascalsTriangle {
     public static void main(String[] args) {
-        Solution solution = new Leetcode118PascalsTriangle().new Solution();
+        Solution solution = new PascalsTriangle().new Solution();
 
         List<List<Integer>> ans = solution.generate(5);
         System.out.println(ans);

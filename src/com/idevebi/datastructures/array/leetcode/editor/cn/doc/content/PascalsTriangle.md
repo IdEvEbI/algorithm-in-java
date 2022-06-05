@@ -27,4 +27,4 @@
 <ul>
 	<li><code>1 <= numRows <= 30</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>数组</li><li>动态规划</li></div></div><br><div><li>👍 764</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>数组</li><li>动态规划</li></div></div><br><div><li>👍 766</li><li>👎 0</li></div>

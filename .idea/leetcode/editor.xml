@@ -267,6 +267,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/PascalsTriangle.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/PascalsTriangle.md" />
+              <option name="frontendQuestionId" value="leetcode.cn118" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/PascalsTriangle.java" />
+              <option name="titleSlug" value="pascals-triangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java">
           <value>
             <LeetcodeEditor>
@@ -512,10 +523,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode118PascalsTriangle.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode118PascalsTriangle.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/PascalsTriangle.md" />
               <option name="frontendQuestionId" value="leetcode.cn118" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode118PascalsTriangle.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/PascalsTriangle.java" />
               <option name="titleSlug" value="pascals-triangle" />
             </LeetcodeEditor>
           </value>
