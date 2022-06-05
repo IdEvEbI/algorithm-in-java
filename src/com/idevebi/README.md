@@ -42,6 +42,7 @@
     4. [28. 实现 strStr()](datastructures/string/leetcode/editor/cn/ImplementStrstr.java)
 2. 「剑指 Offer」例题
     1. [Offer 05. 替换空格](datastructures/string/leetcode/editor/cn/TiHuanKongGeLcof.java)
+    2. [剑指 Offer 58 - II. 左旋转字符串](datastructures/string/leetcode/editor/cn/ZuoXuanZhuanZiFuChuanLcof.java)
 
 ## 二、算法
 
