@@ -13,6 +13,7 @@
         3. [561. 数组拆分 I](datastructures/array/leetcode/editor/cn/ArrayPartitionI.java)
         4. [485. 最大连续 1 的个数](datastructures/array/leetcode/editor/cn/MaxConsecutiveOnes.java)
         5. [153. 寻找旋转排序数组中的最小值](datastructures/array/leetcode/editor/cn/FindMinimumInRotatedSortedArray.java)
+        6. [26. 删除有序数组中的重复项](datastructures/array/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java)
 2. 二维数组
     1. 「数组和字符串」例题
         1. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
