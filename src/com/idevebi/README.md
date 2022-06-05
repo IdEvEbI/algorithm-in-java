@@ -33,13 +33,15 @@
 
 ### 1.2 字符串
 
-> 课程资料：LeetBook → 数组和字符串
+> 课程资料：LeetBook → 数组和字符串 | 学习计划 → 剑指 Offer
 
 1. 「数组和字符串」例题
     1. [14. 最长公共前缀](datastructures/string/leetcode/editor/cn/LongestCommonPrefix.java)
     2. [5. 最长回文子串](datastructures/string/leetcode/editor/cn/LongestPalindromicSubstring.java)
     3. [151. 颠倒字符串中的单词](datastructures/string/leetcode/editor/cn/ReverseWordsInAString.java)
     4. [28. 实现 strStr()](datastructures/string/leetcode/editor/cn/ImplementStrstr.java)
+2. 「剑指 Offer」例题
+    1. [Offer 05. 替换空格](datastructures/string/leetcode/editor/cn/TiHuanKongGeLcof.java)
 
 ## 二、算法
 
