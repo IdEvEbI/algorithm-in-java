@@ -102,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/SquaresOfASortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/SquaresOfASortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn977" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/SquaresOfASortedArray.java" />
+              <option name="titleSlug" value="squares-of-a-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java">
           <value>
             <LeetcodeEditor>
@@ -1260,10 +1271,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode977SquaresOfASortedArray.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode977SquaresOfASortedArray.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/SquaresOfASortedArray.md" />
               <option name="frontendQuestionId" value="leetcode.cn977" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode977SquaresOfASortedArray.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/SquaresOfASortedArray.java" />
               <option name="titleSlug" value="squares-of-a-sorted-array" />
             </LeetcodeEditor>
           </value>

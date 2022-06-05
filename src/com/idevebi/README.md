@@ -48,16 +48,18 @@
 
 ### 2.2 双指针
 
-> 课程资料：LeetBook → 数组和字符串
+> 课程资料：LeetBook → 数组和字符串 | 学习计划 → 算法
 
 1. 应用场景
     1. 从两端向中间迭代数组
     2. 快慢指针
-2. 配套例题
+2. 「数组和字符串」例题
     1. [344. 反转字符串](algorithms/twopointers/leetcode/editor/cn/ReverseString.java)
     2. [167. 两数之和 II - 输入有序数组](algorithms/twopointers/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java)
     3. [27. 移除元素](algorithms/twopointers/leetcode/editor/cn/RemoveElement.java)
     4. [209. 长度最小的子数组](algorithms/twopointers/leetcode/editor/cn/MinimumSizeSubarraySum.java)
+3. 「算法」例题
+    1. [977. 有序数组的平方](algorithms/twopointers/leetcode/editor/cn/SquaresOfASortedArray.java)
 
 ### 2.3 排序
 
