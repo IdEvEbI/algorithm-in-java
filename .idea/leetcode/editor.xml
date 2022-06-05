@@ -1642,6 +1642,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CheckIfItIsAStraightLine.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/doc/content/CheckIfItIsAStraightLine.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1232" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CheckIfItIsAStraightLine.java" />
+              <option name="titleSlug" value="check-if-it-is-a-straight-line" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/skills/leetcode/editor/cn/CheckIfOneStringSwapCanMakeStringsEqual.java">
           <value>
             <LeetcodeEditor>

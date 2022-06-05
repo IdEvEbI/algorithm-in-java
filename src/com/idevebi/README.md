@@ -64,6 +64,8 @@
     2. [1502. 判断能否形成等差数列](skills/leetcode/editor/cn/CanMakeArithmeticProgressionFromSequence.java)
     3. [202. 快乐数](skills/leetcode/editor/cn/HappyNumber.java)
     4. [1790. 仅执行一次字符串交换能否使两个字符串相等](skills/leetcode/editor/cn/CheckIfOneStringSwapCanMakeStringsEqual.java)
+5. 函数
+    1. [1232. 缀点成线](skills/leetcode/editor/cn/CheckIfItIsAStraightLine.java) （数学题）
 
 ### 2.2 双指针
 
