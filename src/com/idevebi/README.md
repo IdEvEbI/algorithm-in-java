@@ -48,7 +48,7 @@
 
 ### 2.2 双指针
 
-> 课程资料：LeetBook → 数组和字符串 | 学习计划 → 算法
+> 课程资料：LeetBook → 数组和字符串 | 学习计划 → 算法 | LeetBook → 数组类算法
 
 1. 应用场景
     1. 从两端向中间迭代数组
@@ -64,6 +64,8 @@
     3. [557. 反转字符串中的单词 III](algorithms/twopointers/leetcode/editor/cn/doc/content/ReverseWordsInAStringIii.md)
     4. [876. 链表的中间结点](algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java)
     5. [19. 删除链表的倒数第 N 个结点](algorithms/twopointers/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
+4. 「数组类算法」例题
+   1. [125. 验证回文串](algorithms/twopointers/leetcode/editor/cn/ValidPalindrome.java)
 
 ### 2.3 排序
 
