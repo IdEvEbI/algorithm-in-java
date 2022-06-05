@@ -66,6 +66,7 @@
     5. [19. 删除链表的倒数第 N 个结点](algorithms/twopointers/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
 4. 「数组类算法」例题
    1. [125. 验证回文串](algorithms/twopointers/leetcode/editor/cn/ValidPalindrome.java)
+   2. [345. 反转字符串中的元音字母](algorithms/twopointers/leetcode/editor/cn/ReverseVowelsOfAString.java)
 
 ### 2.3 排序
 
