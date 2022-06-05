@@ -39,10 +39,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/MoveZeroes.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/doc/content/MoveZeroes.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/MoveZeroes.md" />
               <option name="frontendQuestionId" value="leetcode.cn283" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/MoveZeroes.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/MoveZeroes.java" />
               <option name="titleSlug" value="move-zeroes" />
             </LeetcodeEditor>
           </value>
@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/MoveZeroes.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/MoveZeroes.md" />
+              <option name="frontendQuestionId" value="leetcode.cn283" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/MoveZeroes.java" />
+              <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/RemoveElement.java">
           <value>
             <LeetcodeEditor>
@@ -99,6 +110,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ReverseString.java" />
               <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ReverseWordsInAStringIii.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/ReverseWordsInAStringIii.md" />
+              <option name="frontendQuestionId" value="leetcode.cn557" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ReverseWordsInAStringIii.java" />
+              <option name="titleSlug" value="reverse-words-in-a-string-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1007,10 +1029,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode557ReverseWordsInAStringIii.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode557ReverseWordsInAStringIii.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/ReverseWordsInAStringIii.md" />
               <option name="frontendQuestionId" value="leetcode.cn557" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode557ReverseWordsInAStringIii.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ReverseWordsInAStringIii.java" />
               <option name="titleSlug" value="reverse-words-in-a-string-iii" />
             </LeetcodeEditor>
           </value>

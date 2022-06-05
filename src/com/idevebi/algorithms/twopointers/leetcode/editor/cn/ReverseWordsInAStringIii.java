@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.twopointers.leetcode.editor.cn;
 
-public class Leetcode557ReverseWordsInAStringIii {
+/**
+ * 557. 反转字符串中的单词 III
+ */
+public class ReverseWordsInAStringIii {
     public static void main(String[] args) {
-        Solution solution = new Leetcode557ReverseWordsInAStringIii().new Solution();
+        Solution solution = new ReverseWordsInAStringIii().new Solution();
 
         System.out.println(solution.reverseWords("Let's take LeetCode contest"));
         System.out.println(solution.reverseWords("God Ding"));
@@ -12,10 +15,14 @@ public class Leetcode557ReverseWordsInAStringIii {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-        /**
-         * 方法 1：直接转换成字符数组，原地翻转
-         */
         public String reverseWords(String s) {
+            return reverseInPlace(s);
+        }
+
+        /**
+         * 方法 2：原地翻转（双指针）
+         */
+        private String reverseInPlace(String s) {
             char[] chars = s.toCharArray();
             int len = s.length();
 
@@ -46,9 +53,9 @@ public class Leetcode557ReverseWordsInAStringIii {
         }
 
         /**
-         * 方法 2：利用 StringBuilder 及 split API
+         * 方法 1：利用 StringBuilder 及 split API
          */
-        public String reverseWords2(String s) {
+        private String reverseWithSplitAPI(String s) {
             StringBuilder sb = new StringBuilder();
 
             // 1. 使用空格拆分字符串
