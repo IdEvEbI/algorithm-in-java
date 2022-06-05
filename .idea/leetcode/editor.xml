@@ -113,6 +113,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/RemoveNthNodeFromEndOfList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn19" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java" />
+              <option name="titleSlug" value="remove-nth-node-from-end-of-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/ReverseString.java">
           <value>
             <LeetcodeEditor>
@@ -633,10 +644,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode19RemoveNthNodeFromEndOfList.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode19RemoveNthNodeFromEndOfList.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/RemoveNthNodeFromEndOfList.md" />
               <option name="frontendQuestionId" value="leetcode.cn19" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode19RemoveNthNodeFromEndOfList.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java" />
               <option name="titleSlug" value="remove-nth-node-from-end-of-list" />
             </LeetcodeEditor>
           </value>
