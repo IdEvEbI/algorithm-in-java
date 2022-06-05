@@ -25,6 +25,7 @@ public class Node {
 
     /**
      * 构造器
+     *
      * @param val 节点的值
      */
     public Node(int val) {
@@ -33,7 +34,8 @@ public class Node {
 
     /**
      * 构造器
-     * @param val 节点的值
+     *
+     * @param val      节点的值
      * @param children 子节点列表
      */
     public Node(int val, List<Node> children) {

@@ -4,7 +4,7 @@
 
 ### 1.1 数组
 
-> 课程资料：LeetBook → 数组和字符串 | LeetBook → 数组类算法 | 学习计划 → 数据结构
+> 课程资料：LeetBook → 数组和字符串 | LeetBook → 数组类算法 | 学习计划 → 数据结构 | 学习计划 → 编程能力
 
 1. 一维数组
     1. 「数组和字符串」例题
@@ -18,6 +18,8 @@
         1. [80. 删除有序数组中的重复项 II](datastructures/array/leetcode/editor/cn/RemoveDuplicatesFromSortedArrayIi.java)
         2. [75. 颜色分类](datastructures/array/leetcode/editor/cn/SortColors.java)
         3. [88. 合并两个有序数组](datastructures/array/leetcode/editor/cn/MergeSortedArray.java)
+    3. 「编程能力」例题
+        1. [496. 下一个更大元素 I](datastructures/array/leetcode/editor/cn/NextGreaterElementI.java)
 2. 二维数组
     1. 「数组和字符串」例题
         1. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
