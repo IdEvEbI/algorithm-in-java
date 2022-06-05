@@ -56,6 +56,7 @@
 2. 配套例题
     1. [344. 反转字符串](algorithms/twopointers/leetcode/editor/cn/ReverseString.java)
     2. [167. 两数之和 II - 输入有序数组](algorithms/twopointers/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java)
+    3. [27. 移除元素](algorithms/twopointers/leetcode/editor/cn/RemoveElement.java)
 
 ### 2.3 排序
 
