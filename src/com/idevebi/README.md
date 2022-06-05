@@ -15,8 +15,9 @@
         5. [153. 寻找旋转排序数组中的最小值](datastructures/array/leetcode/editor/cn/FindMinimumInRotatedSortedArray.java)
         6. [26. 删除有序数组中的重复项](datastructures/array/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java)
     2. 「数组类算法」例题
-       1. [80. 删除有序数组中的重复项 II](datastructures/array/leetcode/editor/cn/RemoveDuplicatesFromSortedArrayIi.java)
-       2. [75. 颜色分类](datastructures/array/leetcode/editor/cn/SortColors.java)
+        1. [80. 删除有序数组中的重复项 II](datastructures/array/leetcode/editor/cn/RemoveDuplicatesFromSortedArrayIi.java)
+        2. [75. 颜色分类](datastructures/array/leetcode/editor/cn/SortColors.java)
+        3. [88. 合并两个有序数组](datastructures/array/leetcode/editor/cn/MergeSortedArray.java)
 2. 二维数组
     1. 「数组和字符串」例题
         1. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)

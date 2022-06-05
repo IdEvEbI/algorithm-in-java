@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.array.leetcode.editor.cn;
 
 import java.util.Arrays;
 
-public class Leetcode88MergeSortedArray {
+/**
+ * 88. 合并两个有序数组
+ */
+public class MergeSortedArray {
     public static void main(String[] args) {
-        Solution solution = new Leetcode88MergeSortedArray().new Solution();
+        Solution solution = new MergeSortedArray().new Solution();
 
         int[] nums = {1, 2, 3, 0, 0, 0};
         solution.merge(nums, 3, new int[]{2, 5, 6}, 3);
@@ -14,9 +17,6 @@ public class Leetcode88MergeSortedArray {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-        /**
-         * 双指针
-         */
         public void merge(int[] nums1, int m, int[] nums2, int n) {
             // 从后向前遍历数组
             for (int i = m + n - 1; i >= 0; i--) {
