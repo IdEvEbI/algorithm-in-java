@@ -4,6 +4,7 @@ package com.idevebi.datastructures.tree;
  * 二叉树节点
  */
 public class TreeNode {
+
     /**
      * 节点值
      */

@@ -44,6 +44,19 @@
     1. [Offer 05. 替换空格](datastructures/string/leetcode/editor/cn/TiHuanKongGeLcof.java)
     2. [剑指 Offer 58 - II. 左旋转字符串](datastructures/string/leetcode/editor/cn/ZuoXuanZhuanZiFuChuanLcof.java)
 
+### 1.3 链表
+
+### 1.4 栈
+
+### 1.5 队列
+
+### 1.6 树
+
+> 课程资料：学习计划 → 编程能力
+
+1. 「编程能力」例题
+    1. [589. N 叉树的前序遍历](datastructures/tree/leetcode/editor/cn/NAryTreePreorderTraversal.java)
+
 ## 二、算法
 
 ### 2.1 编程能力

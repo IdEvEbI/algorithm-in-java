@@ -3,6 +3,7 @@ package com.idevebi.datastructures.util;
 import com.idevebi.datastructures.linkedList.ListNode;
 
 public class LinkedListHelper {
+
     /**
      * 创建测试链表
      * <p>

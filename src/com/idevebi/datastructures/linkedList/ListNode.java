@@ -4,6 +4,7 @@ package com.idevebi.datastructures.linkedList;
  * 链表节点
  */
 public class ListNode {
+
     /**
      * 节点值
      */
