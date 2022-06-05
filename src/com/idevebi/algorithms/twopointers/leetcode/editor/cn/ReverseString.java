@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.twopointers.leetcode.editor.cn;
 
 import java.util.Arrays;
 
-public class Leetcode344ReverseString {
+/**
+ * 344. 反转字符串
+ */
+public class ReverseString {
     public static void main(String[] args) {
-        Solution solution = new Leetcode344ReverseString().new Solution();
+        Solution solution = new ReverseString().new Solution();
 
         char[] s = {'h', 'e', 'l', 'l', 'o'};
         solution.reverseString(s);

@@ -46,7 +46,17 @@
     3. [202. 快乐数](skills/leetcode/editor/cn/HappyNumber.java)
     4. [1790. 仅执行一次字符串交换能否使两个字符串相等](skills/leetcode/editor/cn/CheckIfOneStringSwapCanMakeStringsEqual.java)
 
-### 2.2 排序
+### 2.2 双指针
+
+> 课程资料：LeetBook → 数组和字符串
+
+1. 应用场景
+    1. 从两端向中间迭代数组
+    2. 快慢指针
+2. 「数组和字符串」配套例题
+   1. [344. 反转字符串](algorithms/twopointers/leetcode/editor/cn/ReverseString.java)
+
+### 2.3 排序
 
 > 课程资料：LeetBook → 排序算法全解析
 
