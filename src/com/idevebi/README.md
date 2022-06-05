@@ -16,6 +16,7 @@
     1. 「数组和字符串」例题
         1. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
         2. [118. 杨辉三角](datastructures/array/leetcode/editor/cn/PascalsTriangle.java)
+        3. [119. 杨辉三角 II](datastructures/array/leetcode/editor/cn/PascalsTriangleIi.java)
 3. 矩阵
     1. 「数组和字符串」例题
         1. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
