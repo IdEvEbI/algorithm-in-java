@@ -87,6 +87,7 @@
 1. 「队列 & 栈」例题
     1. [155. 最小栈](datastructures/stack/leetcode/editor/cn/LeetcodeMinStack.java)
     2. [20. 有效的括号](datastructures/stack/leetcode/editor/cn/ValidParentheses.java)
+    3. [739. 每日温度](datastructures/stack/leetcode/editor/cn/DailyTemperatures.java)
 
 ### 1.6 树
 
