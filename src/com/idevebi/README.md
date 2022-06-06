@@ -89,6 +89,7 @@
     2. [20. 有效的括号](datastructures/stack/leetcode/editor/cn/ValidParentheses.java)
     3. [739. 每日温度](datastructures/stack/leetcode/editor/cn/DailyTemperatures.java)
     4. [150. 逆波兰表达式求值](datastructures/stack/leetcode/editor/cn/EvaluateReversePolishNotation.java)
+    5. [232. 用栈实现队列](datastructures/stack/leetcode/editor/cn/ImplementQueueUsingStacks.java)
 
 ### 1.6 树
 

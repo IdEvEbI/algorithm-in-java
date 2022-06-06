@@ -630,6 +630,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/ImplementQueueUsingStacks.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/doc/content/ImplementQueueUsingStacks.md" />
+              <option name="frontendQuestionId" value="leetcode.cn232" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/ImplementQueueUsingStacks.java" />
+              <option name="titleSlug" value="implement-queue-using-stacks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/LeetcodeMinStack.java">
           <value>
             <LeetcodeEditor>
@@ -1194,10 +1205,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode232ImplementQueueUsingStacks.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode232ImplementQueueUsingStacks.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/doc/content/ImplementQueueUsingStacks.md" />
               <option name="frontendQuestionId" value="leetcode.cn232" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode232ImplementQueueUsingStacks.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/ImplementQueueUsingStacks.java" />
               <option name="titleSlug" value="implement-queue-using-stacks" />
             </LeetcodeEditor>
           </value>
