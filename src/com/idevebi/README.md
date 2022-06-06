@@ -72,15 +72,20 @@
     13. [138. 复制带随机指针的链表](datastructures/linkedList/leetcode/editor/cn/CopyListWithRandomPointer.java)
     14. [61. 旋转链表](datastructures/linkedList/leetcode/editor/cn/RotateList.java)
 
-> 课程资料：LeetBook → 队列 & 栈
-
 ### 1.4 队列
+
+> 课程资料：LeetBook → 队列 & 栈
 
 1. 「队列 & 栈」例题
     1. [622. 设计循环队列](datastructures/queue/leetcode/editor/cn/DesignCircularQueue.java)
     2. [346. 数据流中的移动平均值](datastructures/queue/leetcode/editor/cn/MovingAverageFromDataStream.java)
 
 ### 1.5 栈
+
+> 课程资料：LeetBook → 队列 & 栈
+
+1. 「队列 & 栈」例题
+    1. [155. 最小栈](datastructures/stack/leetcode/editor/cn/LeetcodeMinStack.java)
 
 ### 1.6 树
 

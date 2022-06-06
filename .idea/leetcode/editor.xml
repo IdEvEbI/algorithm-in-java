@@ -608,6 +608,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/LeetcodeMinStack.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/doc/content/LeetcodeMinStack.md" />
+              <option name="frontendQuestionId" value="leetcode.cn155" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/LeetcodeMinStack.java" />
+              <option name="titleSlug" value="min-stack" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/MinStack.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/doc/content/LeetcodeMinStack.md" />
+              <option name="frontendQuestionId" value="leetcode.cn155" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/LeetcodeMinStack.java" />
+              <option name="titleSlug" value="min-stack" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/string/leetcode/editor/cn/ImplementStrstr.java">
           <value>
             <LeetcodeEditor>
@@ -963,10 +985,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode155MinStack.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode155MinStack.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/doc/content/LeetcodeMinStack.md" />
               <option name="frontendQuestionId" value="leetcode.cn155" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode155MinStack.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/LeetcodeMinStack.java" />
               <option name="titleSlug" value="min-stack" />
             </LeetcodeEditor>
           </value>

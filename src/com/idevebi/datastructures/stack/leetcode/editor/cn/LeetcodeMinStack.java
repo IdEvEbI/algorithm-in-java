@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.stack.leetcode.editor.cn;
 
 import java.util.Stack;
 
-public class Leetcode155MinStack {
+/**
+ * 155. 最小栈
+ */
+public class LeetcodeMinStack {
     public static void main(String[] args) {
-        MinStack minStack = new Leetcode155MinStack().new MinStack();
+        MinStack minStack = new LeetcodeMinStack().new MinStack();
 
         minStack.push(-2);
         minStack.push(0);
@@ -17,7 +20,6 @@ public class Leetcode155MinStack {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class MinStack {
-
         /**
          * 数据栈
          */
@@ -27,6 +29,9 @@ public class Leetcode155MinStack {
          */
         private Stack<Integer> minStack;
 
+        /**
+         * 构造器
+         */
         public MinStack() {
             dataStack = new Stack<>();
             minStack = new Stack<>();
@@ -35,8 +40,6 @@ public class Leetcode155MinStack {
 
         public void push(int val) {
             dataStack.push(val);
-
-            // 更新最小栈的值
             minStack.push(Math.min(minStack.peek(), val));
         }
 
