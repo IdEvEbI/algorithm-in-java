@@ -48,6 +48,11 @@
 
 ### 1.3 链表
 
+> 课程资料：LeetBook → 链表
+
+1. 「链表」例题
+    1. [707. 设计链表](datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java)
+
 ### 1.4 栈
 
 ### 1.5 队列

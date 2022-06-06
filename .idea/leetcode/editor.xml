@@ -399,6 +399,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/doc/content/DesignLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn707" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java" />
+              <option name="titleSlug" value="design-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/string/leetcode/editor/cn/ImplementStrstr.java">
           <value>
             <LeetcodeEditor>
