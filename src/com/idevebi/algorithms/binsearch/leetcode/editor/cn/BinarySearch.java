@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode704BinarySearch {
+/**
+ * 704. 二分查找
+ */
+public class BinarySearch {
     public static void main(String[] args) {
-        Solution solution = new Leetcode704BinarySearch().new Solution();
+        Solution solution = new BinarySearch().new Solution();
 
         System.out.println(solution.search(new int[]{-1, 0, 3, 5, 9, 12}, 9));
         System.out.println(solution.search(new int[]{-1, 0, 3, 5, 9, 12}, 2));

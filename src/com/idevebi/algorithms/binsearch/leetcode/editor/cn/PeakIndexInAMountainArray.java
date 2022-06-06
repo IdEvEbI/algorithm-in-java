@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode852PeakIndexInAMountainArray {
+/**
+ * 852. 山脉数组的峰顶索引
+ */
+public class PeakIndexInAMountainArray {
     public static void main(String[] args) {
-        Solution solution = new Leetcode852PeakIndexInAMountainArray().new Solution();
+        Solution solution = new PeakIndexInAMountainArray().new Solution();
 
         System.out.println(solution.peakIndexInMountainArray(new int[]{0, 1, 0}));
         System.out.println(solution.peakIndexInMountainArray(new int[]{0, 4, 5, 9, 10, 5, 2}));
@@ -11,9 +14,6 @@ public class Leetcode852PeakIndexInAMountainArray {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-        /**
-         * 使用二分查找，找到数组中的最大值索引
-         */
         public int peakIndexInMountainArray(int[] arr) {
             int left = 1;
             int right = arr.length - 2;

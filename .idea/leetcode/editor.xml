@@ -3,6 +3,39 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/BinarySearch.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/BinarySearch.md" />
+              <option name="frontendQuestionId" value="leetcode.cn704" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/BinarySearch.java" />
+              <option name="titleSlug" value="binary-search" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/PeakIndexInAMountainArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/PeakIndexInAMountainArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn852" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/PeakIndexInAMountainArray.java" />
+              <option name="titleSlug" value="peak-index-in-a-mountain-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
+              <option name="frontendQuestionId" value="leetcode.cn35" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java" />
+              <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/BaShuZuPaiChengZuiXiaoDeShuLcof.java">
           <value>
             <LeetcodeEditor>
@@ -369,10 +402,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SearchInsertPosition.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
               <option name="frontendQuestionId" value="leetcode.cn35" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SearchInsertPosition.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java" />
               <option name="titleSlug" value="search-insert-position" />
             </LeetcodeEditor>
           </value>
@@ -1370,10 +1403,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode35SearchInsertPosition.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
               <option name="frontendQuestionId" value="leetcode.cn35" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SearchInsertPosition.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java" />
               <option name="titleSlug" value="search-insert-position" />
             </LeetcodeEditor>
           </value>
@@ -1645,10 +1678,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode704BinarySearch.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode704BinarySearch.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/BinarySearch.md" />
               <option name="frontendQuestionId" value="leetcode.cn704" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode704BinarySearch.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/BinarySearch.java" />
               <option name="titleSlug" value="binary-search" />
             </LeetcodeEditor>
           </value>
@@ -1755,10 +1788,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode852PeakIndexInAMountainArray.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode852PeakIndexInAMountainArray.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/PeakIndexInAMountainArray.md" />
               <option name="frontendQuestionId" value="leetcode.cn852" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode852PeakIndexInAMountainArray.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/PeakIndexInAMountainArray.java" />
               <option name="titleSlug" value="peak-index-in-a-mountain-array" />
             </LeetcodeEditor>
           </value>

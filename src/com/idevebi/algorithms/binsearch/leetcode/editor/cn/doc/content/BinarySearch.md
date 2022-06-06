@@ -24,4 +24,4 @@
 	<li><code>n</code>&nbsp;将在&nbsp;<code>[1, 10000]</code>之间。</li>
 	<li><code>nums</code>&nbsp;的每个元素都将在&nbsp;<code>[-9999, 9999]</code>之间。</li>
 </ol>
-<div><div>Related Topics</div><div><li>数组</li><li>二分查找</li></div></div><br><div><li>👍 838</li><li>👎 0</li></div>
+<div><li>👍 850</li><li>👎 0</li></div>

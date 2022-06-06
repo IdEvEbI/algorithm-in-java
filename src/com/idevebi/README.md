@@ -161,3 +161,11 @@
     1. [希尔排序](algorithms/sort/sorting/ShellSort.java)
 
 3. 时间复杂度 O(n) 级排序算法
+
+### 2.4 二分查找
+
+> 课程资料：学习计划 → 二分查找
+
+1. 「二分查找」例题
+    1. [704. 二分查找](algorithms/binsearch/leetcode/editor/cn/BinarySearch.java)
+    2. [852. 山脉数组的峰顶索引](algorithms/binsearch/leetcode/editor/cn/PeakIndexInAMountainArray.java)
