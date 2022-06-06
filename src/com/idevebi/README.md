@@ -48,11 +48,13 @@
 
 ### 1.3 链表
 
-> 课程资料：LeetBook → 链表 | 学习计划 → 算法
+> 课程资料：LeetBook → 链表 | 学习计划 → 算法 | 学习计划 → 数据结构
 
 1. 「算法」例题
     1. [876. 链表的中间结点](datastructures/linkedList/leetcode/editor/cn/MiddleOfTheLinkedList.java)
-2. 「链表」例题
+2. 「数据结构」例题
+    1. [83. 删除排序链表中的重复元素]()
+3. 「链表」例题
     1. [707. 设计链表](datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java)
     2. [206. 反转链表](datastructures/linkedList/leetcode/editor/cn/ReverseLinkedList.java)
     3. [203. 移除链表元素](datastructures/linkedList/leetcode/editor/cn/RemoveLinkedListElements.java)
