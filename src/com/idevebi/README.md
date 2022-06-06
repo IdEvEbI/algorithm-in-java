@@ -54,6 +54,7 @@
     1. [707. 设计链表](datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java)
     2. [141. 环形链表](datastructures/linkedList/leetcode/editor/cn/LinkedListCycle.java)
     3. [142. 环形链表 II](datastructures/linkedList/leetcode/editor/cn/LinkedListCycleIi.java)
+    4. [160. 相交链表](datastructures/linkedList/leetcode/editor/cn/IntersectionOfTwoLinkedLists.java)
 
 ### 1.4 栈
 
