@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.stack.leetcode.editor.cn;
 
 import java.util.Stack;
 
-public class Leetcode20ValidParentheses {
+/**
+ * 20. 有效的括号
+ */
+public class ValidParentheses {
     public static void main(String[] args) {
-        Solution solution = new Leetcode20ValidParentheses().new Solution();
+        Solution solution = new ValidParentheses().new Solution();
 
         System.out.println(solution.isValid("()[]{}"));
         System.out.println(solution.isValid("([)]"));

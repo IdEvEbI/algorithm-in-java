@@ -51,4 +51,4 @@
 	<li><code>1 <= s.length <= 10<sup>4</sup></code></li>
 	<li><code>s</code> 仅由括号 <code>'()[]{}'</code> 组成</li>
 </ul>
-<div><div>Related Topics</div><div><li>栈</li><li>字符串</li></div></div><br><div><li>👍 3283</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>栈</li><li>字符串</li></div></div><br><div><li>👍 3297</li><li>👎 0</li></div>
