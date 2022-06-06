@@ -1,6 +1,6 @@
 package com.idevebi.algorithmsBak.datastructures.queue.create;
 
-import com.idevebi.algorithmsBak.datastructures.linkedList.ListNode;
+import com.idevebi.datastructures.linkedList.ListNode;
 
 /**
  * 使用链表实现队列

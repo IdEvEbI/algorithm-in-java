@@ -1,11 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.linkedList.leetcode.editor.cn;
 
 import com.idevebi.datastructures.linkedList.ListNode;
 import com.idevebi.datastructures.util.LinkedListHelper;
 
-public class Leetcode141LinkedListCycle {
+/**
+ * 141. 环形链表
+ */
+public class LinkedListCycle {
     public static void main(String[] args) {
-        Solution solution = new Leetcode141LinkedListCycle().new Solution();
+        Solution solution = new LinkedListCycle().new Solution();
 
         ListNode head = LinkedListHelper.createTestCycleList();
         System.out.println(solution.hasCycle(head));

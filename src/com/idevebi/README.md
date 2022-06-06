@@ -52,6 +52,7 @@
 
 1. 「链表」例题
     1. [707. 设计链表](datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java)
+    2. [141. 环形链表](datastructures/linkedList/leetcode/editor/cn/LinkedListCycle.java)
 
 ### 1.4 栈
 
