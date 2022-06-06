@@ -38,4 +38,4 @@
 <p><strong>进阶：</strong>链表可以选用迭代或递归方式完成反转。你能否用两种方法解决这道题？</p>
 </div>
 </div>
-<div><div>Related Topics</div><div><li>递归</li><li>链表</li></div></div><br><div><li>👍 2546</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>递归</li><li>链表</li></div></div><br><div><li>👍 2559</li><li>👎 0</li></div>

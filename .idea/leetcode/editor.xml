@@ -454,6 +454,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/ReverseLinkedList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/doc/content/ReverseLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn206" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/ReverseLinkedList.java" />
+              <option name="titleSlug" value="reverse-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/string/leetcode/editor/cn/ImplementStrstr.java">
           <value>
             <LeetcodeEditor>
@@ -919,10 +930,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode206ReverseLinkedList.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode206ReverseLinkedList.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/doc/content/ReverseLinkedList.md" />
               <option name="frontendQuestionId" value="leetcode.cn206" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode206ReverseLinkedList.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/ReverseLinkedList.java" />
               <option name="titleSlug" value="reverse-linked-list" />
             </LeetcodeEditor>
           </value>

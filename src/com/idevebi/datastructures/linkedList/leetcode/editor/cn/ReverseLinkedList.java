@@ -1,16 +1,19 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.linkedList.leetcode.editor.cn;
 
 import com.idevebi.datastructures.linkedList.ListNode;
 import com.idevebi.datastructures.util.LinkedListHelper;
 
-public class Leetcode206ReverseLinkedList {
+/**
+ * 206. 反转链表
+ */
+public class ReverseLinkedList {
     public static void main(String[] args) {
-        Solution solution = new Leetcode206ReverseLinkedList().new Solution();
+        Solution solution = new ReverseLinkedList().new Solution();
 
         ListNode head = LinkedListHelper.createTestList();
 
         head = solution.reverseList(head);
-        System.out.println(head);
+        System.out.println(head.val);
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
