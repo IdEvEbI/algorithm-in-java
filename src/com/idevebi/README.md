@@ -51,7 +51,7 @@
 > 课程资料：LeetBook → 链表 | 学习计划 → 算法
 
 1. 「算法」例题
-    1. [876. 链表的中间结点](algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java)
+    1. [876. 链表的中间结点](datastructures/linkedList/leetcode/editor/cn/MiddleOfTheLinkedList.java)
 2. 「链表」例题
     1. [707. 设计链表](datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java)
     2. [206. 反转链表](datastructures/linkedList/leetcode/editor/cn/ReverseLinkedList.java)
@@ -62,6 +62,7 @@
     7. [142. 环形链表 II](datastructures/linkedList/leetcode/editor/cn/LinkedListCycleIi.java)
     8. [160. 相交链表](datastructures/linkedList/leetcode/editor/cn/IntersectionOfTwoLinkedLists.java)
     9. [19. 删除链表的倒数第 N 个结点](datastructures/linkedList/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
+    10. [21. 合并两个有序链表](datastructures/linkedList/leetcode/editor/cn/MergeTwoSortedLists.java)
 
 ### 1.4 栈
 

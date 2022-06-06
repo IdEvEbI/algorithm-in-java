@@ -32,4 +32,4 @@
 	<li><code>-100 <= Node.val <= 100</code></li>
 	<li><code>l1</code> 和 <code>l2</code> 均按 <strong>非递减顺序</strong> 排列</li>
 </ul>
-<div><div>Related Topics</div><div><li>递归</li><li>链表</li></div></div><br><div><li>👍 2458</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>递归</li><li>链表</li></div></div><br><div><li>👍 2463</li><li>👎 0</li></div>

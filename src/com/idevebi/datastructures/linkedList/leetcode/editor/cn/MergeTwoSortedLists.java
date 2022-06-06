@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.linkedList.leetcode.editor.cn;
 
 import com.idevebi.datastructures.linkedList.ListNode;
 
-public class Leetcode21MergeTwoSortedLists {
+/**
+ * 21. 合并两个有序链表
+ */
+public class MergeTwoSortedLists {
     public static void main(String[] args) {
-        Solution solution = new Leetcode21MergeTwoSortedLists().new Solution();
+        Solution solution = new MergeTwoSortedLists().new Solution();
 
         // 创建链表
         ListNode list1 = new ListNode(1);
