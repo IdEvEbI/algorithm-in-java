@@ -64,6 +64,7 @@
     9. [19. 删除链表的倒数第 N 个结点](datastructures/linkedList/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
     10. [21. 合并两个有序链表](datastructures/linkedList/leetcode/editor/cn/MergeTwoSortedLists.java)
     11. [2. 两数相加](datastructures/linkedList/leetcode/editor/cn/AddTwoNumbers.java)
+    12. [430. 扁平化多级双向链表](datastructures/linkedList/leetcode/editor/cn/FlattenAMultilevelDoublyLinkedList.java)
 
 ### 1.4 栈
 
