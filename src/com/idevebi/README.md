@@ -54,10 +54,11 @@
     1. [707. 设计链表](datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java)
     2. [206. 反转链表](datastructures/linkedList/leetcode/editor/cn/ReverseLinkedList.java)
     3. [203. 移除链表元素](datastructures/linkedList/leetcode/editor/cn/RemoveLinkedListElements.java)
-    4. [141. 环形链表](datastructures/linkedList/leetcode/editor/cn/LinkedListCycle.java)
-    5. [142. 环形链表 II](datastructures/linkedList/leetcode/editor/cn/LinkedListCycleIi.java)
-    6. [160. 相交链表](datastructures/linkedList/leetcode/editor/cn/IntersectionOfTwoLinkedLists.java)
-    7. [19. 删除链表的倒数第 N 个结点](datastructures/linkedList/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
+    4. [328. 奇偶链表](datastructures/linkedList/leetcode/editor/cn/OddEvenLinkedList.java)
+    5. [141. 环形链表](datastructures/linkedList/leetcode/editor/cn/LinkedListCycle.java)
+    6. [142. 环形链表 II](datastructures/linkedList/leetcode/editor/cn/LinkedListCycleIi.java)
+    7. [160. 相交链表](datastructures/linkedList/leetcode/editor/cn/IntersectionOfTwoLinkedLists.java)
+    8. [19. 删除链表的倒数第 N 个结点](datastructures/linkedList/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
 
 ### 1.4 栈
 
