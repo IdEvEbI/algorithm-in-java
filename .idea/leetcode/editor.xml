@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/FindTheDistanceValueBetweenTwoArrays.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1385" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java" />
+              <option name="titleSlug" value="find-the-distance-value-between-two-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/PeakIndexInAMountainArray.java">
           <value>
             <LeetcodeEditor>
@@ -33,6 +44,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java" />
               <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/ValidPerfectSquare.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/ValidPerfectSquare.md" />
+              <option name="frontendQuestionId" value="leetcode.cn367" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/ValidPerfectSquare.java" />
+              <option name="titleSlug" value="valid-perfect-square" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1007,10 +1029,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1385FindTheDistanceValueBetweenTwoArrays.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode1385FindTheDistanceValueBetweenTwoArrays.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/FindTheDistanceValueBetweenTwoArrays.md" />
               <option name="frontendQuestionId" value="leetcode.cn1385" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1385FindTheDistanceValueBetweenTwoArrays.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java" />
               <option name="titleSlug" value="find-the-distance-value-between-two-arrays" />
             </LeetcodeEditor>
           </value>
@@ -1414,10 +1436,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode367ValidPerfectSquare.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode367ValidPerfectSquare.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/ValidPerfectSquare.md" />
               <option name="frontendQuestionId" value="leetcode.cn367" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode367ValidPerfectSquare.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/ValidPerfectSquare.java" />
               <option name="titleSlug" value="valid-perfect-square" />
             </LeetcodeEditor>
           </value>

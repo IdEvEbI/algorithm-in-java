@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
 import java.util.Arrays;
 
-public class Leetcode1385FindTheDistanceValueBetweenTwoArrays {
+/**
+ * 1385. 两个数组间的距离值
+ */
+public class FindTheDistanceValueBetweenTwoArrays {
     public static void main(String[] args) {
-        Solution solution = new Leetcode1385FindTheDistanceValueBetweenTwoArrays().new Solution();
+        Solution solution = new FindTheDistanceValueBetweenTwoArrays().new Solution();
 
         int[] arr1 = {1, 4, 2, 3};
         int[] arr2 = {-4, -3, 6, 10, 20, 30};
@@ -17,7 +20,6 @@ public class Leetcode1385FindTheDistanceValueBetweenTwoArrays {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-
         /**
          * 方法 1： 模拟优化（思路好理解）
          */

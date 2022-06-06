@@ -25,4 +25,4 @@
 <ul>
 	<li><code>1 <= num <= 2^31 - 1</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>数学</li><li>二分查找</li></div></div><br><div><li>👍 395</li><li>👎 0</li></div>
+<div><li>👍 397</li><li>👎 0</li></div>

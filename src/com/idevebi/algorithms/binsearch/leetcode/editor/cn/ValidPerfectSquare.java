@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode367ValidPerfectSquare {
+/**
+ * 367. 有效的完全平方数
+ */
+public class ValidPerfectSquare {
     public static void main(String[] args) {
-        Solution solution = new Leetcode367ValidPerfectSquare().new Solution();
+        Solution solution = new ValidPerfectSquare().new Solution();
 
         System.out.println(solution.isPerfectSquare(16));
         System.out.println(solution.isPerfectSquare(14));
