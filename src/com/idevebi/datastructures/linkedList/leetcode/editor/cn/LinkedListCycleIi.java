@@ -1,4 +1,4 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.linkedList.leetcode.editor.cn;
 
 import com.idevebi.datastructures.linkedList.ListNode;
 import com.idevebi.datastructures.util.LinkedListHelper;
@@ -7,23 +7,30 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * 142. 环形链表 II
+ * <p>
  * 参考资料：<a href="https://leetcode.cn/problems/linked-list-cycle-ii/solution/142-huan-xing-lian-biao-ii-jian-hua-gong-shi-jia-2/">https://leetcode.cn/problems/linked-list-cycle-ii/solution/142-huan-xing-lian-biao-ii-jian-hua-gong-shi-jia-2/</a>
  */
-public class Leetcode142LinkedListCycleIi {
+public class LinkedListCycleIi {
     public static void main(String[] args) {
-        Solution solution = new Leetcode142LinkedListCycleIi().new Solution();
+        Solution solution = new LinkedListCycleIi().new Solution();
 
         ListNode head = LinkedListHelper.createTestCycleList();
-        System.out.println(solution.detectCycle(head));
+        System.out.println(solution.detectCycle(head).val);
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
 
     public class Solution {
-        /**
-         * 快慢指针解题，需要数学计算，空间复杂度 O(1)
-         */
+
         public ListNode detectCycle(ListNode head) {
+            return detectWithTwoPointers(head);
+        }
+
+        /**
+         * 方法 2：快慢指针，需要数学计算，空间复杂度 O(1)
+         */
+        private ListNode detectWithTwoPointers(ListNode head) {
             // 判断是否具备环的条件
             if (head == null || head.next == null) {
                 return null;
@@ -57,9 +64,9 @@ public class Leetcode142LinkedListCycleIi {
         }
 
         /**
-         * 使用哈希表解题，思路简单，空间复杂度 N(n)
+         * 方法 1：使用哈希表，思路简单，空间复杂度 N(n)
          */
-        public ListNode detectCycle2(ListNode head) {
+        private ListNode detectWithHashSet(ListNode head) {
             // 定义集合记录所有曾经访问过的节点
             Set<ListNode> set = new HashSet<>();
 
