@@ -23,11 +23,11 @@ public class LeetcodeMinStack {
         /**
          * 数据栈
          */
-        private Stack<Integer> dataStack;
+        Stack<Integer> dataStack;
         /**
          * 最小栈
          */
-        private Stack<Integer> minStack;
+        Stack<Integer> minStack;
 
         /**
          * 构造器

@@ -608,6 +608,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/BaoHanMinhanShuDeZhanLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/doc/content/BaoHanMinhanShuDeZhanLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 30" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/BaoHanMinhanShuDeZhanLcof.java" />
+              <option name="titleSlug" value="bao-han-minhan-shu-de-zhan-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/stack/leetcode/editor/cn/DailyTemperatures.java">
           <value>
             <LeetcodeEditor>
