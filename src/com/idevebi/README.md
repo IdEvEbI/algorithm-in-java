@@ -55,6 +55,7 @@
     2. [141. 环形链表](datastructures/linkedList/leetcode/editor/cn/LinkedListCycle.java)
     3. [142. 环形链表 II](datastructures/linkedList/leetcode/editor/cn/LinkedListCycleIi.java)
     4. [160. 相交链表](datastructures/linkedList/leetcode/editor/cn/IntersectionOfTwoLinkedLists.java)
+    5. [19. 删除链表的倒数第 N 个结点](datastructures/linkedList/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
 
 ### 1.4 栈
 
@@ -107,7 +108,6 @@
     2. [189. 轮转数组](algorithms/twopointers/leetcode/editor/cn/RotateArray.java)
     3. [557. 反转字符串中的单词 III](algorithms/twopointers/leetcode/editor/cn/doc/content/ReverseWordsInAStringIii.md)
     4. [876. 链表的中间结点](algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java)
-    5. [19. 删除链表的倒数第 N 个结点](algorithms/twopointers/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java)
 4. 「数组类算法」例题
     1. [125. 验证回文串](algorithms/twopointers/leetcode/editor/cn/ValidPalindrome.java)
     2. [345. 反转字符串中的元音字母](algorithms/twopointers/leetcode/editor/cn/ReverseVowelsOfAString.java)
