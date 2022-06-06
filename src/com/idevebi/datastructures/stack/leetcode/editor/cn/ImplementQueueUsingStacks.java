@@ -53,7 +53,7 @@ public class ImplementQueueUsingStacks {
         }
 
         /**
-         * 栈顶的值
+         * 查看队头元素
          */
         public int peek() {
             // 1. 如果 outStack 为空，将 inStack 的所有元素「搬」到 outStack
@@ -66,6 +66,9 @@ public class ImplementQueueUsingStacks {
             return outStack.peek();
         }
 
+        /**
+         * 是否为空
+         */
         public boolean empty() {
             return inStack.isEmpty() && outStack.isEmpty();
         }

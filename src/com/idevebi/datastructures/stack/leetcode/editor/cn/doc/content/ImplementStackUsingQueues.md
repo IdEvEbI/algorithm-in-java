@@ -51,4 +51,4 @@ myStack.empty(); // 返回 False
 <p>&nbsp;</p>
 
 <p><strong>进阶：</strong>你能否仅用一个队列来实现栈。</p>
-<div><div>Related Topics</div><div><li>栈</li><li>设计</li><li>队列</li></div></div><br><div><li>👍 528</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>栈</li><li>设计</li><li>队列</li></div></div><br><div><li>👍 531</li><li>👎 0</li></div>

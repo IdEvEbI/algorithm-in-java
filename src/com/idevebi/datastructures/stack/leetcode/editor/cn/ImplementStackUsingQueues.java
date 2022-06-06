@@ -1,11 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.stack.leetcode.editor.cn;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Leetcode225ImplementStackUsingQueues {
+/**
+ * 225. 用队列实现栈
+ */
+public class ImplementStackUsingQueues {
     public static void main(String[] args) {
-        MyStack stack = new Leetcode225ImplementStackUsingQueues().new MyStack();
+        MyStack stack = new ImplementStackUsingQueues().new MyStack();
 
         stack.push(1);
         stack.push(2);
@@ -17,33 +20,29 @@ public class Leetcode225ImplementStackUsingQueues {
     //leetcode submit region begin(Prohibit modification and deletion)
     class MyStack {
 
-        // 使用两个队列实现
-        private Queue<Integer> q1;
-        private Queue<Integer> q2;
+        // q1 负责存数据 + 出栈
+        Queue<Integer> q1;
+        // q2 负责入栈
+        Queue<Integer> q2;
 
-        /**
-         * 构造器
-         */
         public MyStack() {
-            this.q1 = new LinkedList<>();
-            this.q2 = new LinkedList<>();
+            q1 = new LinkedList<>();
+            q2 = new LinkedList<>();
         }
 
         /**
-         * 压栈
-         *
-         * @param x 入栈的值
+         * 入栈
          */
         public void push(int x) {
-            // 1. 将 x 加入 q2
+            // 1. x 从 q2 入队
             q2.offer(x);
 
-            // 2. 把 q1 顺序出队，重新添加到 q2
+            // 2. q1 出队追加到 q2
             while (!q1.isEmpty()) {
                 q2.offer(q1.poll());
             }
 
-            // 3. 交换 q1 和 q2
+            // 3. 交换 q1 & q2
             Queue<Integer> tmp = q1;
             q1 = q2;
             q2 = tmp;
@@ -51,28 +50,20 @@ public class Leetcode225ImplementStackUsingQueues {
 
         /**
          * 出栈
-         *
-         * @return 出栈的值
          */
         public int pop() {
-            // 如果队列为空，remove 抛出异常，poll 返回 null
             return q1.poll();
         }
 
         /**
-         * 栈顶的值，等价于 peek
-         *
-         * @return 栈顶的值（不出栈）
+         * 查看栈顶元素
          */
-
         public int top() {
             return q1.peek();
         }
 
         /**
-         * 判断是否栈空
-         *
-         * @return 是否栈空
+         * 是否为空
          */
         public boolean empty() {
             return q1.isEmpty();
