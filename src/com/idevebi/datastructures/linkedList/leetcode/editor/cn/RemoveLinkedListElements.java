@@ -1,16 +1,19 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.linkedList.leetcode.editor.cn;
 
 import com.idevebi.datastructures.linkedList.ListNode;
 import com.idevebi.datastructures.util.LinkedListHelper;
 
-public class Leetcode203RemoveLinkedListElements {
+/**
+ * 203. 移除链表元素
+ */
+public class RemoveLinkedListElements {
     public static void main(String[] args) {
-        Solution solution = new Leetcode203RemoveLinkedListElements().new Solution();
+        Solution solution = new RemoveLinkedListElements().new Solution();
 
         ListNode head = LinkedListHelper.createTestList();
 
         head = solution.removeElements(head, 3);
-        System.out.println(head);
+        System.out.println(head.val);
 
         head = new ListNode(7);
         head.next = new ListNode(7);
