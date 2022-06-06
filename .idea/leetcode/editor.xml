@@ -597,6 +597,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/queue/leetcode/editor/cn/MovingAverageFromDataStream.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/queue/leetcode/editor/cn/doc/content/MovingAverageFromDataStream.md" />
+              <option name="frontendQuestionId" value="leetcode.cn346" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/queue/leetcode/editor/cn/MovingAverageFromDataStream.java" />
+              <option name="titleSlug" value="moving-average-from-data-stream" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/string/leetcode/editor/cn/ImplementStrstr.java">
           <value>
             <LeetcodeEditor>

@@ -77,7 +77,8 @@
 ### 1.4 队列
 
 1. 「队列 & 栈」例题
-   1. [622. 设计循环队列](datastructures/queue/leetcode/editor/cn/DesignCircularQueue.java)
+    1. [622. 设计循环队列](datastructures/queue/leetcode/editor/cn/DesignCircularQueue.java)
+    2. [346. 数据流中的移动平均值](datastructures/queue/leetcode/editor/cn/MovingAverageFromDataStream.java)
 
 ### 1.5 栈
 
