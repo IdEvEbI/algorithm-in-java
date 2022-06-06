@@ -48,9 +48,11 @@
 
 ### 1.3 链表
 
-> 课程资料：LeetBook → 链表
+> 课程资料：LeetBook → 链表 | 学习计划 → 算法
 
-1. 「链表」例题
+1. 「算法」例题
+    1. [876. 链表的中间结点](algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java)
+2. 「链表」例题
     1. [707. 设计链表](datastructures/linkedList/leetcode/editor/cn/DesignLinkedList.java)
     2. [206. 反转链表](datastructures/linkedList/leetcode/editor/cn/ReverseLinkedList.java)
     3. [203. 移除链表元素](datastructures/linkedList/leetcode/editor/cn/RemoveLinkedListElements.java)
@@ -111,7 +113,6 @@
     1. [977. 有序数组的平方](algorithms/twopointers/leetcode/editor/cn/SquaresOfASortedArray.java)
     2. [189. 轮转数组](algorithms/twopointers/leetcode/editor/cn/RotateArray.java)
     3. [557. 反转字符串中的单词 III](algorithms/twopointers/leetcode/editor/cn/doc/content/ReverseWordsInAStringIii.md)
-    4. [876. 链表的中间结点](algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java)
 4. 「数组类算法」例题
     1. [125. 验证回文串](algorithms/twopointers/leetcode/editor/cn/ValidPalindrome.java)
     2. [345. 反转字符串中的元音字母](algorithms/twopointers/leetcode/editor/cn/ReverseVowelsOfAString.java)

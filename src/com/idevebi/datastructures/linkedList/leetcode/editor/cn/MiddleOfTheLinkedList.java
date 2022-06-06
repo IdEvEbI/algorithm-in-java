@@ -1,4 +1,4 @@
-package com.idevebi.algorithms.twopointers.leetcode.editor.cn;
+package com.idevebi.datastructures.linkedList.leetcode.editor.cn;
 
 import com.idevebi.datastructures.linkedList.ListNode;
 import com.idevebi.datastructures.util.LinkedListHelper;

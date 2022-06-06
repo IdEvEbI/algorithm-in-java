@@ -83,10 +83,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/MiddleOfTheLinkedList.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/doc/content/MiddleOfTheLinkedList.md" />
               <option name="frontendQuestionId" value="leetcode.cn876" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/MiddleOfTheLinkedList.java" />
               <option name="titleSlug" value="middle-of-the-linked-list" />
             </LeetcodeEditor>
           </value>
@@ -440,6 +440,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/LinkedListCycleIi.java" />
               <option name="titleSlug" value="linked-list-cycle-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/MiddleOfTheLinkedList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/doc/content/MiddleOfTheLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn876" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/MiddleOfTheLinkedList.java" />
+              <option name="titleSlug" value="middle-of-the-linked-list" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1557,10 +1568,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode876MiddleOfTheLinkedList.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/doc/content/MiddleOfTheLinkedList.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/doc/content/MiddleOfTheLinkedList.md" />
               <option name="frontendQuestionId" value="leetcode.cn876" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/twopointers/leetcode/editor/cn/MiddleOfTheLinkedList.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/linkedList/leetcode/editor/cn/MiddleOfTheLinkedList.java" />
               <option name="titleSlug" value="middle-of-the-linked-list" />
             </LeetcodeEditor>
           </value>
