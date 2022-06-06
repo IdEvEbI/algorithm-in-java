@@ -586,6 +586,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/queue/leetcode/editor/cn/DesignCircularQueue.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/queue/leetcode/editor/cn/doc/content/DesignCircularQueue.md" />
+              <option name="frontendQuestionId" value="leetcode.cn622" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/queue/leetcode/editor/cn/DesignCircularQueue.java" />
+              <option name="titleSlug" value="design-circular-queue" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/string/leetcode/editor/cn/ImplementStrstr.java">
           <value>
             <LeetcodeEditor>
