@@ -65,6 +65,7 @@
     10. [21. 合并两个有序链表](datastructures/linkedList/leetcode/editor/cn/MergeTwoSortedLists.java)
     11. [2. 两数相加](datastructures/linkedList/leetcode/editor/cn/AddTwoNumbers.java)
     12. [430. 扁平化多级双向链表](datastructures/linkedList/leetcode/editor/cn/FlattenAMultilevelDoublyLinkedList.java)
+    13. [138. 复制带随机指针的链表](datastructures/linkedList/leetcode/editor/cn/CopyListWithRandomPointer.java)
 
 ### 1.4 栈
 
