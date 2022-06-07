@@ -1,16 +1,16 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.matrix.leetcode.editor.cn;
 
 import java.util.Arrays;
+import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 /**
- * 参考题解：<a href="https://leetcode.cn/problems/flood-fill/solution/python3-dfs-yu-bfs-liang-chong-fang-fa-san-chong-s/">https://leetcode.cn/problems/flood-fill/solution/python3-dfs-yu-bfs-liang-chong-fang-fa-san-chong-s/</a>
+ * 733. 图像渲染
  */
-public class Leetcode733FloodFill {
+public class FloodFill {
     public static void main(String[] args) {
-        Solution solution = new Leetcode733FloodFill().new Solution();
+        Solution solution = new FloodFill().new Solution();
 
         int[][] image = {{1, 1, 1}, {1, 1, 0}, {1, 0, 1}};
         image = solution.floodFill(image, 1, 1, 2);
@@ -22,9 +22,6 @@ public class Leetcode733FloodFill {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-        /**
-         * 方法 1：DFS 深度优先搜索（递归）
-         */
         public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
             // 初始颜色
             int originalColor = image[sr][sc];
@@ -33,6 +30,8 @@ public class Leetcode733FloodFill {
         }
 
         /**
+         * 方法 3：DFS 深度优先搜索（递归）
+         * <p>
          * 在使用 DFS 递归调用时，需要判断一下 newColor，否则在提交代码是，测试用例会出现堆栈溢出
          */
         private int[][] floodFillDFS(int[][] image, int sr, int sc, int newColor, int originalColor) {
@@ -58,7 +57,7 @@ public class Leetcode733FloodFill {
          * 1. DFS 通常和 栈 搭配使用
          * 2. DFS 的代码除了数据结构不同，算法实现完全一样
          */
-        public int[][] floodFill2(int[][] image, int sr, int sc, int newColor) {
+        public int[][] floodFillDFS(int[][] image, int sr, int sc, int newColor) {
             // 0. 如果新颜色和当前色相同，直接返回
             if (newColor == image[sr][sc]) {
                 return image;
@@ -67,8 +66,10 @@ public class Leetcode733FloodFill {
             // 1. 准备工作
             // 定义四个方向：上、右、下、左
             int[][] dirs = {{0, -1}, {1, 0}, {0, 1}, {-1, 0}};
+
             // 定义栈
-            Stack<int[]> stack = new Stack<>();
+            // Stack<int[]> stack = new Stack<>();
+            Deque<int[]> stack = new LinkedList<>();
 
             // 起始点入栈
             stack.push(new int[]{sr, sc});
@@ -102,13 +103,13 @@ public class Leetcode733FloodFill {
         }
 
         /**
-         * 方法 3：BFS 广度优先搜索
+         * 方法 1：BFS 广度优先搜索
          * <p>
          * 1. BFS 通常和 队列 搭配使用
          * 2. 从 image[sr][sc] 开始找周围的 4 个点（把最近一圈搞定）
          * 3. 再处理周围 4 个点对应的周围的点，依次类推……
          */
-        public int[][] floodFill3(int[][] image, int sr, int sc, int newColor) {
+        private int[][] floodFillBFS(int[][] image, int sr, int sc, int newColor) {
             // 0. 如果新颜色和当前色相同，直接返回
             if (newColor == image[sr][sc]) {
                 return image;
