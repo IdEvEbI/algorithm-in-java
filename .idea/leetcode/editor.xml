@@ -828,6 +828,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NumberOfEnclaves.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/doc/content/NumberOfEnclaves.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1020" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NumberOfEnclaves.java" />
+              <option name="titleSlug" value="number-of-enclaves" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NumberOfIslands.java">
           <value>
             <LeetcodeEditor>
