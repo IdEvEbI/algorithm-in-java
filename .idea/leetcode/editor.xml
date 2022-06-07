@@ -729,6 +729,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/doc/content/TheKWeakestRowsInAMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1337" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java" />
+              <option name="titleSlug" value="the-k-weakest-rows-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/queue/leetcode/editor/cn/DesignCircularQueue.java">
           <value>
             <LeetcodeEditor>
