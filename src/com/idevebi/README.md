@@ -171,3 +171,4 @@
     2. [852. 山脉数组的峰顶索引](algorithms/binsearch/leetcode/editor/cn/PeakIndexInAMountainArray.java)
     3. [367. 有效的完全平方数](algorithms/binsearch/leetcode/editor/cn/ValidPerfectSquare.java)
     4. [1385. 两个数组间的距离值](algorithms/binsearch/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java)
+    5. [33. 搜索旋转排序数组](algorithms/binsearch/leetcode/editor/cn/SearchInRotatedSortedArray.java)
