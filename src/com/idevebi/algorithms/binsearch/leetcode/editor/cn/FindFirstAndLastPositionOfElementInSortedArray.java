@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
 import java.util.Arrays;
 
-public class Leetcode34FindFirstAndLastPositionOfElementInSortedArray {
+/**
+ * 34. 在排序数组中查找元素的第一个和最后一个位置
+ */
+public class FindFirstAndLastPositionOfElementInSortedArray {
     public static void main(String[] args) {
-        Solution solution = new Leetcode34FindFirstAndLastPositionOfElementInSortedArray().new Solution();
+        Solution solution = new FindFirstAndLastPositionOfElementInSortedArray().new Solution();
 
         int[] ans = solution.searchRange(new int[]{}, -1);
         System.out.println(Arrays.toString(ans));

@@ -38,4 +38,4 @@
 	<li><code>nums</code> 是一个非递减数组</li>
 	<li><code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code></li>
 </ul>
-<div><div>Related Topics</div><div><li>数组</li><li>二分查找</li></div></div><br><div><li>👍 1725</li><li>👎 0</li></div>
+<div><li>👍 1742</li><li>👎 0</li></div>

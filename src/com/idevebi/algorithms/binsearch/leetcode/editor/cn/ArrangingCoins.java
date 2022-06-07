@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode441ArrangingCoins {
+/**
+ * 441. 排列硬币
+ */
+public class ArrangingCoins {
     public static void main(String[] args) {
-        Solution solution = new Leetcode441ArrangingCoins().new Solution();
+        Solution solution = new ArrangingCoins().new Solution();
 
         System.out.println(solution.arrangeCoins(1));
         System.out.println(solution.arrangeCoins(2));
@@ -16,7 +19,7 @@ public class Leetcode441ArrangingCoins {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         /**
-         * 方法 1：二分法 n = x * (x + 1) / 2
+         * 二分法 n = x * (x + 1) / 2
          */
         public int arrangeCoins(int n) {
             int left = 1;
@@ -33,16 +36,6 @@ public class Leetcode441ArrangingCoins {
             }
 
             return left;
-        }
-
-        /**
-         * 方法 2：数学
-         */
-        public int arrangeCoins2(int n) {
-            // n = x * (x + 1) / 2
-            // 2n = x * x + x
-            // x = (开平方 (8 * n + 1) - 1) / 2
-            return (int) (-1 + Math.sqrt(1 + 8 * (long) n)) / 2;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
