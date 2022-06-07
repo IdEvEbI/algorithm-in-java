@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode744FindSmallestLetterGreaterThanTarget {
+/**
+ * 744. 寻找比目标字母大的最小字母
+ */
+public class FindSmallestLetterGreaterThanTarget {
     public static void main(String[] args) {
-        Solution solution = new Leetcode744FindSmallestLetterGreaterThanTarget().new Solution();
+        Solution solution = new FindSmallestLetterGreaterThanTarget().new Solution();
 
         char letter = solution.nextGreatestLetter(new char[]{'c', 'f', 'j'}, 'a');
         System.out.println(letter);
@@ -20,7 +23,6 @@ public class Leetcode744FindSmallestLetterGreaterThanTarget {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public char nextGreatestLetter(char[] letters, char target) {
-
             int right = letters.length - 1;
 
             // 如果目标字符比所有字符都大

@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/FindSmallestLetterGreaterThanTarget.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/FindSmallestLetterGreaterThanTarget.md" />
+              <option name="frontendQuestionId" value="leetcode.cn744" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/FindSmallestLetterGreaterThanTarget.java" />
+              <option name="titleSlug" value="find-smallest-letter-greater-than-target" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java">
           <value>
             <LeetcodeEditor>
@@ -99,6 +110,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java" />
               <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/Sqrtx.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/Sqrtx.md" />
+              <option name="frontendQuestionId" value="leetcode.cn69" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/Sqrtx.java" />
+              <option name="titleSlug" value="sqrtx" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1799,10 +1821,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode69Sqrtx.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode69Sqrtx.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/Sqrtx.md" />
               <option name="frontendQuestionId" value="leetcode.cn69" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode69Sqrtx.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/Sqrtx.java" />
               <option name="titleSlug" value="sqrtx" />
             </LeetcodeEditor>
           </value>
@@ -1898,10 +1920,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode744FindSmallestLetterGreaterThanTarget.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode744FindSmallestLetterGreaterThanTarget.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/FindSmallestLetterGreaterThanTarget.md" />
               <option name="frontendQuestionId" value="leetcode.cn744" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode744FindSmallestLetterGreaterThanTarget.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/FindSmallestLetterGreaterThanTarget.java" />
               <option name="titleSlug" value="find-smallest-letter-greater-than-target" />
             </LeetcodeEditor>
           </value>

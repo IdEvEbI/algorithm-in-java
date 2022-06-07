@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode69Sqrtx {
+/**
+ * 69. x 的平方根
+ */
+public class Sqrtx {
     public static void main(String[] args) {
-        Solution solution = new Leetcode69Sqrtx().new Solution();
+        Solution solution = new Sqrtx().new Solution();
 
         System.out.println(solution.mySqrt(2));
         System.out.println(solution.mySqrt(3));
@@ -14,13 +17,13 @@ public class Leetcode69Sqrtx {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-        /**
-         * 方法 1：牛顿迭代法
-         */
         public int mySqrt(int x) {
             return (int) ntSqrt(x);
         }
 
+        /**
+         * 方法 2：牛顿迭代法
+         */
         private double ntSqrt(int x) {
             if (x < 0) {
                 return -1;
@@ -37,9 +40,9 @@ public class Leetcode69Sqrtx {
         }
 
         /**
-         * 方法 2：二分法
+         * 方法 1：二分法
          */
-        public int mySqrt2(int x) {
+        private int mySqrtBinarySearch(int x) {
             // 0 和 1 直接返回
             if (x < 2) {
                 return x;

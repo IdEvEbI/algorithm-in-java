@@ -28,4 +28,4 @@
 <ul>
 	<li><code>0 &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>数学</li><li>二分查找</li></div></div><br><div><li>👍 1026</li><li>👎 0</li></div>
+<div><li>👍 1034</li><li>👎 0</li></div>

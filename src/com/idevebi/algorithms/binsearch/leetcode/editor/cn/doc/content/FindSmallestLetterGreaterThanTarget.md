@@ -40,4 +40,4 @@
 	<li><code>letters</code> 最少包含两个不同的字母</li>
 	<li><code>target</code> 是一个小写字母</li>
 </ul>
-<div><div>Related Topics</div><div><li>数组</li><li>二分查找</li></div></div><br><div><li>👍 228</li><li>👎 0</li></div>
+<div><li>👍 228</li><li>👎 0</li></div>
