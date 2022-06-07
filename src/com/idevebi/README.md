@@ -122,6 +122,7 @@
     4. [1254. 统计封闭岛屿的数目](datastructures/matrix/leetcode/editor/cn/NumberOfClosedIslands.java)
     5. [1020. 飞地的数量](datastructures/matrix/leetcode/editor/cn/NumberOfEnclaves.java)
     6. [1905. 统计子岛屿](datastructures/matrix/leetcode/editor/cn/CountSubIslands.java)
+    7. [1162. 地图分析](datastructures/matrix/leetcode/editor/cn/AsFarFromLandAsPossible.java)
 
 ## 二、算法
 
