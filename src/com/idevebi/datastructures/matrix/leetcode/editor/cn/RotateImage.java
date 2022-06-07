@@ -1,4 +1,4 @@
-package com.idevebi.datastructures.array.leetcode.editor.cn;
+package com.idevebi.datastructures.matrix.leetcode.editor.cn;
 
 import java.util.Arrays;
 

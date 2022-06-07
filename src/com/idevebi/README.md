@@ -106,11 +106,11 @@
 > 课程资料：LeetBook → 数组和字符串 | 学习计划 → 数据结构 | 学习计划 → 二分查找
 
 1. 「数组和字符串」例题
-    1. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
-    2. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
-    3. [498. 对角线遍历](datastructures/array/leetcode/editor/cn/DiagonalTraverse.java)
+    1. [48. 旋转图像](datastructures/matrix/leetcode/editor/cn/RotateImage.java)
+    2. [73. 矩阵置零](datastructures/matrix/leetcode/editor/cn/SetMatrixZeroes.java)
+    3. [498. 对角线遍历](datastructures/matrix/leetcode/editor/cn/DiagonalTraverse.java)
 2. 「数据结构」例题
-    1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java)
+    1. [566. 重塑矩阵](datastructures/matrix/leetcode/editor/cn/ReshapeTheMatrix.java)
 3. 「二分查找」例题
     1. [1351. 统计有序矩阵中的负数](datastructures/matrix/leetcode/editor/cn/CountNegativeNumbersInASortedMatrix.java)
     2. [74. 搜索二维矩阵](datastructures/matrix/leetcode/editor/cn/SearchA2dMatrix.java)
