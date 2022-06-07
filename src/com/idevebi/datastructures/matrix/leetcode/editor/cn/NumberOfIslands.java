@@ -1,11 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.matrix.leetcode.editor.cn;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Leetcode200NumberOfIslands {
+/**
+ * 200. 岛屿数量
+ */
+public class NumberOfIslands {
     public static void main(String[] args) {
-        Solution solution = new Leetcode200NumberOfIslands().new Solution();
+        Solution solution = new NumberOfIslands().new Solution();
 
         char[][] grid = {
                 {'1', '1', '1', '1', '0'},
@@ -26,11 +29,14 @@ public class Leetcode200NumberOfIslands {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
+        public int numIslands(char[][] grid) {
+            return numIslandsDFS(grid);
+        }
 
         /**
-         * 方法 1：DFS 递归（速度会比 BFS + Queue 快很多）
+         * 方法 2：DFS 递归（速度会比 BFS + Queue 快很多）
          */
-        public int numIslands(char[][] grid) {
+        private int numIslandsDFS(char[][] grid) {
             // 基础定义
             int w = grid[0].length;
             int h = grid.length;
@@ -66,9 +72,9 @@ public class Leetcode200NumberOfIslands {
         }
 
         /**
-         * 方法 2：BFS（提示：如果把 bfs 独立出去，在提交时容易超时）
+         * 方法 1：BFS（提示：如果把 bfs 独立出去，在提交时容易超时）
          */
-        public int numIslands3(char[][] grid) {
+        private int numIslandsBFS(char[][] grid) {
             // 基础定义
             int w = grid[0].length;
             int h = grid.length;

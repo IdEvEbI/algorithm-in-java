@@ -806,6 +806,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NumberOfIslands.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/doc/content/NumberOfIslands.md" />
+              <option name="frontendQuestionId" value="leetcode.cn200" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NumberOfIslands.java" />
+              <option name="titleSlug" value="number-of-islands" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/ReshapeTheMatrix.java">
           <value>
             <LeetcodeEditor>
@@ -1425,10 +1436,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode200NumberOfIslands.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode200NumberOfIslands.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/doc/content/NumberOfIslands.md" />
               <option name="frontendQuestionId" value="leetcode.cn200" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode200NumberOfIslands.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NumberOfIslands.java" />
               <option name="titleSlug" value="number-of-islands" />
             </LeetcodeEditor>
           </value>

@@ -117,6 +117,7 @@
     3. [1337. 矩阵中战斗力最弱的 K 行](datastructures/matrix/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java)
 4. 「图论」例题
     1. [733. 图像渲染](datastructures/matrix/leetcode/editor/cn/FloodFill.java)
+    2. [200. 岛屿数量](datastructures/matrix/leetcode/editor/cn/NumberOfIslands.java)
 
 ## 二、算法
 
