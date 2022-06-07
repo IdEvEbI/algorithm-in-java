@@ -25,13 +25,6 @@
         1. [56. 合并区间](datastructures/array/leetcode/editor/cn/MergeIntervals.java)
         2. [118. 杨辉三角](datastructures/array/leetcode/editor/cn/PascalsTriangle.java)
         3. [119. 杨辉三角 II](datastructures/array/leetcode/editor/cn/PascalsTriangleIi.java)
-3. 矩阵
-    1. 「数组和字符串」例题
-        1. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
-        2. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
-        3. [498. 对角线遍历](datastructures/array/leetcode/editor/cn/DiagonalTraverse.java)
-    2. 「数组和字符串」例题
-        1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java)
 
 ### 1.2 字符串
 
@@ -107,6 +100,19 @@
 1. 「二分查找」例题（TODO: 需要移动文件）
     1. [350. 两个数组的交集 II](algorithms/binsearch/leetcode/editor/cn/IntersectionOfTwoArraysIi.java)
     2. [1346. 检查整数及其两倍数是否存在](algorithms/binsearch/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java)
+
+### 1.8 矩阵
+
+> 课程资料：LeetBook → 数组和字符串 | 学习计划 → 数据结构 | 学习计划 → 二分查找
+
+1. 「数组和字符串」例题
+    1. [48. 旋转图像](datastructures/array/leetcode/editor/cn/RotateImage.java)
+    2. [73. 矩阵置零](datastructures/array/leetcode/editor/cn/SetMatrixZeroes.java)
+    3. [498. 对角线遍历](datastructures/array/leetcode/editor/cn/DiagonalTraverse.java)
+2. 「数据结构」例题
+    1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java)
+3. 「二分查找」例题
+    1. [1351. 统计有序矩阵中的负数](matrix/leetcode/editor/cn/CountNegativeNumbersInASortedMatrix.java)
 
 ## 二、算法
 
