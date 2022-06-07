@@ -112,7 +112,8 @@
 2. 「数据结构」例题
     1. [566. 重塑矩阵](datastructures/array/leetcode/editor/cn/ReshapeTheMatrix.java)
 3. 「二分查找」例题
-    1. [1351. 统计有序矩阵中的负数](matrix/leetcode/editor/cn/CountNegativeNumbersInASortedMatrix.java)
+    1. [1351. 统计有序矩阵中的负数](datastructures/matrix/leetcode/editor/cn/CountNegativeNumbersInASortedMatrix.java)
+    2. [74. 搜索二维矩阵](datastructures/matrix/leetcode/editor/cn/SearchA2dMatrix.java)
 
 ## 二、算法
 
