@@ -104,8 +104,9 @@
 
 > 课程资料：学习计划 → 二分查找
 
-1. 「二分查找」例题
+1. 「二分查找」例题（TODO: 需要移动文件）
     1. [350. 两个数组的交集 II](algorithms/binsearch/leetcode/editor/cn/IntersectionOfTwoArraysIi.java)
+    2. [1346. 检查整数及其两倍数是否存在](algorithms/binsearch/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java)
 
 ## 二、算法
 
@@ -178,6 +179,6 @@
     2. [852. 山脉数组的峰顶索引](algorithms/binsearch/leetcode/editor/cn/PeakIndexInAMountainArray.java)
     3. [367. 有效的完全平方数](algorithms/binsearch/leetcode/editor/cn/ValidPerfectSquare.java)
     4. [1385. 两个数组间的距离值](algorithms/binsearch/leetcode/editor/cn/FindTheDistanceValueBetweenTwoArrays.java)
-    5. [633. 平方数之和](algorithms/binsearch/leetcode/editor/cn/SumOfSquareNumbers.java) 
-    6. [1855. 下标对中的最大距离](algorithms/binsearch/leetcode/editor/cn/MaximumDistanceBetweenAPairOfValues.java) 
+    5. [633. 平方数之和](algorithms/binsearch/leetcode/editor/cn/SumOfSquareNumbers.java)
+    6. [1855. 下标对中的最大距离](algorithms/binsearch/leetcode/editor/cn/MaximumDistanceBetweenAPairOfValues.java)
     7. [33. 搜索旋转排序数组](algorithms/binsearch/leetcode/editor/cn/SearchInRotatedSortedArray.java)
