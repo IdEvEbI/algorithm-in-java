@@ -75,14 +75,14 @@ public class CountSubIslands {
         /**
          * 宽、高
          */
-        private int width, hight;
+        private int width, height;
 
         public int countSubIslands(int[][] grid1, int[][] grid2) {
             width = grid1[0].length;
-            hight = grid1.length;
+            height = grid1.length;
 
             // 1. 用地图 1 是海水 的位置填充地图 2
-            for (int r = 0; r < hight; r++) {
+            for (int r = 0; r < height; r++) {
                 for (int c = 0; c < width; c++) {
                     if (grid1[r][c] == 0 && grid2[r][c] == 1) {
                         dfs(grid2, r, c);
@@ -93,7 +93,7 @@ public class CountSubIslands {
             // 2. 再次扫描地图 2
             int count = 0;
 
-            for (int r = 0; r < hight; r++) {
+            for (int r = 0; r < height; r++) {
                 for (int c = 0; c < width; c++) {
                     if (grid2[r][c] == 1) {
                         count++;
@@ -106,7 +106,7 @@ public class CountSubIslands {
         }
 
         private void dfs(int[][] grid, int r, int c) {
-            if (r < 0 || r >= hight || c < 0 || c >= width || grid[r][c] == 0) {
+            if (r < 0 || r >= height || c < 0 || c >= width || grid[r][c] == 0) {
                 return;
             }
 

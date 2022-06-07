@@ -42,16 +42,16 @@ public class AsFarFromLandAsPossible {
         /**
          * 宽、高
          */
-        private int width, hight;
+        private int width, height;
 
         public int maxDistance(int[][] grid) {
             width = grid[0].length;
-            hight = grid.length;
+            height = grid.length;
 
             Queue<int[]> queue = new ArrayDeque<>();
 
             // 将所有陆地加入队列
-            for (int r = 0; r < hight; r++) {
+            for (int r = 0; r < height; r++) {
                 for (int c = 0; c < width; c++) {
                     if (grid[r][c] == 1) {
                         queue.offer(new int[]{r, c});
@@ -60,7 +60,7 @@ public class AsFarFromLandAsPossible {
             }
 
             // 判断是否全部是陆地或者海洋
-            if (queue.size() == 0 || queue.size() == width * hight) {
+            if (queue.size() == 0 || queue.size() == width * height) {
                 return -1;
             }
 
@@ -74,7 +74,7 @@ public class AsFarFromLandAsPossible {
                     int r = point[0] + dir[0];
                     int c = point[1] + dir[1];
 
-                    if (r < 0 || r >= hight || c < 0 || c >= width || grid[r][c] != 0) {
+                    if (r < 0 || r >= height || c < 0 || c >= width || grid[r][c] != 0) {
                         continue;
                     }
 

@@ -33,7 +33,7 @@ public class NumberOfEnclaves {
         /**
          * 宽、高
          */
-        private int width, hight;
+        private int width, height;
         /**
          * 能否访问边界标记
          */
@@ -44,22 +44,22 @@ public class NumberOfEnclaves {
          */
         public int numEnclaves(int[][] grid) {
             width = grid[0].length;
-            hight = grid.length;
-            visited = new boolean[hight][width];
+            height = grid.length;
+            visited = new boolean[height][width];
 
             // 1. 扫描与左右两条边相邻的陆地（能够到达边界的 visited 标记为 true）
-            for (int r = 0; r < hight; r++) {
+            for (int r = 0; r < height; r++) {
                 dfs(grid, r, 0);
                 dfs(grid, r, width - 1);
             }
             // 2. 扫描与上下两条边相邻的陆地（能够到达边界的 visited 标记为 true）
             for (int c = 1; c < width - 1; c++) {
                 dfs(grid, 0, c);
-                dfs(grid, hight - 1, c);
+                dfs(grid, height - 1, c);
             }
             // 3. 重新扫描地图，汇总 访问标记为 false 的陆地（不扫描边）
             int count = 0;
-            for (int r = 1; r <= hight - 1; r++) {
+            for (int r = 1; r <= height - 1; r++) {
                 for (int c = 1; c < width - 1; c++) {
                     if (grid[r][c] == 1 && !visited[r][c]) {
                         count++;
@@ -71,7 +71,7 @@ public class NumberOfEnclaves {
         }
 
         private void dfs(int[][] grid, int r, int c) {
-            if (r < 0 || c < 0 || r >= hight || c >= width || grid[r][c] == 0 || visited[r][c]) {
+            if (r < 0 || c < 0 || r >= height || c >= width || grid[r][c] == 0 || visited[r][c]) {
                 return;
             }
 
