@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.matrix.leetcode.editor.cn;
 
-public class Leetcode1254NumberOfClosedIslands {
+/**
+ * 1254. 统计封闭岛屿的数目
+ */
+public class NumberOfClosedIslands {
     public static void main(String[] args) {
-        Solution solution = new Leetcode1254NumberOfClosedIslands().new Solution();
+        Solution solution = new NumberOfClosedIslands().new Solution();
 
         int[][] grid = {
                 {0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0},

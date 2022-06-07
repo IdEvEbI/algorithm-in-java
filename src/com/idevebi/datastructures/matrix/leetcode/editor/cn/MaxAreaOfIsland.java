@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.matrix.leetcode.editor.cn;
 
-public class Leetcode695MaxAreaOfIsland {
+/**
+ * 695. 岛屿的最大面积
+ */
+public class MaxAreaOfIsland {
     public static void main(String[] args) {
-        Solution solution = new Leetcode695MaxAreaOfIsland().new Solution();
+        Solution solution = new MaxAreaOfIsland().new Solution();
 
         int[][] grid = {
                 {0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},

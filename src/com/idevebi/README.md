@@ -118,6 +118,8 @@
 4. 「图论」例题
     1. [733. 图像渲染](datastructures/matrix/leetcode/editor/cn/FloodFill.java)
     2. [200. 岛屿数量](datastructures/matrix/leetcode/editor/cn/NumberOfIslands.java)
+    3. [695. 岛屿的最大面积](datastructures/matrix/leetcode/editor/cn/doc/content/MaxAreaOfIsland.md)
+    4. [1254. 统计封闭岛屿的数目](datastructures/matrix/leetcode/editor/cn/NumberOfClosedIslands.java)
 
 ## 二、算法
 
