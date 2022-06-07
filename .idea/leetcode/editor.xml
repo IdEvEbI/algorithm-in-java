@@ -146,6 +146,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SpecialArrayWithXElementsGreaterThanOrEqualX.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/SpecialArrayWithXElementsGreaterThanOrEqualX.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1608" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SpecialArrayWithXElementsGreaterThanOrEqualX.java" />
+              <option name="titleSlug" value="special-array-with-x-elements-greater-than-or-equal-x" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/Sqrtx.java">
           <value>
             <LeetcodeEditor>
@@ -1326,10 +1337,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/SpecialArrayWithXElementsGreaterThanOrEqualX.md" />
               <option name="frontendQuestionId" value="leetcode.cn1608" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SpecialArrayWithXElementsGreaterThanOrEqualX.java" />
               <option name="titleSlug" value="special-array-with-x-elements-greater-than-or-equal-x" />
             </LeetcodeEditor>
           </value>

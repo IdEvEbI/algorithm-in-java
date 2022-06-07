@@ -44,4 +44,4 @@ x 不能取更大的值，因为 nums 中只有两个元素。</pre>
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>数组</li><li>二分查找</li><li>排序</li></div></div><br><div><li>👍 63</li><li>👎 0</li></div>
+<div><li>👍 65</li><li>👎 0</li></div>

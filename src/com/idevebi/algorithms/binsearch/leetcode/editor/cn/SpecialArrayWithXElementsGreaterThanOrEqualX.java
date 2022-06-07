@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX {
+/**
+ * 1608. 特殊数组的特征值
+ */
+public class SpecialArrayWithXElementsGreaterThanOrEqualX {
     public static void main(String[] args) {
-        Solution solution = new Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX().new Solution();
+        Solution solution = new SpecialArrayWithXElementsGreaterThanOrEqualX().new Solution();
 
         System.out.println(solution.specialArray(new int[]{3, 5}));
         System.out.println(solution.specialArray(new int[]{0, 0}));
@@ -14,8 +17,8 @@ public class Leetcode1608SpecialArrayWithXElementsGreaterThanOrEqualX {
     class Solution {
         /**
          * 1. 目标：在 [1, nums.length] 之间查找特征值 x
-         * 1. 特征值不可能为 0
-         * 2. x 有可能不是 nums 中的数字
+         * 1.1 特征值不可能为 0
+         * 1.2 x 有可能不是 nums 中的数字
          * 2. 定义目标数，用 二分查找 的方式实现
          */
         public int specialArray(int[] nums) {
