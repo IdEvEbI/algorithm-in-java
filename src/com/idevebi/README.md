@@ -100,6 +100,13 @@
 1. 「编程能力」例题
     1. [589. N 叉树的前序遍历](datastructures/tree/leetcode/editor/cn/NAryTreePreorderTraversal.java)
 
+### 1.7 哈希表
+
+> 课程资料：学习计划 → 二分查找
+
+1. 「二分查找」例题
+    1. [350. 两个数组的交集 II](algorithms/binsearch/leetcode/editor/cn/IntersectionOfTwoArraysIi.java)
+
 ## 二、算法
 
 ### 2.1 编程能力
