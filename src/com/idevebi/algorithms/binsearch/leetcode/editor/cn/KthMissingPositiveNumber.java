@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.binsearch.leetcode.editor.cn;
 
-public class Leetcode1539KthMissingPositiveNumber {
+/**
+ * 1539. 第 k 个缺失的正整数
+ */
+public class KthMissingPositiveNumber {
     public static void main(String[] args) {
-        Solution solution = new Leetcode1539KthMissingPositiveNumber().new Solution();
+        Solution solution = new KthMissingPositiveNumber().new Solution();
 
         System.out.println(solution.findKthPositive(new int[]{1, 2, 3, 4}, 2));
         System.out.println(solution.findKthPositive(new int[]{2, 3, 4, 7, 11}, 5));
@@ -10,6 +13,10 @@ public class Leetcode1539KthMissingPositiveNumber {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
+        public int findKthPositive(int[] arr, int k) {
+            return findWithBisection(arr, k);
+        }
+
         /**
          * 方法 2：二分法
          * <p>
@@ -24,7 +31,7 @@ public class Leetcode1539KthMissingPositiveNumber {
          * 3. 用二分法找到最接近的 索引(left)
          * 4. 返回 left + 1 + k
          */
-        public int findKthPositive(int[] arr, int k) {
+        private int findWithBisection(int[] arr, int k) {
             int left = 0;
             int right = arr.length - 1;
             int len = arr.length;
@@ -50,7 +57,7 @@ public class Leetcode1539KthMissingPositiveNumber {
         /**
          * 方法 1：暴力枚举
          */
-        public int findKthPositive2(int[] arr, int k) {
+        private int bruteForce(int[] arr, int k) {
             // 目标数，初始为 -1
             int target = -1;
 
