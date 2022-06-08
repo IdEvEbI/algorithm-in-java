@@ -927,6 +927,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/ShortestBridge.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/doc/content/ShortestBridge.md" />
+              <option name="frontendQuestionId" value="leetcode.cn934" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/ShortestBridge.java" />
+              <option name="titleSlug" value="shortest-bridge" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/ShortestPathInBinaryMatrix.java">
           <value>
             <LeetcodeEditor>
