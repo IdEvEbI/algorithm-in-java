@@ -136,6 +136,7 @@
 1. 「图论」例题
     1. [797. 所有可能的路径](datastructures/graph/leetcode/editor/cn/AllPathsFromSourceToTarget.java)
     2. [841. 钥匙和房间](datastructures/graph/leetcode/editor/cn/KeysAndRooms.java)
+    3. [547. 省份数量](datastructures/graph/leetcode/editor/cn/NumberOfProvinces.java)
 
 ## 二、算法
 
