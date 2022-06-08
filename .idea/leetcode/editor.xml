@@ -597,6 +597,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/FindEventualSafeStates.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/doc/content/FindEventualSafeStates.md" />
+              <option name="frontendQuestionId" value="leetcode.cn802" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/FindEventualSafeStates.java" />
+              <option name="titleSlug" value="find-eventual-safe-states" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/KeysAndRooms.java">
           <value>
             <LeetcodeEditor>
