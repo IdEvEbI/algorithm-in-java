@@ -125,6 +125,7 @@
     7. [1162. 地图分析](datastructures/matrix/leetcode/editor/cn/AsFarFromLandAsPossible.java)
     8. [417. 太平洋大西洋水流问题](datastructures/matrix/leetcode/editor/cn/PacificAtlanticWaterFlow.java)
     9. [1091. 二进制矩阵中的最短路径](datastructures/matrix/leetcode/editor/cn/ShortestPathInBinaryMatrix.java)
+    10. [542. 01 矩阵](datastructures/matrix/leetcode/editor/cn/Zero1Matrix.java)
 
 ## 二、算法
 
