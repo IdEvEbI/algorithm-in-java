@@ -138,6 +138,7 @@
     2. [841. 钥匙和房间](datastructures/graph/leetcode/editor/cn/KeysAndRooms.java)
     3. [547. 省份数量](datastructures/graph/leetcode/editor/cn/NumberOfProvinces.java)
     4. [1319. 连通网络的操作次数](datastructures/graph/leetcode/editor/cn/NumberOfOperationsToMakeNetworkConnected.java)
+    5. [1376. 通知所有员工所需的时间](datastructures/graph/leetcode/editor/cn/TimeNeededToInformAllEmployees.java)
 
 ## 二、算法
 
