@@ -839,6 +839,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NearestExitFromEntranceInMaze.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/doc/content/NearestExitFromEntranceInMaze.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1926" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NearestExitFromEntranceInMaze.java" />
+              <option name="titleSlug" value="nearest-exit-from-entrance-in-maze" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/matrix/leetcode/editor/cn/NumberOfClosedIslands.java">
           <value>
             <LeetcodeEditor>

@@ -127,6 +127,7 @@
     9. [1091. 二进制矩阵中的最短路径](datastructures/matrix/leetcode/editor/cn/ShortestPathInBinaryMatrix.java)
     10. [542. 01 矩阵](datastructures/matrix/leetcode/editor/cn/Zero1Matrix.java)
     11. [934. 最短的桥](datastructures/matrix/leetcode/editor/cn/ShortestBridge.java)
+    12. [1926. 迷宫中离入口最近的出口](datastructures/matrix/leetcode/editor/cn/NearestExitFromEntranceInMaze.java)
 
 ## 二、算法
 
