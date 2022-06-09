@@ -143,9 +143,10 @@
     7. [847. 访问所有节点的最短路径](datastructures/graph/leetcode/editor/cn/ShortestPathVisitingAllNodes.java)
     8. [127. 单词接龙](datastructures/graph/leetcode/editor/cn/WordLadder.java)
     9. [997. 找到小镇的法官](datastructures/graph/leetcode/editor/cn/FindTheTownJudge.java)
-    10. [1615. 最大网络秩](datastructures/graph/leetcode/editor/cn/MaximalNetworkRank.java) 
-    11. [886. 可能的二分法](datastructures/graph/leetcode/editor/cn/PossibleBipartition.java) 
-    12. [785. 判断二分图](datastructures/graph/leetcode/editor/cn/IsGraphBipartite.java)
+    10. [1557. 可以到达所有点的最少点数目](datastructures/graph/leetcode/editor/cn/MinimumNumberOfVerticesToReachAllNodes.java)
+    11. [1615. 最大网络秩](datastructures/graph/leetcode/editor/cn/MaximalNetworkRank.java) 
+    12. [886. 可能的二分法](datastructures/graph/leetcode/editor/cn/PossibleBipartition.java) 
+    13. [785. 判断二分图](datastructures/graph/leetcode/editor/cn/IsGraphBipartite.java)
 
 ## 二、算法
 
