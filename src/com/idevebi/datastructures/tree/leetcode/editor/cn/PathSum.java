@@ -1,15 +1,17 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
 
-public class Leetcode112PathSum {
+/**
+ * 112. 路径总和
+ */
+public class PathSum {
     public static void main(String[] args) {
-        Solution solution = new Leetcode112PathSum().new Solution();
+        Solution solution = new PathSum().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-        boolean b = solution.hasPathSum(root, 18);
-        System.out.println(b);
+        System.out.println(solution.hasPathSum(root, 18));
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)

@@ -99,6 +99,8 @@
     4. [102. 二叉树的层序遍历](datastructures/tree/leetcode/editor/cn/BinaryTreeLevelOrderTraversal.java)
     5. [104. 二叉树的最大深度](datastructures/tree/leetcode/editor/cn/MaximumDepthOfBinaryTree.java)
     6. [101. 对称二叉树](datastructures/tree/leetcode/editor/cn/SymmetricTree.java)
+    7. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
+    8. [112. 路径总和](datastructures/tree/leetcode/editor/cn/PathSum.java)
 
 ### 1.7 哈希表
 
