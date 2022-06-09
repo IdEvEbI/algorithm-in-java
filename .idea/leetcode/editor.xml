@@ -245,6 +245,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/LetterCasePermutation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/doc/content/LetterCasePermutation.md" />
+              <option name="frontendQuestionId" value="leetcode.cn784" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/LetterCasePermutation.java" />
+              <option name="titleSlug" value="letter-case-permutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/Triangle.java">
           <value>
             <LeetcodeEditor>
@@ -253,6 +264,39 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/Triangle.java" />
               <option name="titleSlug" value="triangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/Combinations.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/doc/content/Combinations.md" />
+              <option name="frontendQuestionId" value="leetcode.cn77" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/Combinations.java" />
+              <option name="titleSlug" value="combinations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/LetterCasePermutation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/doc/content/LetterCasePermutation.md" />
+              <option name="frontendQuestionId" value="leetcode.cn784" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/LetterCasePermutation.java" />
+              <option name="titleSlug" value="letter-case-permutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/Permutations.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/doc/content/Permutations.md" />
+              <option name="frontendQuestionId" value="leetcode.cn46" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/other/leetcode/editor/cn/Permutations.java" />
+              <option name="titleSlug" value="permutations" />
             </LeetcodeEditor>
           </value>
         </entry>
