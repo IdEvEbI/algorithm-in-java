@@ -751,6 +751,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/WaterAndJugProblem.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/doc/content/WaterAndJugProblem.md" />
+              <option name="frontendQuestionId" value="leetcode.cn365" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/WaterAndJugProblem.java" />
+              <option name="titleSlug" value="water-and-jug-problem" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/WordLadder.java">
           <value>
             <LeetcodeEditor>

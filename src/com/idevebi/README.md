@@ -141,14 +141,15 @@
     5. [1376. 通知所有员工所需的时间](datastructures/graph/leetcode/editor/cn/TimeNeededToInformAllEmployees.java)
     6. [802. 找到最终的安全状态](datastructures/graph/leetcode/editor/cn/FindEventualSafeStates.java)
     7. [847. 访问所有节点的最短路径](datastructures/graph/leetcode/editor/cn/ShortestPathVisitingAllNodes.java)
-    8. [433. 最小基因变化](datastructures/graph/leetcode/editor/cn/MinimumGeneticMutation.java) 
-    9. [752. 打开转盘锁](datastructures/graph/leetcode/editor/cn/OpenTheLock.java) 
-    10. [127. 单词接龙](datastructures/graph/leetcode/editor/cn/WordLadder.java)
-    11. [997. 找到小镇的法官](datastructures/graph/leetcode/editor/cn/FindTheTownJudge.java)
-    12. [1557. 可以到达所有点的最少点数目](datastructures/graph/leetcode/editor/cn/MinimumNumberOfVerticesToReachAllNodes.java)
-    13. [1615. 最大网络秩](datastructures/graph/leetcode/editor/cn/MaximalNetworkRank.java) 
-    14. [886. 可能的二分法](datastructures/graph/leetcode/editor/cn/PossibleBipartition.java) 
-    15. [785. 判断二分图](datastructures/graph/leetcode/editor/cn/IsGraphBipartite.java)
+    8. [365. 水壶问题](datastructures/graph/leetcode/editor/cn/WaterAndJugProblem.java) 
+    9. [433. 最小基因变化](datastructures/graph/leetcode/editor/cn/MinimumGeneticMutation.java) 
+    10. [752. 打开转盘锁](datastructures/graph/leetcode/editor/cn/OpenTheLock.java) 
+    11. [127. 单词接龙](datastructures/graph/leetcode/editor/cn/WordLadder.java)
+    12. [997. 找到小镇的法官](datastructures/graph/leetcode/editor/cn/FindTheTownJudge.java)
+    13. [1557. 可以到达所有点的最少点数目](datastructures/graph/leetcode/editor/cn/MinimumNumberOfVerticesToReachAllNodes.java)
+    14. [1615. 最大网络秩](datastructures/graph/leetcode/editor/cn/MaximalNetworkRank.java) 
+    15. [886. 可能的二分法](datastructures/graph/leetcode/editor/cn/PossibleBipartition.java) 
+    16. [785. 判断二分图](datastructures/graph/leetcode/editor/cn/IsGraphBipartite.java)
 
 ## 二、算法
 
