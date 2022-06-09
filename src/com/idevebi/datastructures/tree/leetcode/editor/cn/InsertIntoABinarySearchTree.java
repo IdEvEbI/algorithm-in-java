@@ -1,15 +1,17 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
 
-public class Leetcode701InsertIntoABinarySearchTree {
+/**
+ * 701. 二叉搜索树中的插入操作
+ */
+public class InsertIntoABinarySearchTree {
     public static void main(String[] args) {
+        Solution solution = new InsertIntoABinarySearchTree().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode701InsertIntoABinarySearchTree().new Solution();
-        solution.insertIntoBST(root, 2);
+        System.out.println(solution.insertIntoBST(root, 2));
 
         // 测试连续插入 1~5 观察二叉树退化成链表
         root = solution.insertIntoBST(null, 1);

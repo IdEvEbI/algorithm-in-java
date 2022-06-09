@@ -30,4 +30,4 @@
 	<li><code>root</code>&nbsp;是二叉搜索树</li>
 	<li><code>1 &lt;= val &lt;= 10<sup>7</sup></code></li>
 </ul>
-<div><div>Related Topics</div><div><li>树</li><li>二叉搜索树</li><li>二叉树</li></div></div><br><div><li>👍 280</li><li>👎 0</li></div>
+<div><li>👍 284</li><li>👎 0</li></div>

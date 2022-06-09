@@ -1477,6 +1477,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/SearchInABinarySearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn700" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java" />
+              <option name="titleSlug" value="search-in-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SymmetricTree.java">
           <value>
             <LeetcodeEditor>
@@ -2316,10 +2327,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode700SearchInABinarySearchTree.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode700SearchInABinarySearchTree.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/SearchInABinarySearchTree.md" />
               <option name="frontendQuestionId" value="leetcode.cn700" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode700SearchInABinarySearchTree.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java" />
               <option name="titleSlug" value="search-in-a-binary-search-tree" />
             </LeetcodeEditor>
           </value>

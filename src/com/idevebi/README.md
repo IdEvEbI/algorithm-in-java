@@ -101,6 +101,8 @@
     6. [101. 对称二叉树](datastructures/tree/leetcode/editor/cn/SymmetricTree.java)
     7. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
     8. [112. 路径总和](datastructures/tree/leetcode/editor/cn/PathSum.java)
+    9. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
+    10. [701. 二叉搜索树中的插入操作](datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java)
 
 ### 1.7 哈希表
 
