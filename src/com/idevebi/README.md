@@ -98,6 +98,7 @@
     3. [145. 二叉树的后序遍历](datastructures/tree/leetcode/editor/cn/BinaryTreePostorderTraversal.java)
     4. [102. 二叉树的层序遍历](datastructures/tree/leetcode/editor/cn/BinaryTreeLevelOrderTraversal.java)
     5. [104. 二叉树的最大深度](datastructures/tree/leetcode/editor/cn/MaximumDepthOfBinaryTree.java)
+    6. [101. 对称二叉树](datastructures/tree/leetcode/editor/cn/SymmetricTree.java)
 
 ### 1.7 哈希表
 
