@@ -223,6 +223,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/ClimbingStairs.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/doc/content/ClimbingStairs.md" />
+              <option name="frontendQuestionId" value="leetcode.cn70" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/ClimbingStairs.java" />
+              <option name="titleSlug" value="climbing-stairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/HouseRobber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/doc/content/HouseRobber.md" />
+              <option name="frontendQuestionId" value="leetcode.cn198" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/HouseRobber.java" />
+              <option name="titleSlug" value="house-robber" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/sort/leetcode/editor/cn/BaShuZuPaiChengZuiXiaoDeShuLcof.java">
           <value>
             <LeetcodeEditor>
@@ -1909,10 +1931,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode198HouseRobber.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode198HouseRobber.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/doc/content/HouseRobber.md" />
               <option name="frontendQuestionId" value="leetcode.cn198" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode198HouseRobber.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/HouseRobber.java" />
               <option name="titleSlug" value="house-robber" />
             </LeetcodeEditor>
           </value>
@@ -2448,10 +2470,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode70ClimbingStairs.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode70ClimbingStairs.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/doc/content/ClimbingStairs.md" />
               <option name="frontendQuestionId" value="leetcode.cn70" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode70ClimbingStairs.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/dynamicProgramming/leetcode/editor/cn/ClimbingStairs.java" />
               <option name="titleSlug" value="climbing-stairs" />
             </LeetcodeEditor>
           </value>

@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.dynamicProgramming.leetcode.editor.cn;
 
-public class Leetcode198HouseRobber {
+/**
+ * 198. 打家劫舍
+ */
+public class HouseRobber {
     public static void main(String[] args) {
-        Solution solution = new Leetcode198HouseRobber().new Solution();
+        Solution solution = new HouseRobber().new Solution();
 
         System.out.println(solution.rob(new int[]{2, 7, 9, 3, 1}));
     }
@@ -18,6 +21,7 @@ public class Leetcode198HouseRobber {
             if (len == 1) {
                 return nums[0];
             }
+
             // 偷第 1 个房间获得的钱
             int first = nums[0];
             // 偷前 2 个房间获得的钱

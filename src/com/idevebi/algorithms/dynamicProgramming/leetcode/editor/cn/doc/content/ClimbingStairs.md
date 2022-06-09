@@ -31,4 +31,4 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 45</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>记忆化搜索</li><li>数学</li><li>动态规划</li></div></div><br><div><li>👍 2441</li><li>👎 0</li></div>
+<div><li>👍 2459</li><li>👎 0</li></div>

@@ -1,8 +1,11 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.algorithms.dynamicProgramming.leetcode.editor.cn;
 
-public class Leetcode70ClimbingStairs {
+/**
+ * 70. 爬楼梯
+ */
+public class ClimbingStairs {
     public static void main(String[] args) {
-        Solution solution = new Leetcode70ClimbingStairs().new Solution();
+        Solution solution = new ClimbingStairs().new Solution();
 
         System.out.println(solution.climbStairs(0));
         System.out.println(solution.climbStairs(1));

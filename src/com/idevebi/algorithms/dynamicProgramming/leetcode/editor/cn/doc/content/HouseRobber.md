@@ -29,4 +29,4 @@
 	<li><code>1 <= nums.length <= 100</code></li>
 	<li><code>0 <= nums[i] <= 400</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>数组</li><li>动态规划</li></div></div><br><div><li>👍 2144</li><li>👎 0</li></div>
+<div><li>👍 2151</li><li>👎 0</li></div>
