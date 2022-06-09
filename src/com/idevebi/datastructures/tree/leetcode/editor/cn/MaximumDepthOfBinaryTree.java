@@ -1,17 +1,17 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
 
-public class Leetcode104MaximumDepthOfBinaryTree {
+/**
+ * 104. 二叉树的最大深度
+ */
+public class MaximumDepthOfBinaryTree {
     public static void main(String[] args) {
+        Solution solution = new MaximumDepthOfBinaryTree().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode104MaximumDepthOfBinaryTree().new Solution();
-
-        int depth = solution.maxDepth(root);
-        System.out.println(depth);
+        System.out.println(solution.maxDepth(root));
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)

@@ -31,4 +31,4 @@
 	<li>树中节点数目在范围 <code>[0, 2000]</code> 内</li>
 	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>树</li><li>广度优先搜索</li><li>二叉树</li></div></div><br><div><li>👍 1338</li><li>👎 0</li></div>
+<div><li>👍 1352</li><li>👎 0</li></div>

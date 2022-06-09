@@ -1,4 +1,4 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
@@ -8,13 +8,14 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-public class Leetcode102BinaryTreeLevelOrderTraversal {
+/**
+ * 102. 二叉树的层序遍历
+ */
+public class BinaryTreeLevelOrderTraversal {
     public static void main(String[] args) {
+        Solution solution = new BinaryTreeLevelOrderTraversal().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode102BinaryTreeLevelOrderTraversal().new Solution();
-
         List<List<Integer>> list = solution.levelOrder(root);
         System.out.println(list);
     }
@@ -22,11 +23,14 @@ public class Leetcode102BinaryTreeLevelOrderTraversal {
     //leetcode submit region begin(Prohibit modification and deletion)
 
     class Solution {
+        public List<List<Integer>> levelOrder(TreeNode root) {
+            return levelOrderWithRecursion(root);
+        }
 
         /**
-         * 递归遍历
+         * 方法 2：递归实现层序遍历
          */
-        public List<List<Integer>> levelOrder(TreeNode root) {
+        private List<List<Integer>> levelOrderWithRecursion(TreeNode root) {
             // 遍历结果
             List<List<Integer>> res = new ArrayList<>();
 
@@ -34,12 +38,12 @@ public class Leetcode102BinaryTreeLevelOrderTraversal {
                 return res;
             }
 
-            level(root, res, 0);
+            levelBFS(root, res, 0);
 
             return res;
         }
 
-        private void level(TreeNode root, List<List<Integer>> res, int h) {
+        private void levelBFS(TreeNode root, List<List<Integer>> res, int h) {
             if (root == null) {
                 return;
             }
@@ -48,14 +52,14 @@ public class Leetcode102BinaryTreeLevelOrderTraversal {
             }
 
             res.get(h).add(root.val);
-            level(root.left, res, h + 1);
-            level(root.right, res, h + 1);
+            levelBFS(root.left, res, h + 1);
+            levelBFS(root.right, res, h + 1);
         }
 
         /**
-         * 利用队列迭代遍历
+         * 方法 1：利用队列迭代遍历
          */
-        public List<List<Integer>> levelOrder2(TreeNode root) {
+        private List<List<Integer>> levelOrderWithBFS(TreeNode root) {
             // 遍历结果
             List<List<Integer>> res = new ArrayList<>();
 
@@ -81,7 +85,6 @@ public class Leetcode102BinaryTreeLevelOrderTraversal {
                         queue.offer(n.right);
                     }
                 }
-
                 res.add(l);
             }
 
