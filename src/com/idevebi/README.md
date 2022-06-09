@@ -142,7 +142,8 @@
     6. [802. 找到最终的安全状态](datastructures/graph/leetcode/editor/cn/FindEventualSafeStates.java)
     7. [847. 访问所有节点的最短路径](datastructures/graph/leetcode/editor/cn/ShortestPathVisitingAllNodes.java)
     8. [127. 单词接龙](datastructures/graph/leetcode/editor/cn/WordLadder.java)
-    9. [785. 判断二分图](datastructures/graph/leetcode/editor/cn/IsGraphBipartite.java)
+    9. [1615. 最大网络秩](datastructures/graph/leetcode/editor/cn/MaximalNetworkRank.java) 
+    10. [785. 判断二分图](datastructures/graph/leetcode/editor/cn/IsGraphBipartite.java)
 
 ## 二、算法
 
