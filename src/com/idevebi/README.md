@@ -104,7 +104,7 @@
     9. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
     10. [701. 二叉搜索树中的插入操作](datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java)
     11. [98. 验证二叉搜索树](datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java)
-    12. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java) 
+    12. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)
     13. [235. 二叉搜索树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
 
 ### 1.7 哈希表
@@ -249,3 +249,12 @@
     11. [633. 平方数之和](algorithms/binsearch/leetcode/editor/cn/SumOfSquareNumbers.java)
     12. [1855. 下标对中的最大距离](algorithms/binsearch/leetcode/editor/cn/MaximumDistanceBetweenAPairOfValues.java)
     13. [33. 搜索旋转排序数组](algorithms/binsearch/leetcode/editor/cn/SearchInRotatedSortedArray.java)
+
+### 2.5 位运算
+
+> 课程资料：学习计划 → 算法
+
+1. 「算法」例题
+    1. [231. 2 的幂](algorithms/bitmanipulation/leetcode/editor/cn/PowerOfTwo.java)
+
+
