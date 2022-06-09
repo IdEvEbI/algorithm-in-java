@@ -608,6 +608,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/FindTheTownJudge.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/doc/content/FindTheTownJudge.md" />
+              <option name="frontendQuestionId" value="leetcode.cn997" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/FindTheTownJudge.java" />
+              <option name="titleSlug" value="find-the-town-judge" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/graph/leetcode/editor/cn/IsGraphBipartite.java">
           <value>
             <LeetcodeEditor>
