@@ -256,5 +256,4 @@
 
 1. 「算法」例题
     1. [231. 2 的幂](algorithms/bitmanipulation/leetcode/editor/cn/PowerOfTwo.java)
-
-
+    2. [190. 颠倒二进制位](algorithms/bitmanipulation/leetcode/editor/cn/ReverseBits.java)
