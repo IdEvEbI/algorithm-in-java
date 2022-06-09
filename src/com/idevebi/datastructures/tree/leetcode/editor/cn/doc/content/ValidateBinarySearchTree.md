@@ -33,4 +33,4 @@
 	<li>树中节点数目范围在<code>[1, 10<sup>4</sup>]</code> 内</li>
 	<li><code>-2<sup>31</sup> &lt;= Node.val &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
-<div><div>Related Topics</div><div><li>树</li><li>深度优先搜索</li><li>二叉搜索树</li><li>二叉树</li></div></div><br><div><li>👍 1596</li><li>👎 0</li></div>
+<div><li>👍 1617</li><li>👎 0</li></div>

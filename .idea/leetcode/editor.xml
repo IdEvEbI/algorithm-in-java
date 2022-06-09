@@ -1433,6 +1433,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/InsertIntoABinarySearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn701" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java" />
+              <option name="titleSlug" value="insert-into-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java">
           <value>
             <LeetcodeEditor>
@@ -1441,6 +1452,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java" />
               <option name="titleSlug" value="invert-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/LowestCommonAncestorOfABinarySearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn235" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1496,6 +1518,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SymmetricTree.java" />
               <option name="titleSlug" value="symmetric-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/ValidateBinarySearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn98" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java" />
+              <option name="titleSlug" value="validate-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1964,10 +1997,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode235LowestCommonAncestorOfABinarySearchTree.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode235LowestCommonAncestorOfABinarySearchTree.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/LowestCommonAncestorOfABinarySearchTree.md" />
               <option name="frontendQuestionId" value="leetcode.cn235" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode235LowestCommonAncestorOfABinarySearchTree.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java" />
               <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-search-tree" />
             </LeetcodeEditor>
           </value>
@@ -2338,10 +2371,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode701InsertIntoABinarySearchTree.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode701InsertIntoABinarySearchTree.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/InsertIntoABinarySearchTree.md" />
               <option name="frontendQuestionId" value="leetcode.cn701" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode701InsertIntoABinarySearchTree.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java" />
               <option name="titleSlug" value="insert-into-a-binary-search-tree" />
             </LeetcodeEditor>
           </value>
@@ -2536,10 +2569,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode98ValidateBinarySearchTree.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode98ValidateBinarySearchTree.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/ValidateBinarySearchTree.md" />
               <option name="frontendQuestionId" value="leetcode.cn98" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode98ValidateBinarySearchTree.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java" />
               <option name="titleSlug" value="validate-binary-search-tree" />
             </LeetcodeEditor>
           </value>

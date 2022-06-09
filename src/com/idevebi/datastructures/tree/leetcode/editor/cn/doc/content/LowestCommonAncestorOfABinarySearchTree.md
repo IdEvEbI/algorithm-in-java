@@ -29,4 +29,4 @@
 	<li>所有节点的值都是唯一的。</li>
 	<li>p、q 为不同节点且均存在于给定的二叉搜索树中。</li>
 </ul>
-<div><div>Related Topics</div><div><li>树</li><li>深度优先搜索</li><li>二叉搜索树</li><li>二叉树</li></div></div><br><div><li>👍 841</li><li>👎 0</li></div>
+<div><li>👍 852</li><li>👎 0</li></div>

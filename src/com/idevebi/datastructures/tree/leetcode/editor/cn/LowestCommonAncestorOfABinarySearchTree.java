@@ -1,15 +1,16 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
 
-public class Leetcode235LowestCommonAncestorOfABinarySearchTree {
+/**
+ * 235. 二叉搜索树的最近公共祖先
+ */
+public class LowestCommonAncestorOfABinarySearchTree {
     public static void main(String[] args) {
+        Solution solution = new LowestCommonAncestorOfABinarySearchTree().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode235LowestCommonAncestorOfABinarySearchTree().new Solution();
-
         System.out.println(solution.lowestCommonAncestor(root, root.left, root.left.right).val);
         System.out.println(solution.lowestCommonAncestor(root, root.right.left, root.right.right).val);
     }

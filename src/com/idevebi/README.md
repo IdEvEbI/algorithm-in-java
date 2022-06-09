@@ -103,6 +103,8 @@
     8. [112. 路径总和](datastructures/tree/leetcode/editor/cn/PathSum.java)
     9. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
     10. [701. 二叉搜索树中的插入操作](datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java)
+    11. [98. 验证二叉搜索树](datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java)
+    12. [235. 二叉搜索树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
 
 ### 1.7 哈希表
 

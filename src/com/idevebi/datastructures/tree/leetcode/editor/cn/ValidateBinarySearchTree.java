@@ -1,4 +1,4 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
@@ -8,18 +8,13 @@ import java.util.LinkedList;
 
 /**
  * 98. 验证二叉搜索树
- * <p>
- * 题目链接：<a href="https://leetcode.cn/problems/validate-binary-search-tree/">https://leetcode.cn/problems/validate-binary-search-tree/</a>
  */
-public class Leetcode98ValidateBinarySearchTree {
+public class ValidateBinarySearchTree {
     public static void main(String[] args) {
+        Solution solution = new ValidateBinarySearchTree().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode98ValidateBinarySearchTree().new Solution();
-
-        boolean ans = solution.isValidBST(root);
-        System.out.println(ans);
+        System.out.println(solution.isValidBST(root));
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
@@ -38,6 +33,7 @@ public class Leetcode98ValidateBinarySearchTree {
             if (root.val <= minValue || root.val >= maxValue) {
                 return false;
             }
+
             // 左子树的所有值都小于 root.val && 右子树的所有值都大于 root.val
             return valid(root.left, minValue, root.val) && valid(root.right, root.val, maxValue);
         }
