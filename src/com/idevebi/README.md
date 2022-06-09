@@ -140,7 +140,8 @@
     4. [1319. 连通网络的操作次数](datastructures/graph/leetcode/editor/cn/NumberOfOperationsToMakeNetworkConnected.java)
     5. [1376. 通知所有员工所需的时间](datastructures/graph/leetcode/editor/cn/TimeNeededToInformAllEmployees.java)
     6. [802. 找到最终的安全状态](datastructures/graph/leetcode/editor/cn/FindEventualSafeStates.java)
-    7. [127. 单词接龙](datastructures/graph/leetcode/editor/cn/WordLadder.java)
+    7. [847. 访问所有节点的最短路径](datastructures/graph/leetcode/editor/cn/ShortestPathVisitingAllNodes.java)
+    8. [127. 单词接龙](datastructures/graph/leetcode/editor/cn/WordLadder.java)
 
 ## 二、算法
 

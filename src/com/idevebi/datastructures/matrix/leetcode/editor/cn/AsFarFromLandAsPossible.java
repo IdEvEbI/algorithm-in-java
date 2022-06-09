@@ -79,7 +79,7 @@ public class AsFarFromLandAsPossible {
                     }
 
                     grid[r][c] = grid[point[0]][point[1]] + 1;
-                    queue.offer(new int[] {r, c});
+                    queue.offer(new int[]{r, c});
                 }
             }
 

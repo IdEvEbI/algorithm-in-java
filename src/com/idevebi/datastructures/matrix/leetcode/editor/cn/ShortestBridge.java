@@ -42,13 +42,13 @@ public class ShortestBridge {
          */
         private static final int[][] dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
         /**
-         * 宽、高
-         */
-        private int width, height;
-        /**
          * BFS 搜索队列
          */
         Queue<int[]> queue;
+        /**
+         * 宽、高
+         */
+        private int width, height;
 
         /**
          * 先用 DFS 找到岛，再用 BFS 找桥
