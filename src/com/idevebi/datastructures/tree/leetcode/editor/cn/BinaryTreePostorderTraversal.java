@@ -1,4 +1,4 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
@@ -8,13 +8,14 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Leetcode145BinaryTreePostorderTraversal {
+/**
+ * 145. 二叉树的后序遍历
+ */
+public class BinaryTreePostorderTraversal {
     public static void main(String[] args) {
+        Solution solution = new BinaryTreePostorderTraversal().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode145BinaryTreePostorderTraversal().new Solution();
-
         List<Integer> list = solution.postorderTraversal(root);
         System.out.println(list);
     }
@@ -22,11 +23,39 @@ public class Leetcode145BinaryTreePostorderTraversal {
     //leetcode submit region begin(Prohibit modification and deletion)
 
     class Solution {
+        public List<Integer> postorderTraversal(TreeNode root) {
+            return postorderWithRecursion(root);
+        }
 
         /**
-         * 使用 stack 实现后续遍历
+         * 方法 2：使用递归实现后序遍历
          */
-        public List<Integer> postorderTraversal(TreeNode root) {
+        private List<Integer> postorderWithRecursion(TreeNode root) {
+            // 遍历结果
+            List<Integer> res = new ArrayList<>();
+
+            // 后序调用
+            postorder(root, res);
+
+            return res;
+        }
+
+        private void postorder(TreeNode root, List<Integer> res) {
+            if (root == null) {
+                return;
+            }
+            // 左
+            postorder(root.left, res);
+            // 右
+            postorder(root.right, res);
+            // 根
+            res.add(root.val);
+        }
+
+        /**
+         * 方法 1：使用 stack 实现后序遍历
+         */
+        private List<Integer> postorderWithStack(TreeNode root) {
             // 遍历结果
             List<Integer> res = new ArrayList<>();
 
@@ -58,31 +87,6 @@ public class Leetcode145BinaryTreePostorderTraversal {
             }
 
             return res;
-        }
-
-        /**
-         * 使用递归实现后序遍历
-         */
-        public List<Integer> postorderTraversal2(TreeNode root) {
-            // 遍历结果
-            List<Integer> res = new ArrayList<>();
-
-            // 后序调用
-            postorder(root, res);
-
-            return res;
-        }
-
-        private void postorder(TreeNode root, List<Integer> res) {
-            if (root == null) {
-                return;
-            }
-            // 左
-            postorder(root.left, res);
-            // 右
-            postorder(root.right, res);
-            // 根
-            res.add(root.val);
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)

@@ -1,4 +1,4 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
@@ -8,13 +8,14 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Leetcode144BinaryTreePreorderTraversal {
+/**
+ * 144. 二叉树的前序遍历
+ */
+public class BinaryTreePreorderTraversal {
     public static void main(String[] args) {
+        Solution solution = new BinaryTreePreorderTraversal().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode144BinaryTreePreorderTraversal().new Solution();
-
         List<Integer> list = solution.preorderTraversal(root);
         System.out.println(list);
     }
@@ -22,11 +23,39 @@ public class Leetcode144BinaryTreePreorderTraversal {
     //leetcode submit region begin(Prohibit modification and deletion)
 
     class Solution {
+        public List<Integer> preorderTraversal(TreeNode root) {
+            return preorderWithRecursion(root);
+        }
 
         /**
-         * 使用 stack 实现前序遍历
+         * 方法 2：使用递归实现前序遍历
          */
-        public List<Integer> preorderTraversal(TreeNode root) {
+        private List<Integer> preorderWithRecursion(TreeNode root) {
+            // 遍历结果
+            List<Integer> res = new ArrayList<>();
+
+            // 前序调用
+            preorder(root, res);
+
+            return res;
+        }
+
+        private void preorder(TreeNode root, List<Integer> res) {
+            if (root == null) {
+                return;
+            }
+            // 根
+            res.add(root.val);
+            // 左
+            preorder(root.left, res);
+            // 右
+            preorder(root.right, res);
+        }
+
+        /**
+         * 方法 1：使用 stack 实现前序遍历
+         */
+        private List<Integer> preorderWithStack(TreeNode root) {
             // 遍历结果
             List<Integer> res = new ArrayList<>();
 
@@ -51,31 +80,6 @@ public class Leetcode144BinaryTreePreorderTraversal {
             }
 
             return res;
-        }
-
-        /**
-         * 使用递归实现前序遍历
-         */
-        public List<Integer> preorderTraversal2(TreeNode root) {
-            // 遍历结果
-            List<Integer> res = new ArrayList<>();
-
-            // 前序调用
-            preorder(root, res);
-
-            return res;
-        }
-
-        private void preorder(TreeNode root, List<Integer> res) {
-            if (root == null) {
-                return;
-            }
-            // 根
-            res.add(root.val);
-            // 左
-            preorder(root.left, res);
-            // 右
-            preorder(root.right, res);
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)

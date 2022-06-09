@@ -35,4 +35,4 @@
 <p>&nbsp;</p>
 
 <p><strong>进阶:</strong>&nbsp;递归算法很简单，你可以通过迭代算法完成吗？</p>
-<div><div>Related Topics</div><div><li>栈</li><li>树</li><li>深度优先搜索</li><li>二叉树</li></div></div><br><div><li>👍 1446</li><li>👎 0</li></div>
+<div><li>👍 1460</li><li>👎 0</li></div>

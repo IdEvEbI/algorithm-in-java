@@ -88,10 +88,14 @@
 
 ### 1.6 树
 
-> 课程资料：学习计划 → 编程能力
+> 课程资料：学习计划 → 编程能力 | 学习计划 → 数据结构
 
 1. 「编程能力」例题
     1. [589. N 叉树的前序遍历](datastructures/tree/leetcode/editor/cn/NAryTreePreorderTraversal.java)
+2. 「数据结构」例题
+    1. [144. 二叉树的前序遍历](datastructures/tree/leetcode/editor/cn/BinaryTreePreorderTraversal.java)
+    2. [94. 二叉树的中序遍历](datastructures/tree/leetcode/editor/cn/BinaryTreeInorderTraversal.java)
+    3. [145. 二叉树的后序遍历](datastructures/tree/leetcode/editor/cn/BinaryTreePostorderTraversal.java)
 
 ### 1.7 哈希表
 
@@ -140,7 +144,7 @@
     4. [1319. 连通网络的操作次数](datastructures/graph/leetcode/editor/cn/NumberOfOperationsToMakeNetworkConnected.java)
     5. [1376. 通知所有员工所需的时间](datastructures/graph/leetcode/editor/cn/TimeNeededToInformAllEmployees.java)
     6. [802. 找到最终的安全状态](datastructures/graph/leetcode/editor/cn/FindEventualSafeStates.java)
-    7. [1129. 颜色交替的最短路径](datastructures/graph/leetcode/editor/cn/ShortestPathWithAlternatingColors.java) 
+    7. [1129. 颜色交替的最短路径](datastructures/graph/leetcode/editor/cn/ShortestPathWithAlternatingColors.java)
     8. [1466. 重新规划路线](datastructures/graph/leetcode/editor/cn/ReorderRoutesToMakeAllPathsLeadToTheCityZero.java)
     9. [847. 访问所有节点的最短路径](datastructures/graph/leetcode/editor/cn/ShortestPathVisitingAllNodes.java)
     10. [1306. 跳跃游戏 III](datastructures/graph/leetcode/editor/cn/JumpGameIii.java)
