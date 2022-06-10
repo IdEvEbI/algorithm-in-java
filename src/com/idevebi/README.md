@@ -88,7 +88,7 @@
 
 ### 1.6 树
 
-> 课程资料：LeetBook → 二叉树 | LeetBook → 二叉搜索树 | 学习计划 → 编程能力 | 学习计划 → 数据结构
+> 课程资料：LeetBook → 二叉树 | LeetBook → 二叉搜索树 | 学习计划 → 编程能力 | 学习计划 → 数据结构 | 学习计划 → 剑指 Offer
 
 1. 「编程能力」例题
     1. [589. N 叉树的前序遍历](datastructures/tree/leetcode/editor/cn/NAryTreePreorderTraversal.java)
@@ -120,6 +120,9 @@
 4. 「数据结构」例题
     1. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
     2. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)
+5. 「剑指 Offer」例题
+   1. [剑指 Offer 32 - I. 从上到下打印二叉树](datastructures/tree/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuLcof.java)
+
 
 ### 1.7 哈希表
 
