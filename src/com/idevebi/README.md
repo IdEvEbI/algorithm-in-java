@@ -129,9 +129,11 @@
 
 ### 1.7 哈希表
 
-> 课程资料：学习计划 → 二分查找
+> 课程资料：LeetBook → 哈希表（蓝） | 学习计划 → 二分查找
 
-1. 「二分查找」例题（TODO: 需要移动文件）
+1. 「 哈希表（蓝）」例题
+    1. [705. 设计哈希集合](datastructures/hash/leetcode/editor/cn/DesignHashset.java)
+2. 「二分查找」例题（TODO: 需要移动文件）
     1. [350. 两个数组的交集 II](algorithms/binsearch/leetcode/editor/cn/IntersectionOfTwoArraysIi.java)
     2. [1346. 检查整数及其两倍数是否存在](algorithms/binsearch/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java)
 
