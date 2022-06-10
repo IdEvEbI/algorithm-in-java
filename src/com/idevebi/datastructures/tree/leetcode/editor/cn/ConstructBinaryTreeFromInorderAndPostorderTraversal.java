@@ -24,8 +24,8 @@ public class ConstructBinaryTreeFromInorderAndPostorderTraversal {
     //leetcode submit region begin(Prohibit modification and deletion)
 
     class Solution {
-        private int postorderLen;
-        private int inorderLen;
+        private int postorderIndex;
+        private int inorderIndex;
 
         public TreeNode buildTree(int[] inorder, int[] postorder) {
             return buildTreeWithRecursion(inorder, postorder);
@@ -35,27 +35,29 @@ public class ConstructBinaryTreeFromInorderAndPostorderTraversal {
          * 方法 2：递归建树
          */
         private TreeNode buildTreeWithRecursion(int[] inorder, int[] postorder) {
-            postorderLen = postorder.length - 1;
-            inorderLen = inorder.length - 1;
+            postorderIndex = postorder.length - 1;
+            inorderIndex = inorder.length - 1;
 
             return build(inorder, postorder, null);
         }
 
         private TreeNode build(int[] inorder, int[] postorder, TreeNode end) {
-            if (postorderLen < 0) {
+            // 已经扫描完 后序 数组，直接返回
+            if (postorderIndex < 0) {
                 return null;
             }
 
-            TreeNode root = new TreeNode(postorder[postorderLen--]);
+            // 使用 postorderIndex 构建根节点
+            TreeNode root = new TreeNode(postorder[postorderIndex--]);
 
             // 创建右子树
-            if (inorder[inorderLen] != root.val) {
+            if (inorder[inorderIndex] != root.val) {
                 root.right = build(inorder, postorder, root);
             }
 
             // 创建左子树
-            inorderLen--;
-            if (end == null || inorder[inorderLen] != end.val) {
+            inorderIndex--;
+            if (end == null || inorder[inorderIndex] != end.val) {
                 root.left = build(inorder, postorder, end);
             }
 
