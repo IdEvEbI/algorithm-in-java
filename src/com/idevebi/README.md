@@ -120,6 +120,7 @@
     2. [590. N 叉树的后序遍历](datastructures/tree/leetcode/editor/cn/NAryTreePostorderTraversal.java)
     3. [429. N 叉树的层序遍历](datastructures/tree/leetcode/editor/cn/NAryTreeLevelOrderTraversal.java)
     4. [559. N 叉树的最大深度](datastructures/tree/leetcode/editor/cn/MaximumDepthOfNAryTree.java)
+    5. [428. 序列化和反序列化 N 叉树](datastructures/tree/leetcode/editor/cn/SerializeAndDeserializeNAryTree.java)
 4. 「数据结构」例题
     1. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
     2. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)

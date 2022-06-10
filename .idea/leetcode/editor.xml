@@ -1796,6 +1796,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SerializeAndDeserializeNAryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/SerializeAndDeserializeNAryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn428" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SerializeAndDeserializeNAryTree.java" />
+              <option name="titleSlug" value="serialize-and-deserialize-n-ary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SymmetricTree.java">
           <value>
             <LeetcodeEditor>
