@@ -1631,6 +1631,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/PopulatingNextRightPointersInEachNode.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/PopulatingNextRightPointersInEachNode.md" />
+              <option name="frontendQuestionId" value="leetcode.cn116" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/PopulatingNextRightPointersInEachNode.java" />
+              <option name="titleSlug" value="populating-next-right-pointers-in-each-node" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java">
           <value>
             <LeetcodeEditor>
