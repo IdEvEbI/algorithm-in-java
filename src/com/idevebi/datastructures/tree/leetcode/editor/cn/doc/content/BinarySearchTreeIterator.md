@@ -26,14 +26,14 @@
 
 <strong>解释</strong>
 BSTIterator bSTIterator = new BSTIterator([7, 3, 15, null, null, 9, 20]);
-bSTIterator.next(); // 返回 3
-bSTIterator.next(); // 返回 7
+bSTIterator.next();    // 返回 3
+bSTIterator.next();    // 返回 7
 bSTIterator.hasNext(); // 返回 True
-bSTIterator.next(); // 返回 9
+bSTIterator.next();    // 返回 9
 bSTIterator.hasNext(); // 返回 True
-bSTIterator.next(); // 返回 15
+bSTIterator.next();    // 返回 15
 bSTIterator.hasNext(); // 返回 True
-bSTIterator.next(); // 返回 20
+bSTIterator.next();    // 返回 20
 bSTIterator.hasNext(); // 返回 False
 </pre>
 
@@ -54,4 +54,4 @@ bSTIterator.hasNext(); // 返回 False
 <ul>
 	<li>你可以设计一个满足下述条件的解决方案吗？<code>next()</code> 和 <code>hasNext()</code> 操作均摊时间复杂度为 <code>O(1)</code> ，并使用 <code>O(h)</code> 内存。其中 <code>h</code> 是树的高度。</li>
 </ul>
-<div><div>Related Topics</div><div><li>栈</li><li>树</li><li>设计</li><li>二叉搜索树</li><li>二叉树</li><li>迭代器</li></div></div><br><div><li>👍 597</li><li>👎 0</li></div>
+<div><li>👍 603</li><li>👎 0</li></div>

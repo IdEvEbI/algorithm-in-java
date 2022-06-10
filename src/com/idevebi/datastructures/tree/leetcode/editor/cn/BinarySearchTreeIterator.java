@@ -1,17 +1,20 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
 
-import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.LinkedList;
 
-public class Leetcode173BinarySearchTreeIterator {
+/**
+ * 173. 二叉搜索树迭代器
+ */
+public class BinarySearchTreeIterator {
     public static void main(String[] args) {
 
         TreeNode root = TreeHelper.createTestTree();
 
-        BSTIterator bst = new Leetcode173BinarySearchTreeIterator().new BSTIterator(root);
+        BSTIterator bst = new BinarySearchTreeIterator().new BSTIterator(root);
 
         while (bst.hasNext()) {
             System.out.println(bst.next());
@@ -29,7 +32,7 @@ public class Leetcode173BinarySearchTreeIterator {
 
         public BSTIterator(TreeNode root) {
             this.cur = root;
-            this.stack = new ArrayDeque<>();
+            this.stack = new LinkedList<>();
         }
 
         public int next() {

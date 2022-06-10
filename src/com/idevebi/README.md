@@ -108,6 +108,7 @@
     13. [297. 二叉树的序列化与反序列化](datastructures/tree/leetcode/editor/cn/SerializeAndDeserializeBinaryTree.java)
 3. 「二叉搜索树」例题
     1. [98. 验证二叉搜索树](datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java)
+    2. [173. 二叉搜索树迭代器](datastructures/tree/leetcode/editor/cn/BinarySearchTreeIterator.java)
 4. 「数据结构」例题
     1. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
     2. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
