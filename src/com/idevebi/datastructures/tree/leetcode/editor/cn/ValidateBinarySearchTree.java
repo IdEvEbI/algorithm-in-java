@@ -23,9 +23,13 @@ public class ValidateBinarySearchTree {
          * 使用递归验证二叉搜索树
          */
         public boolean isValidBST(TreeNode root) {
+            // return validBST(root);
             return valid(root, Long.MIN_VALUE, Long.MAX_VALUE);
         }
 
+        /**
+         * 方法 2：递归
+         */
         private boolean valid(TreeNode root, long minValue, long maxValue) {
             if (root == null) {
                 return true;
@@ -39,9 +43,9 @@ public class ValidateBinarySearchTree {
         }
 
         /**
-         * 使用中序遍历验证二叉搜索树
+         * 方法 1：使用中序遍历验证二叉搜索树
          */
-        public boolean isValidBST2(TreeNode root) {
+        private boolean validBST(TreeNode root) {
             Deque<TreeNode> stack = new LinkedList<>();
             long preVal = Long.MIN_VALUE;
 

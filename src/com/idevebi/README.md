@@ -88,7 +88,7 @@
 
 ### 1.6 树
 
-> 课程资料：LeetBook → 二叉树 | 学习计划 → 编程能力 | 学习计划 → 数据结构
+> 课程资料：LeetBook → 二叉树 | LeetBook → 二叉搜索树 | 学习计划 → 编程能力 | 学习计划 → 数据结构
 
 1. 「编程能力」例题
     1. [589. N 叉树的前序遍历](datastructures/tree/leetcode/editor/cn/NAryTreePreorderTraversal.java)
@@ -106,13 +106,14 @@
     11. [117. 填充每个节点的下一个右侧节点指针 II](datastructures/tree/leetcode/editor/cn/PopulatingNextRightPointersInEachNodeIi.java)
     12. [236. 二叉树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinaryTree.java)
     13. [297. 二叉树的序列化与反序列化](datastructures/tree/leetcode/editor/cn/SerializeAndDeserializeBinaryTree.java)
-3. 「数据结构」例题
+3. 「二叉搜索树」例题
+    1. [98. 验证二叉搜索树](datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java)
+4. 「数据结构」例题
     1. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
     2. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
     3. [701. 二叉搜索树中的插入操作](datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java)
-    4. [98. 验证二叉搜索树](datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java)
-    5. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)
-    6. [235. 二叉搜索树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
+    4. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)
+    5. [235. 二叉搜索树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
 
 ### 1.7 哈希表
 
