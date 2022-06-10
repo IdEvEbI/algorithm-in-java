@@ -38,4 +38,4 @@ kthLargest.add(4);   // return 8
 	<li>最多调用 <code>add</code> 方法 <code>10<sup>4</sup></code> 次</li>
 	<li>题目数据保证，在查找第 <code>k</code> 大元素时，数组中至少有 <code>k</code> 个元素</li>
 </ul>
-<div><div>Related Topics</div><div><li>树</li><li>设计</li><li>二叉搜索树</li><li>二叉树</li><li>数据流</li><li>堆（优先队列）</li></div></div><br><div><li>👍 353</li><li>👎 0</li></div>
+<div><li>👍 354</li><li>👎 0</li></div>

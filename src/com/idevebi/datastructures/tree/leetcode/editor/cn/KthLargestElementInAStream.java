@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import java.util.PriorityQueue;
 
-public class Leetcode703KthLargestElementInAStream {
+/**
+ * 703. 数据流中的第 K 大元素
+ */
+public class KthLargestElementInAStream {
     public static void main(String[] args) {
-        KthLargest kth = new Leetcode703KthLargestElementInAStream().new KthLargest(3, new int[]{4, 5, 8, 2});
+        KthLargest kth = new KthLargestElementInAStream().new KthLargest(3, new int[]{4, 5, 8, 2});
 
         System.out.println(kth.add(3));
         System.out.println(kth.add(5));
