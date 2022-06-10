@@ -109,10 +109,11 @@
 3. 「二叉搜索树」例题
     1. [98. 验证二叉搜索树](datastructures/tree/leetcode/editor/cn/ValidateBinarySearchTree.java)
     2. [173. 二叉搜索树迭代器](datastructures/tree/leetcode/editor/cn/BinarySearchTreeIterator.java)
+    3. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
+    4. [701. 二叉搜索树中的插入操作](datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java)
+    5. [450. 删除二叉搜索树中的节点](datastructures/tree/leetcode/editor/cn/DeleteNodeInABst.java)
 4. 「数据结构」例题
     1. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
-    2. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
-    3. [701. 二叉搜索树中的插入操作](datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java)
     4. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)
     5. [235. 二叉搜索树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
 

@@ -52,4 +52,4 @@
 <p>&nbsp;</p>
 
 <p><strong>进阶：</strong> 要求算法时间复杂度为&nbsp;O(h)，h 为树的高度。</p>
-<div><div>Related Topics</div><div><li>树</li><li>二叉搜索树</li><li>二叉树</li></div></div><br><div><li>👍 765</li><li>👎 0</li></div>
+<div><li>👍 870</li><li>👎 0</li></div>

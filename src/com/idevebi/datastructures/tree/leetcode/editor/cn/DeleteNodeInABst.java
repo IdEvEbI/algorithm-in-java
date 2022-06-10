@@ -1,17 +1,18 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 import com.idevebi.datastructures.util.TreeHelper;
 
 /**
+ * 450. 删除二叉搜索树中的节点
+ * <p>
  * 参考题解：<a href="https://leetcode.cn/problems/delete-node-in-a-bst/solution/miao-dong-jiu-wan-shi-liao-by-terry2020-tc0o/">https://leetcode.cn/problems/delete-node-in-a-bst/solution/miao-dong-jiu-wan-shi-liao-by-terry2020-tc0o/</a>
  */
-public class Leetcode450DeleteNodeInABst {
+public class DeleteNodeInABst {
     public static void main(String[] args) {
+        Solution solution = new DeleteNodeInABst().new Solution();
 
         TreeNode root = TreeHelper.createTestTree();
-
-        Solution solution = new Leetcode450DeleteNodeInABst().new Solution();
 
         root = solution.deleteNode(root, 5);
         System.out.println(root);
