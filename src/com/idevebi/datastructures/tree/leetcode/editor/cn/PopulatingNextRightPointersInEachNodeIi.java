@@ -4,15 +4,15 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * 116. 填充每个节点的下一个右侧节点指针
+ * 117. 填充每个节点的下一个右侧节点指针 II
  */
-public class PopulatingNextRightPointersInEachNode {
+public class PopulatingNextRightPointersInEachNodeIi {
     public static void main(String[] args) {
-        PopulatingNextRightPointersInEachNode my = new PopulatingNextRightPointersInEachNode();
+        PopulatingNextRightPointersInEachNodeIi my = new PopulatingNextRightPointersInEachNodeIi();
 
         Solution solution = my.new Solution();
 
-        // 构建完美二叉树
+        // 构建二叉树
         Node root = my.new Node(1);
 
         root.left = my.new Node(2);
@@ -20,7 +20,6 @@ public class PopulatingNextRightPointersInEachNode {
         root.left.right = my.new Node(5);
 
         root.right = my.new Node(3);
-        root.right.left = my.new Node(6);
         root.right.right = my.new Node(7);
 
         // 填充 next 指针
@@ -59,40 +58,43 @@ public class PopulatingNextRightPointersInEachNode {
 
         /**
          * 方法 2：使用最左侧节点连接（不使用 队列）
-         * <p>
-         * 思路：
-         * 1. 根节点 的 left 是 最左节点
-         * 2. 最左节点 的 left 依旧是 最左节点
-         * ……
          */
         private Node connectWithLeftMost(Node root) {
             if (root == null) {
                 return null;
             }
 
-            // 根节点就是 最左节点
-            Node leftMost = root;
+            // 从 根节点 开始遍历
+            Node start = root;
 
-            while (leftMost.left != null) {
+            while (start != null) {
+                // 下一个起始节点
+                Node nextStart = null;
+                // 前一个节点
+                Node pre = null;
 
-                // 遍历 leftMost 所在的一层节点（下一层的 next 已经构建好）
-                Node head = leftMost;
-
-                while (head != null) {
-                    // 情况 1：head 有 左右儿子
-                    head.left.next = head.right;
-
-                    // 情况 2：head 有 next
-                    if (head.next != null) {
-                        head.right.next = head.next.left;
+                // 使用 next 指针逐层遍历
+                for (Node p = start; p != null; p = p.next) {
+                    if (p.left != null) {
+                        if (pre != null) {
+                            pre.next = p.left;
+                        }
+                        if (nextStart == null) {
+                            nextStart = p.left;
+                        }
+                        pre = p.left;
                     }
-
-                    // 向右移动 head
-                    head = head.next;
+                    if (p.right != null) {
+                        if (pre != null) {
+                            pre.next = p.right;
+                        }
+                        if (nextStart == null) {
+                            nextStart = p.right;
+                        }
+                        pre = p.right;
+                    }
                 }
-
-                // 遍历下一层
-                leftMost = leftMost.left;
+                start = nextStart;
             }
 
             return root;
@@ -107,7 +109,6 @@ public class PopulatingNextRightPointersInEachNode {
             }
 
             Queue<Node> queue = new LinkedList<>();
-            // 根节点入队
             queue.offer(root);
 
             // BFS
@@ -115,19 +116,23 @@ public class PopulatingNextRightPointersInEachNode {
                 int size = queue.size();
 
                 // 扫描当前层的所有节点
+                Node pre = null;
                 for (int i = 0; i < size; i++) {
                     Node n = queue.poll();
 
-                    // 连接
-                    if (i < size - 1) {
-                        n.next = queue.peek();
-                    }
-
-                    // 下一层节点入队（完美二叉树只需要判断左节点）
                     if (n.left != null) {
                         queue.offer(n.left);
+                    }
+                    if (n.right != null) {
                         queue.offer(n.right);
                     }
+
+                    // 前一个节点的 next 连接当前节点
+                    if (i != 0) {
+                        pre.next = n;
+                    }
+
+                    pre = n;
                 }
             }
 
