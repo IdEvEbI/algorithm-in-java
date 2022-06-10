@@ -105,6 +105,7 @@
     10. [116. 填充每个节点的下一个右侧节点指针](datastructures/tree/leetcode/editor/cn/PopulatingNextRightPointersInEachNode.java)
     11. [117. 填充每个节点的下一个右侧节点指针 II](datastructures/tree/leetcode/editor/cn/PopulatingNextRightPointersInEachNodeIi.java)
     12. [236. 二叉树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinaryTree.java)
+    13. [297. 二叉树的序列化与反序列化](datastructures/tree/leetcode/editor/cn/SerializeAndDeserializeBinaryTree.java)
 3. 「数据结构」例题
     1. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
     2. [700. 二叉搜索树中的搜索](datastructures/tree/leetcode/editor/cn/SearchInABinarySearchTree.java)
