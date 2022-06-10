@@ -138,10 +138,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
               <option name="frontendQuestionId" value="leetcode.cn35" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SearchInsertPosition.java" />
               <option name="titleSlug" value="search-insert-position" />
             </LeetcodeEditor>
           </value>
@@ -666,10 +666,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SearchInsertPosition.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/doc/content/SearchInsertPosition.md" />
               <option name="frontendQuestionId" value="leetcode.cn35" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/algorithms/binsearch/leetcode/editor/cn/SearchInsertPosition.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/array/leetcode/editor/cn/SearchInsertPosition.java" />
               <option name="titleSlug" value="search-insert-position" />
             </LeetcodeEditor>
           </value>
@@ -1543,6 +1543,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/ConstructBinaryTreeFromInorderAndPostorderTraversal.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/ConstructBinaryTreeFromInorderAndPostorderTraversal.md" />
+              <option name="frontendQuestionId" value="leetcode.cn106" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/ConstructBinaryTreeFromInorderAndPostorderTraversal.java" />
+              <option name="titleSlug" value="construct-binary-tree-from-inorder-and-postorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java">
           <value>
             <LeetcodeEditor>
@@ -1744,10 +1755,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode106ConstructBinaryTreeFromInorderAndPostorderTraversal.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode106ConstructBinaryTreeFromInorderAndPostorderTraversal.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/doc/content/ConstructBinaryTreeFromInorderAndPostorderTraversal.md" />
               <option name="frontendQuestionId" value="leetcode.cn106" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode106ConstructBinaryTreeFromInorderAndPostorderTraversal.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/tree/leetcode/editor/cn/ConstructBinaryTreeFromInorderAndPostorderTraversal.java" />
               <option name="titleSlug" value="construct-binary-tree-from-inorder-and-postorder-traversal" />
             </LeetcodeEditor>
           </value>
