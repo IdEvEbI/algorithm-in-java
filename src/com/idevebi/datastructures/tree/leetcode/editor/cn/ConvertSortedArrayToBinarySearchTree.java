@@ -1,10 +1,13 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.tree.leetcode.editor.cn;
 
 import com.idevebi.datastructures.tree.TreeNode;
 
-public class Leetcode108ConvertSortedArrayToBinarySearchTree {
+/**
+ * 108. 将有序数组转换为二叉搜索树
+ */
+public class ConvertSortedArrayToBinarySearchTree {
     public static void main(String[] args) {
-        Solution solution = new Leetcode108ConvertSortedArrayToBinarySearchTree().new Solution();
+        Solution solution = new ConvertSortedArrayToBinarySearchTree().new Solution();
 
         TreeNode n = solution.sortedArrayToBST(new int[]{-10, -3, 0, 5, 9});
         System.out.println(n);
