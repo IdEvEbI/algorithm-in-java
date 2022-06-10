@@ -113,10 +113,11 @@
     4. [701. 二叉搜索树中的插入操作](datastructures/tree/leetcode/editor/cn/InsertIntoABinarySearchTree.java)
     5. [450. 删除二叉搜索树中的节点](datastructures/tree/leetcode/editor/cn/DeleteNodeInABst.java)
     6. [703. 数据流中的第 K 大元素](datastructures/tree/leetcode/editor/cn/KthLargestElementInAStream.java)
+    7. [235. 二叉搜索树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
+    8. [220. 存在重复元素 III](datastructures/tree/leetcode/editor/cn/ContainsDuplicateIii.java)
 4. 「数据结构」例题
     1. [226. 翻转二叉树](datastructures/tree/leetcode/editor/cn/InvertBinaryTree.java)
-    4. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)
-    5. [235. 二叉搜索树的最近公共祖先](datastructures/tree/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
+    2. [653. 两数之和 IV - 输入 BST](datastructures/tree/leetcode/editor/cn/TwoSumIvInputIsABst.java)
 
 ### 1.7 哈希表
 
