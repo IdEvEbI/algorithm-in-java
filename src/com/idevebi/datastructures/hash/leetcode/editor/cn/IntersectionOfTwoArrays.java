@@ -1,12 +1,15 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.hash.leetcode.editor.cn;
 
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Leetcode349IntersectionOfTwoArrays {
+/**
+ * 349. 两个数组的交集
+ */
+public class IntersectionOfTwoArrays {
     public static void main(String[] args) {
-        Solution solution = new Leetcode349IntersectionOfTwoArrays().new Solution();
+        Solution solution = new IntersectionOfTwoArrays().new Solution();
 
         int[] nums1 = new int[]{4, 9, 5};
         int[] nums2 = new int[]{9, 4, 9, 8, 4};
