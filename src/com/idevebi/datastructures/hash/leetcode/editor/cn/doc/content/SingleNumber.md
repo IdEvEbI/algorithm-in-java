@@ -14,4 +14,4 @@
 
 <pre><strong>输入:</strong> [4,1,2,1,2]
 <strong>输出:</strong> 4</pre>
-<div><li>👍 2436</li><li>👎 0</li></div>
+<div><li>👍 2437</li><li>👎 0</li></div>

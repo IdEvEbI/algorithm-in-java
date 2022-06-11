@@ -135,6 +135,7 @@
     1. [705. 设计哈希集合](datastructures/hash/leetcode/editor/cn/DesignHashset.java)
     2. [706. 设计哈希映射](datastructures/hash/leetcode/editor/cn/DesignHashmap.java)
     3. [217. 存在重复元素](datastructures/hash/leetcode/editor/cn/ContainsDuplicate.java)
+    4. [136. 只出现一次的数字](datastructures/hash/leetcode/editor/cn/SingleNumber.java)
 2. 「二分查找」例题（TODO: 需要移动文件）
     1. [350. 两个数组的交集 II](algorithms/binsearch/leetcode/editor/cn/IntersectionOfTwoArraysIi.java)
     2. [1346. 检查整数及其两倍数是否存在](algorithms/binsearch/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java)
@@ -281,7 +282,6 @@
 1. 「算法」例题
     1. [231. 2 的幂](algorithms/bitmanipulation/leetcode/editor/cn/PowerOfTwo.java)
     2. [190. 颠倒二进制位](algorithms/bitmanipulation/leetcode/editor/cn/ReverseBits.java)
-    3. [136. 只出现一次的数字](algorithms/bitmanipulation/leetcode/editor/cn/SingleNumber.java)
 
 ### 2.6 动态规划
 

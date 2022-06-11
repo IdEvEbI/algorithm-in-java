@@ -1,4 +1,4 @@
-package com.idevebi.algorithms.bitmanipulation.leetcode.editor.cn;
+package com.idevebi.datastructures.hash.leetcode.editor.cn;
 
 /**
  * 136. 只出现一次的数字
