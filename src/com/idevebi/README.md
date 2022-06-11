@@ -139,6 +139,7 @@
     5. [349. 两个数组的交集](datastructures/hash/leetcode/editor/cn/IntersectionOfTwoArrays.java)
     6. [1. 两数之和](datastructures/hash/leetcode/editor/cn/TwoSum.java)
     7. [205. 同构字符串](datastructures/hash/leetcode/editor/cn/IsomorphicStrings.java)
+    8. [599. 两个列表的最小索引总和](datastructures/hash/leetcode/editor/cn/MinimumIndexSumOfTwoLists.java)
 2. 「二分查找」例题（TODO: 需要移动文件）
     1. [350. 两个数组的交集 II](algorithms/binsearch/leetcode/editor/cn/IntersectionOfTwoArraysIi.java)
     2. [1346. 检查整数及其两倍数是否存在](algorithms/binsearch/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java)
