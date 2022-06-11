@@ -141,6 +141,7 @@
     7. [205. 同构字符串](datastructures/hash/leetcode/editor/cn/IsomorphicStrings.java)
     8. [599. 两个列表的最小索引总和](datastructures/hash/leetcode/editor/cn/MinimumIndexSumOfTwoLists.java)
     9. [219. 存在重复元素 II](datastructures/hash/leetcode/editor/cn/ContainsDuplicateIi.java)
+    10. [424. 替换后的最长重复字符](datastructures/hash/leetcode/editor/cn/LongestRepeatingCharacterReplacement.java)
 2. 「二分查找」例题（TODO: 需要移动文件）
     1. [350. 两个数组的交集 II](algorithms/binsearch/leetcode/editor/cn/IntersectionOfTwoArraysIi.java)
     2. [1346. 检查整数及其两倍数是否存在](algorithms/binsearch/leetcode/editor/cn/CheckIfNAndItsDoubleExist.java)

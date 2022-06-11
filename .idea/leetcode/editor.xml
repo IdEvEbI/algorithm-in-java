@@ -982,6 +982,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/LongestRepeatingCharacterReplacement.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/doc/content/LongestRepeatingCharacterReplacement.md" />
+              <option name="frontendQuestionId" value="leetcode.cn424" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/LongestRepeatingCharacterReplacement.java" />
+              <option name="titleSlug" value="longest-repeating-character-replacement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/MinimumIndexSumOfTwoLists.java">
           <value>
             <LeetcodeEditor>
