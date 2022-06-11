@@ -1,16 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.hash.leetcode.editor.cn;
 
 import java.util.Arrays;
 import java.util.HashMap;
 
 /**
  * 1. 两数之和
- * <p>
- * 题目链接：<a href=" https://leetcode.cn/problems/two-sum"> https://leetcode.cn/problems/two-sum</a>/
  */
-public class Leetcode1TwoSum {
+public class TwoSum {
     public static void main(String[] args) {
-        Solution solution = new Leetcode1TwoSum().new Solution();
+        Solution solution = new TwoSum().new Solution();
 
         int[] ans = solution.twoSum(new int[]{2, 7, 11, 15}, 9);
         System.out.println(Arrays.toString(ans));
