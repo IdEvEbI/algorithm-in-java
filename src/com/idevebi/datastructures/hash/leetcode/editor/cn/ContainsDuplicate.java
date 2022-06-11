@@ -1,11 +1,14 @@
-package com.idevebi.leetcode.editor.cn;
+package com.idevebi.datastructures.hash.leetcode.editor.cn;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class Leetcode217ContainsDuplicate {
+/**
+ * 217. 存在重复元素
+ */
+public class ContainsDuplicate {
     public static void main(String[] args) {
-        Solution solution = new Leetcode217ContainsDuplicate().new Solution();
+        Solution solution = new ContainsDuplicate().new Solution();
 
         System.out.println(solution.containsDuplicate(new int[]{1, 2, 3, 1}));
         System.out.println(solution.containsDuplicate(new int[]{1, 2, 3, 4}));

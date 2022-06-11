@@ -916,6 +916,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/ContainsDuplicate.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/doc/content/ContainsDuplicate.md" />
+              <option name="frontendQuestionId" value="leetcode.cn217" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/ContainsDuplicate.java" />
+              <option name="titleSlug" value="contains-duplicate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/DesignHashmap.java">
           <value>
             <LeetcodeEditor>
@@ -2283,10 +2294,10 @@
         <entry key="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode217ContainsDuplicate.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/doc/content/Leetcode217ContainsDuplicate.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/doc/content/ContainsDuplicate.md" />
               <option name="frontendQuestionId" value="leetcode.cn217" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/leetcode/editor/cn/Leetcode217ContainsDuplicate.java" />
+              <option name="path" value="$PROJECT_DIR$/src/com/idevebi/datastructures/hash/leetcode/editor/cn/ContainsDuplicate.java" />
               <option name="titleSlug" value="contains-duplicate" />
             </LeetcodeEditor>
           </value>
